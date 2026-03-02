@@ -1,11 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap');
+﻿@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap');
 
 :root {
-  --color-primary: #047A55; /* Cantabria Green */
+  --color-primary: #047A55;
+  /* Cantabria Green */
   --color-primary-light: #34D399;
-  --color-secondary: #1D4ED8; /* Cantabria Blue */
+  --color-secondary: #1D4ED8;
+  /* Cantabria Blue */
   --color-secondary-light: #60A5FA;
-  --color-background: #F8FAFC; /* White/Light gray */
+  --color-background: #F8FAFC;
+  /* White/Light gray */
   --color-surface: #FFFFFF;
   --color-text: #1E293B;
   --color-text-muted: #64748B;
@@ -38,7 +41,12 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: 700;
   line-height: 1.2;
 }
@@ -99,8 +107,15 @@ button {
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .input-field {
@@ -124,4 +139,12 @@ button {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+}
+
+.latin-highlight {
+  font-weight: bold;
+  color: #ea580c;
+  background-color: #ffedd5;
+  padding: 0 0.1rem;
+  border-radius: 4px;
 }

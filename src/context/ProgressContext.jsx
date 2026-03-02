@@ -9,9 +9,10 @@ const initialState = {
     flashcardsReviewed: [],
     practiceCompleted: []
   },
-  finished: false
+  finished: false,
+  streak: 0,
+  lastActiveDate: null
 };
-
 const ProgressContext = createContext();
 
 export const ProgressProvider = ({ children }) => {
@@ -38,13 +39,36 @@ export const ProgressProvider = ({ children }) => {
   const markExerciseCompleted = (exerciseId, correct) => {
     if (progress.completedExerciseIds.includes(exerciseId)) return; // Already completed
 
+    const todayStr = new Date().toISOString().split('T')[0];
+    const todayDate = new Date(todayStr);
+
+    let newStreak = progress.streak || 0;
+
+    if (progress.lastActiveDate) {
+      const lastActive = new Date(progress.lastActiveDate);
+      // Calculate diff in days
+      const diffTime = Math.abs(todayDate - lastActive);
+      const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+      if (diffDays === 1) {
+        newStreak += 1;
+      } else if (diffDays > 1) {
+        newStreak = 1; // resets if missed a day
+      }
+      // If diffDays === 0, it means same day, streak stays the same
+    } else {
+      // First time completing an exercise
+      newStreak = 1;
+    }
+
     setProgress((prev) => ({
       ...prev,
       completedExerciseIds: [...prev.completedExerciseIds, exerciseId],
-      score: correct ? prev.score + 1 : prev.score
+      score: correct ? prev.score + 1 : prev.score,
+      streak: newStreak,
+      lastActiveDate: todayStr
     }));
   };
-
   const setCurrentLocation = (blockId, lessonId = 0) => {
     setProgress((prev) => ({
       ...prev,

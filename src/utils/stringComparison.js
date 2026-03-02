@@ -24,16 +24,12 @@ export const levenshteinDistance = (str1 = '', str2 = '') => {
     return track[str2.length][str1.length];
 };
 
-// Checks if the user answer is correct, allowing for minor typos
-// We allow 1 error for every 5 characters (approx)
+// Checks if the user answer is correct, requiring an exact match (ignoring case and extra spaces)
 export const isAnswerCorrect = (userAnswer, expectedAnswer) => {
+    if (!userAnswer || !expectedAnswer) return false;
+
     const normalizedUser = userAnswer.trim().toLowerCase();
     const normalizedExpected = expectedAnswer.trim().toLowerCase();
 
-    if (normalizedUser === normalizedExpected) return true;
-
-    const distance = levenshteinDistance(normalizedUser, normalizedExpected);
-    const maxErrorsAllowed = Math.max(1, Math.floor(normalizedExpected.length / 5));
-
-    return distance <= maxErrorsAllowed;
+    return normalizedUser === normalizedExpected;
 };

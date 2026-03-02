@@ -85,19 +85,18 @@ export const courseData = {
                     title: "LECCIÓN 4 ----- La J",
                     theory: "La J en cántabru si prununcia /h/, es dicir, cumu una H inglesa.\n\nEn cántabru cambean a J las H y F que vengan de una F latina.\n\nPiru hai otras palabras que tamién llevan J cumu: Jasta, Jallar o Jatu. Estas palabras hai que deprendelas, polo que n’estos tests pondremos tolas palabras pruvinientis del latín pa potenciar vocabulariu.\n\nNel restu de test, si indicarán las F u H latinas. Las qu’estén en nigrita y cursiva hai que cambealas a J.",
                     examples: [
-                        "Horno – Fornus – Jornu",
-                        "Fuente – Fontis – Juenti",
-                        "Fuerte – Fortis – Juerti",
-                        "Hacer – Facere – Jacer"
+                        "**H**orno – **F**ornus – Jornu",
+                        "**F**uente – **F**ontis – Juenti",
+                        "**F**uerte – **F**ortis – Juerti",
+                        "**H**acer – **F**acere – Jacer"
                     ],
                     exercises: [
-                        { id: "b1-l4-ex1", question: 'Traduce “Horno”', expectedAnswer: "Jornu", explanation: "F latina." },
-                        { id: "b1-l4-ex2", question: 'Traduce “Fuera”', expectedAnswer: "Juera", explanation: "F latina." },
-                        { id: "b1-l4-ex3", question: 'Traduce “Él halló unas fuentes que hacen mucho ruido”', expectedAnswer: "Él jalló unas juentis que jacin muchu ruidu", explanation: "Reglas de J, U e I aplicadas en conjunto." },
-                        { id: "b1-l4-ex4", question: 'Traduce “Ahogado”', expectedAnswer: "Ajogáu", explanation: "H intercalada con origen latino." },
-                        { id: "b1-l4-ex5", question: 'Traduce “Hierro”', expectedAnswer: "Jierru", explanation: "F latina." },
-                        { id: "b1-l4-ex6", question: 'Traduce “Hacha”', expectedAnswer: "Jacha", explanation: "F latina." },
-                        { id: "b1-l4-ex7", question: 'Traduce “Hablar”', expectedAnswer: "Jablar", explanation: "F latina." }
+                        { id: "b1-l4-ex1", question: 'Traduce “**H**orno”', expectedAnswer: "Jornu", explanation: "**F** latina." },
+                        { id: "b1-l4-ex2", question: 'Traduce “**F**uera”', expectedAnswer: "Juera", explanation: "**F** latina." },
+                        { id: "b1-l4-ex3", question: 'Traduce “Él jalló unas **f**uentes que **h**acen mucho ruido”', expectedAnswer: "Él jalló unas juentis que jacin muchu ruidu", explanation: "Reglas de J, U e I aplicadas en conjunto." },
+                        { id: "b1-l4-ex4", question: 'Traduce “A**h**ogado”', expectedAnswer: "Ajogáu", explanation: "**H** intercalada con origen latino." },
+                        { id: "b1-l4-ex5", question: 'Traduce “**H**ierro”', expectedAnswer: "Jierru", explanation: "**F** latina." },
+                        { id: "b1-l4-ex6", question: 'Traduce “**H**acha”', expectedAnswer: "Jacha", explanation: "**F** latina." }, { id: "b1-l4-ex7", question: 'Traduce “**H**ablar”', expectedAnswer: "Jablar", explanation: "**F** latina." }
                     ]
                 },
                 {
