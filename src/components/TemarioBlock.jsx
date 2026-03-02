@@ -61,7 +61,7 @@ const TemarioBlock = ({ blockIndex }) => {
         <div className="fade-in" style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
             <div className="glass-panel" style={{ padding: '2rem' }}>
                 <h2 style={{ color: 'var(--color-primary)', marginBottom: '1rem' }}>{lesson.title}</h2>
-                <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem', lineHeight: '1.8' }}>{lesson.theory}</p>
+                <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem', lineHeight: '1.8', whiteSpace: 'pre-line' }}>{lesson.theory}</p>
 
                 <div style={{ background: 'var(--color-background)', padding: '1.5rem', borderRadius: 'var(--radius-md)', borderLeft: '4px solid var(--color-primary-light)' }}>
                     <h4 style={{ marginBottom: '1rem', color: 'var(--color-text)' }}>Ejemplos:</h4>
@@ -85,14 +85,30 @@ const TemarioBlock = ({ blockIndex }) => {
                             <div key={ex.id} style={{ borderBottom: '1px solid #E2E8F0', paddingBottom: '1.5rem' }}>
                                 <p style={{ fontWeight: '600', marginBottom: '1rem' }}>{ex.question}</p>
                                 <div style={{ display: 'flex', gap: '1rem', alignItems: 'center', marginBottom: '1rem' }}>
-                                    <input
-                                        type="text"
-                                        className="input-field"
-                                        placeholder="Escribe tu respuesta aquí..."
-                                        value={userAnswers[ex.id] || ''}
-                                        onChange={(e) => setUserAnswers({ ...userAnswers, [ex.id]: e.target.value })}
-                                        disabled={isCompleted}
-                                    />
+                                    {ex.options ? (
+                                        <select
+                                            className="input-field"
+                                            value={userAnswers[ex.id] || ''}
+                                            onChange={(e) => setUserAnswers({ ...userAnswers, [ex.id]: e.target.value })}
+                                            disabled={isCompleted}
+                                            style={{ flexGrow: 1 }}
+                                        >
+                                            <option value="">Selecciona una opción</option>
+                                            {ex.options.map(opt => (
+                                                <option key={opt} value={opt}>{opt}</option>
+                                            ))}
+                                        </select>
+                                    ) : (
+                                        <input
+                                            type="text"
+                                            className="input-field"
+                                            placeholder="Escribe tu respuesta aquí..."
+                                            value={userAnswers[ex.id] || ''}
+                                            onChange={(e) => setUserAnswers({ ...userAnswers, [ex.id]: e.target.value })}
+                                            disabled={isCompleted}
+                                            style={{ flexGrow: 1 }}
+                                        />
+                                    )}
                                     {!isCompleted && (
                                         <button className="btn-primary" onClick={() => handleAnswerSubmit(ex.id, ex.expectedAnswer)}>
                                             Comprobar
