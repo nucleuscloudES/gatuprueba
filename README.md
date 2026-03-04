@@ -14,3 +14,32 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Deploy en GitHub Pages
+
+Este proyecto ya está configurado para desplegar en GitHub Pages del repositorio `gatuprueba`.
+
+### Opción 1 (automática con GitHub Actions)
+
+- Al hacer push a `main`, se ejecuta el workflow [deploy-pages.yml](.github/workflows/deploy-pages.yml) y publica la carpeta `dist`.
+- Debes tener GitHub Pages habilitado en **Settings > Pages** con **Source: GitHub Actions**.
+
+### Opción 2 (manual con script)
+
+1. Instala dependencias:
+
+	```bash
+	npm install
+	```
+
+2. Publica en GitHub Pages:
+
+	```bash
+	npm run deploy
+	```
+
+3. En GitHub, revisa en **Settings > Pages** que la fuente sea la rama `gh-pages`.
+
+URL esperada:
+
+`https://nucleuscloudes.github.io/gatuprueba/`
