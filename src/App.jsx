@@ -18,7 +18,7 @@ function App() {
       return <Home />;
     }
 
-    if (progress.currentBlock === 3) { // 3 is used for Vocabulary
+    if (progress.currentBlock === 'vocab') { // 'vocab' is used for Vocabulary
       return <VocabularyBlock />;
     }
 

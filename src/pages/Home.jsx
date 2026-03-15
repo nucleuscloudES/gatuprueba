@@ -10,7 +10,7 @@ const Home = () => {
     };
 
     const handleVocab = () => {
-        setCurrentLocation(3, 0);
+        setCurrentLocation('vocab', 0);
     };
 
     return (
@@ -23,6 +23,12 @@ const Home = () => {
                 <p style={{ color: 'var(--color-secondary-dark, #0f172a)', fontSize: '1.1rem', fontWeight: 'bold' }}>
                     Jechu por Proyeutu Montañés
                 </p>
+                <p style={{ marginBottom: '1rem' }}>
+                    <a href="https://depriendi.wordpress.com/indiz/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'underline' }}>
+                        Pa deprender más cántabru: https://depriendi.wordpress.com/indiz/
+                    </a>
+                </p>
+                <img src="/logo.png" alt="Proyeutu Montañés Logo" style={{ maxWidth: '200px', margin: '0 auto', display: 'block' }} />
             </div>
 
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '1.5rem' }}>
@@ -30,6 +36,9 @@ const Home = () => {
                     let btnStyle = {};
                     if (index === 0) btnStyle = { backgroundColor: '#10B981', color: 'white' };
                     if (index === 1) btnStyle = { backgroundColor: '#F97316', color: 'white' };
+                    if (index === 2) btnStyle = { backgroundColor: '#3B82F6', color: 'white' };
+                    if (index === 3) btnStyle = { backgroundColor: '#8B5CF6', color: 'white' };
+                    if (index === 4) btnStyle = { backgroundColor: '#EC4899', color: 'white' };
 
                     return (
                         <div key={block.id} className="glass-panel" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
