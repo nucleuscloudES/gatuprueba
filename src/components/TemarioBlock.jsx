@@ -92,10 +92,10 @@ const TemarioBlock = ({ blockIndex }) => {
                     disabled={lessonIndex === 0}
                     style={{ opacity: lessonIndex === 0 ? 0.5 : 1, cursor: lessonIndex === 0 ? 'not-allowed' : 'pointer' }}
                 >
-                    &larr; Lección Anterior
+                    &larr; Lición Antirior
                 </button>
                 <span style={{ color: 'var(--color-text-muted)', fontWeight: 'bold' }}>
-                    Lección {lessonIndex + 1} de {block.lessons.length}
+                    Lición {lessonIndex + 1} de {block.lessons.length}
                 </span>
             </div>
 
@@ -194,7 +194,7 @@ const TemarioBlock = ({ blockIndex }) => {
                     disabled={!allExercisesCompleted && !lesson.interactiveVocab}
                     style={{ opacity: (!allExercisesCompleted && !lesson.interactiveVocab) ? 0.5 : 1 }}
                 >
-                    {lessonIndex < block.lessons.length - 1 ? 'Siguiente Lección' : 'Completar Bloque'}
+                    {lessonIndex < block.lessons.length - 1 ? 'Siguienti Lición' : 'Completar Bloqui'}
                 </button>
             </div>
         </div>

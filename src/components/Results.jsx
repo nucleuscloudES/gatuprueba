@@ -35,7 +35,7 @@ const Results = () => {
             <h1 style={{ color: 'var(--color-primary)', fontSize: '3rem', marginBottom: '1rem' }}>¡Curso Completado!</h1>
 
             <div style={{ margin: '3rem 0', background: 'var(--color-background)', padding: '2rem', borderRadius: 'var(--radius-lg)' }}>
-                <h2 style={{ fontSize: '1.5rem', color: 'var(--color-text-muted)', marginBottom: '0.5rem' }}>Tu Puntuación</h2>
+                <h2 style={{ fontSize: '1.5rem', color: 'var(--color-text-muted)', marginBottom: '0.5rem' }}>Tu Puntaji</h2>
                 <div style={{ fontSize: '4rem', fontWeight: 'bold', color: 'var(--color-secondary)' }}>
                     {progress.score} <span style={{ fontSize: '2rem', color: 'var(--color-text-muted)' }}>/ {totalExercises}</span>
                 </div>
