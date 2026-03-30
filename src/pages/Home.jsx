@@ -12,7 +12,7 @@ const Home = () => {
     return (
         <div className="fade-in" style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
             <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
-                <h1 style={{ color: 'var(--color-primary)', fontSize: '2.5rem', marginBottom: '0.5rem' }}>Aprende Cántabru</h1>
+                <h1 style={{ color: 'var(--color-primary)', fontSize: '2.5rem', marginBottom: '0.5rem' }}>Depriendi Cántabru</h1>
                 <p style={{ color: 'var(--color-text-muted)', fontSize: '1.2rem', marginBottom: '1rem' }}>
                     Iscubri'l cántabru de jorma cincía y prugrisiva
                 </p>
