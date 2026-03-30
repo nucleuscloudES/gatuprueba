@@ -3,7 +3,7 @@ import { useProgress } from '../context/ProgressContext';
 import { courseData } from '../data/courseData';
 
 const Results = () => {
-    const { progress, resetProgress, setCurrentLocation } = useProgress();
+    const { progress, resetProgress, setCurrentLocation, updateProgress } = useProgress();
 
     // Calculate total possible score
     const totalExercises = courseData.blocks.reduce((acc, block) =>
@@ -26,8 +26,8 @@ const Results = () => {
     }
 
     const handleReturnToCourse = () => {
-        // Simply go to home page but keep progress
-        setCurrentLocation(null, 0);
+        // Return to home page, keep progression but mark finished as false so App.jsx doesn't lock to Results
+        updateProgress({ finished: false, currentBlock: null, currentLesson: 0 });
     };
 
     return (

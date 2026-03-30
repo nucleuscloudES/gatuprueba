@@ -24,7 +24,7 @@ const Home = () => {
                         Pa deprender más cántabru: ÍNDICI | Proyeutu Depriendi
                     </a>
                 </p>
-                <img src="/foto.png" alt="Logo Cántabru" style={{ maxWidth: '200px', margin: '0 auto', display: 'block' }} />
+                <img src="/foto.jpg" alt="Logo Cántabru" style={{ maxWidth: '200px', margin: '0 auto', display: 'block' }} />
             </div>
 
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '1.5rem' }}>
