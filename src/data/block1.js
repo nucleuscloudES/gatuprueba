@@ -60,7 +60,7 @@ Los verbos acabados en “te”, “se”, “me” y “le” puéin acabar de 
                 { id: "b1-l2-ex5", question: 'Traduce “¿Qué dices?”', expectedAnswer: "¿Qué dicis?", explanation: "" },
                 { id: "b1-l2-ex6", question: 'Traduce “Lee y bebe un té”', expectedAnswer: "Lei y bebi un té", explanation: "" },
                 { id: "b1-l2-ex7", question: 'Traduce “Aparqué por ese monte”', expectedAnswer: "Aparqué por esi monti", explanation: "" },
-                { id: "b1-l2-ex8", question: 'Elige la respuesta correcta:', expectedAnswer: "c)", options: ["a)", "b)", "c)", "d)"], explanation: "a) Tener es Tenir porque acaba en er. b) Tener solo es Tenir si es sustantivo. c) Tener nunca acaba en IR. d) Al igual que las acabadas en EN, sólo se aplica el cambio si no es un verbo que acaba en te, me, se y le" },
+                { id: "b1-l2-ex8", question: 'Elige la respuesta correcta:\na) Tener es Tenir porque acaba en er.\nb) Tener solo es Tenir si es sustantivo.\nc) Tener nunca acaba en IR.\nd) Al igual que las acabadas en EN, sólo se aplica el cambio si no es un verbo que acaba en te, me, se y le', expectedAnswer: "c)", options: ["a)", "b)", "c)", "d)"], explanation: "c) Tener nunca acaba en IR." },
                 { id: "b1-l2-ex9", question: 'Traduce “Ese oso es malo y grande”', expectedAnswer: "Esi osu es malu y grandi", explanation: "" },
                 { id: "b1-l2-ex10", question: 'Traduce “Vienen de Burgos y saben otro idioma”', expectedAnswer: "Vienin de Burgos y sabin otru idioma", explanation: "" },
                 { id: "b1-l2-ex11", question: 'Escribe 14 en letra y en cántabru', expectedAnswer: "Catorci", explanation: "" },
@@ -91,7 +91,7 @@ Solu s’aplica enas últimas sílabas. Hai escepcionis cumu: vida, edor...`,
                 { id: "b1-l3-ex1", question: 'Traduce “Manada”', expectedAnswer: "Manáa", explanation: "" },
                 { id: "b1-l3-ex2", question: 'Traduce “Bajad a Madrid”', expectedAnswer: "Bajad a Madrí", explanation: "" },
                 { id: "b1-l3-ex3", question: 'Traduce “El pasado español es grandioso. Ese poder era inmenso ”', expectedAnswer: "El pasáu español es grandiosu. Esi poer era inmensu", explanation: "" },
-                { id: "b1-l3-ex4", question: 'Elige la respuesta correcta. A estabilidad se le quita:', expectedAnswer: "d)", options: ["a)", "b)", "c)", "d)", "e)"], explanation: "a) La última D porque tiene preferencia la última: estabilida\nb) La última D y la intervocálica, además se le pone tilde a la última A porque es aguda y: estabiliá\nc) Solo se quita la intervocálica y se pone tilde porque si quedan dos “a” seguidas pone tilde: estabiliad\nd) Solo se quita la última D porque tiene preferencia la última, además se pone tilde porque es aguda acabada en vocal: estabilidá\ne) Ninguna es correcta" },
+                { id: "b1-l3-ex4", question: 'Elige la respuesta correcta. A estabilidad se le quita:\na) La última D porque tiene preferencia la última: estabilida\nb) La última D y la intervocálica, además se le pone tilde a la última A porque es aguda y: estabiliá\nc) Solo se quita la intervocálica y se pone tilde porque si quedan dos “a” seguidas pone tilde: estabiliad\nd) Solo se quita la última D porque tiene preferencia la última, además se pone tilde porque es aguda acabada en vocal: estabilidá\ne) Ninguna es correcta', expectedAnswer: "d)", options: ["a)", "b)", "c)", "d)", "e)"], explanation: "d) Esa es la regla correcta." },
                 { id: "b1-l3-ex5", question: 'Traduce “Enamorado”', expectedAnswer: "Enamoráu", explanation: "" }
             ]
         },
@@ -139,8 +139,8 @@ Conectan – Coneutan`,
                 { id: "b1-l5-ex2", question: 'Traduce “Adicción”', expectedAnswer: "Adición", explanation: "" },
                 { id: "b1-l5-ex3", question: 'Traduce “El proyecto de la otra clase”', expectedAnswer: "El proyeutu de la otra clasi", explanation: "" },
                 { id: "b1-l5-ex4", question: 'Traduce “Aspectos”', expectedAnswer: "Aspeutos", explanation: "" },
-                { id: "b1-l5-ex5", question: 'Elige la respuesta correcta:', expectedAnswer: "e)", options: ["a)", "b)", "c)", "d)", "e)", "f)"], explanation: "e) La C es correcta, pero acaba en 'eutos' porque los plurales no acaban en U." },
-                { id: "b1-l5-ex6", question: 'Elige la respuesta correcta', expectedAnswer: "e)", options: ["a)", "b)", "c)", "d)", "e)"], explanation: "e) Ninguna es correcta" }
+                { id: "b1-l5-ex5", question: 'Elige la respuesta correcta (Aspecto -> Aspeutu, Perfecto -> Perfeutu, etc):\na) Los plurales acaban en u\nb) Aspectos es Aspeutes\nc) La regla no aplica en plurales para la u final\nd) Actúan es Actuan\ne) La C es correcta, y perfectos es perfeutos\nf) Ninguna de las anteriores', expectedAnswer: "e)", options: ["a)", "b)", "c)", "d)", "e)", "f)"], explanation: "e) La C es correcta, pero el plural acaba en 'os' porque los plurales no acaban en U (Perfeutos)." },
+                { id: "b1-l5-ex6", question: 'Elige la respuesta correcta:\na) Acción es Aczión\nb) Perfecto es Perfectu\nc) Actuar es Aztuar\nd) Trayecto es Trayectu\ne) Ninguna es correcta', expectedAnswer: "e)", options: ["a)", "b)", "c)", "d)", "e)"], explanation: "e) Ninguna es correcta" }
             ]
         },
         {

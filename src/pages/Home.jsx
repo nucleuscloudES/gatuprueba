@@ -55,6 +55,14 @@ const Home = () => {
                     Ver Resultados Finales
                 </button>
             </div>
+
+            {/* Redes Sociales */}
+            <div style={{ textAlign: 'center', marginTop: '3rem', display: 'flex', flexDirection: 'column', gap: '0.5rem', fontSize: '0.9rem' }}>
+                <p style={{ color: 'var(--color-text-muted)', marginBottom: '0.5rem' }}>Síguenos pa más:</p>
+                <a href="https://www.instagram.com/proyeutu.montanies/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'none' }}>@proyeutu.montanies</a>
+                <a href="https://www.instagram.com/cantabrudeprendiu/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'none' }}>@cantabrudeprendiu</a>
+                <a href="https://www.instagram.com/cantabru_parlau/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'none' }}>@cantabru_parlau</a>
+            </div>
         </div>
     );
 };
