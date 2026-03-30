@@ -78,7 +78,20 @@ export const ProgressProvider = ({ children }) => {
   };
 
   const resetProgress = () => {
-    setProgress(initialState);
+    setProgress((prev) => ({
+      ...initialState,
+      streak: prev.streak, // Preserve streak
+      lastActiveDate: prev.lastActiveDate // Preserve last active date
+    }));
+  };
+
+  const resetBlock = (blockIndex) => {
+    const prefix = `b${blockIndex + 1}-`; // e.g., 'b1-'
+    setProgress((prev) => ({
+      ...prev,
+      completedExerciseIds: prev.completedExerciseIds.filter(id => !id.startsWith(prefix)),
+      score: Math.max(0, prev.score - prev.completedExerciseIds.filter(id => id.startsWith(prefix)).length)
+    }));
   };
 
   const finishCourse = () => {
@@ -92,6 +105,7 @@ export const ProgressProvider = ({ children }) => {
       markExerciseCompleted,
       setCurrentLocation,
       resetProgress,
+      resetBlock,
       finishCourse
     }}>
       {children}

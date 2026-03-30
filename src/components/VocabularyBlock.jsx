@@ -3,7 +3,7 @@ import { useProgress } from '../context/ProgressContext';
 import { courseData } from '../data/courseData';
 import { isAnswerCorrect } from '../utils/stringComparison';
 
-const VocabularyBlock = () => {
+const VocabularyBlock = ({ isEmbedded = false }) => {
     const { setCurrentLocation, progress, updateProgress } = useProgress();
     const [mode, setMode] = useState('menu'); // 'menu', 'practice', 'flashcards'
     const [activeCategory, setActiveCategory] = useState(null);
@@ -81,11 +81,13 @@ const VocabularyBlock = () => {
                     </div>
                 </div>
 
-                <div style={{ textAlign: 'center', marginTop: '1rem' }}>
-                    <button className="btn-secondary" onClick={() => setCurrentLocation(null)}>
-                        Volver al Menú Principal
-                    </button>
-                </div>
+                {!isEmbedded && (
+                    <div style={{ textAlign: 'center', marginTop: '1rem' }}>
+                        <button className="btn-secondary" onClick={() => setCurrentLocation(null)}>
+                            Volver al Menú Principal
+                        </button>
+                    </div>
+                )}
             </div>
         );
     }
