@@ -39,7 +39,7 @@ const Home = () => {
                     return (
                         <div key={block.id} className="glass-panel" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
                             <div>
-                                <h3 style={{ color: 'var(--color-primary)', marginBottom: '0.5rem' }}>{block.title}</h3>
+                                <h3 style={{ color: btnStyle.background, marginBottom: '0.5rem' }}>{block.title}</h3>
                                 <p style={{ color: 'var(--color-text-muted)', marginBottom: '1.5rem' }}>{block.description}</p>
                             </div>
                             <button className="btn-primary" style={btnStyle} onClick={() => handleStartBlock(index)}>
