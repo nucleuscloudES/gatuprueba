@@ -1,11 +1,14 @@
 import React, { useState } from 'react';
 import { useProgress } from '../context/ProgressContext';
-import { courseData } from '../data/courseData';
+import { useCourseData } from '../context/CourseDataContext';
 import { isAnswerCorrect } from '../utils/stringComparison';
 import VocabularyBlock from './VocabularyBlock'; // We import it for the special lesson
 
 const TemarioBlock = ({ blockIndex }) => {
     const { progress, markExerciseCompleted, setCurrentLocation, resetBlock } = useProgress();
+    const { courseData } = useCourseData();
+    const [userAnswers, setUserAnswers] = useState({});
+    const [feedback, setFeedback] = useState({});
     const block = courseData.blocks[blockIndex];
 
     if (!block) return <div>Bloque no encontrado</div>;
@@ -31,9 +34,6 @@ const TemarioBlock = ({ blockIndex }) => {
             </div>
         );
     }
-
-    const [userAnswers, setUserAnswers] = useState({});
-    const [feedback, setFeedback] = useState({});
 
     const handleAnswerSubmit = (exerciseId, expectedAnswer) => {
         const userAnswer = userAnswers[exerciseId] || "";

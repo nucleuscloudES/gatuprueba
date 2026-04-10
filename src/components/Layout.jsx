@@ -1,9 +1,10 @@
 import React from 'react';
 import { useProgress } from '../context/ProgressContext';
-import { courseData } from '../data/courseData';
+import { useCourseData } from '../context/CourseDataContext';
 
 const Layout = ({ children }) => {
     const { progress, resetProgress, setCurrentLocation } = useProgress();
+    const { courseData } = useCourseData();
 
     // Calculate overall progress across all blocks/lessons
     const totalExercises = courseData.blocks.reduce((acc, block) =>

@@ -1,8 +1,8 @@
-import { block1 } from './block1';
-import { block2 } from './block2';
-import { block3 } from './block3';
-import { block4 } from './block4';
-import { block5 } from './block5';
+import { block1 } from './block1.js';
+import { block2 } from './block2.js';
+import { block3 } from './block3.js';
+import { block4 } from './block4.js';
+import { block5 } from './block5.js';
 
 export const courseData = {
     blocks: [

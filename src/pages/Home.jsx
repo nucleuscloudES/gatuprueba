@@ -1,9 +1,10 @@
 import React from 'react';
 import { useProgress } from '../context/ProgressContext';
-import { courseData } from '../data/courseData';
+import { useCourseData } from '../context/CourseDataContext';
 
 const Home = () => {
     const { setCurrentLocation, progress, finishCourse } = useProgress();
+    const { courseData } = useCourseData();
 
     const handleStartBlock = (index) => {
         setCurrentLocation(index, 0);

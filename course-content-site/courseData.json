@@ -1,0 +1,2060 @@
+{
+  "blocks": [
+    {
+      "id": "block-1",
+      "title": "TEST - BLOQUI 1",
+      "description": "Terminaciones U, I, D final, J, CC/CT/ECT, Y/Verbos/X",
+      "lessons": [
+        {
+          "id": "b1-l1",
+          "title": "LECCIÓN 1 --- TERMINACIÓN EN U",
+          "theory": "Pa deprender correutamenti cúmu ajunciona la tirminación en U, poemos tener en cuenta las siguientis reglas.\n\nEn cántabru acábanse en U tolos SUSTANTIVOS, ADJITIVOS, ADVERBIOS y PRONOMBRIS singularis acabaos en O en castellanu (Sin ser agudas).\n\nATINCIÓN:\nLos pluralis NO acaban en U enl cántabru estándar. (El cántabru estándar es una generalización del cántabru vivo que se ha reglamentizado para lograr el reconocimiento como lengua).\n\nATINCIÓN:\nSolu acaban en U los verbos en participiu, el restu NO (Siempre con tilde).",
+          "examples": [
+            "Toro -- Toru",
+            "Malo -- Malu",
+            "Cuando -- Cuandu",
+            "Mío -- Míu",
+            "No – Nu",
+            "Nacido -- Nacíu",
+            "Visto -- Vistu",
+            "Viviendo -- Viviendo (gerundio)",
+            "Veo -- Veo (presente)",
+            "Acabado -- Acabáu"
+          ],
+          "exercises": [
+            {
+              "id": "b1-l1-ex1",
+              "question": "Traduce “Poco”",
+              "expectedAnswer": "Pocu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l1-ex2",
+              "question": "Traduce el verbo “Paso”",
+              "expectedAnswer": "Paso",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l1-ex3",
+              "question": "Traduce “Enseño cántabro”",
+              "expectedAnswer": "Enseño cántabru",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l1-ex4",
+              "question": "Traduce “Pelo claro”",
+              "expectedAnswer": "Pelu claru",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l1-ex5",
+              "question": "Traduce “Solo”",
+              "expectedAnswer": "Solu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l1-ex6",
+              "question": "Traduce “Un perro y dos gatos”",
+              "expectedAnswer": "Un perru y dos gatos",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l1-ex7",
+              "question": "¿Cuál de estos “canto” acaba en U en cántabru?",
+              "expectedAnswer": "2. Me di con un canto en el pie",
+              "options": [
+                "1. Yo canto muy mal",
+                "2. Me di con un canto en el pie"
+              ],
+              "explanation": "1. Yo canto muy mal\n2. Me di con un canto en el pie"
+            },
+            {
+              "id": "b1-l1-ex8",
+              "question": "Traduce “Veo un poco mal”",
+              "expectedAnswer": "Veo un pocu mal",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b1-l2",
+          "title": "LECCIÓN 2 ----- TERMINACIÓN EN I",
+          "theory": "En cántabru tirminan en I, IS, IN tolas palabras qu’en castellanu tirminan en E, ES, EN\n\nEsceptu “QUE” ,“DE”, Sustantivos y verbos monosémicos (Té, ve, fe, sé...), Palabras agudas (Canté, Monté, Viviré, Parqué, Arcén...)\n\nLos verbos acabados en “te”, “se”, “me” y “le” puéin acabar de las dos formas, polo que de momentu vamos a dejalos de láu.",
+          "examples": [
+            "Verde – Verdi",
+            "Vienen – Vienin",
+            "Papeles – Papelis",
+            "Le – Li"
+          ],
+          "exercises": [
+            {
+              "id": "b1-l2-ex1",
+              "question": "Traduce “Siete”",
+              "expectedAnswer": "Sieti",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l2-ex2",
+              "question": "Traduce “Mueven”",
+              "expectedAnswer": "Muevin",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l2-ex3",
+              "question": "Traduce “Vienen siete coches”",
+              "expectedAnswer": "Vienin sieti cochis",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l2-ex4",
+              "question": "Traduce “Este”",
+              "expectedAnswer": "Esti",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l2-ex5",
+              "question": "Traduce “¿Qué dices?”",
+              "expectedAnswer": "¿Qué dicis?",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l2-ex6",
+              "question": "Traduce “Lee y bebe un té”",
+              "expectedAnswer": "Lei y bebi un té",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l2-ex7",
+              "question": "Traduce “Aparqué por ese monte”",
+              "expectedAnswer": "Aparqué por esi monti",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l2-ex8",
+              "question": "Elige la respuesta correcta:",
+              "expectedAnswer": "c) Tener nunca acaba en IR.",
+              "options": [
+                "a) Tener es Tenir porque acaba en er.",
+                "b) Tener solo es Tenir si es sustantivo.",
+                "c) Tener nunca acaba en IR.",
+                "d) Al igual que las acabadas en EN, sólo se aplica el cambio si no es un verbo que acaba en te, me, se y le"
+              ],
+              "explanation": "c) Tener nunca acaba en IR."
+            },
+            {
+              "id": "b1-l2-ex9",
+              "question": "Traduce “Ese oso es malo y grande”",
+              "expectedAnswer": "Esi osu es malu y grandi",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l2-ex10",
+              "question": "Traduce “Vienen de Burgos y saben otro idioma”",
+              "expectedAnswer": "Vienin de Burgos y sabin otru idioma",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l2-ex11",
+              "question": "Escribe 14 en letra y en cántabru",
+              "expectedAnswer": "Catorci",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l2-ex12",
+              "question": "Traduce al castellano “Esi sabi el restu”",
+              "expectedAnswer": "Ese sabe el resto",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b1-l3",
+          "title": "LECCIÓN 3 ----- “D” FINAL E INTERVOCÁLICA",
+          "theory": "Toas las D finalis s’iliminan y si pon tildi ena última letra. Enos impirativos no si quita la D\n\nLas “D” intervocálicas tamién s’iliminan. En casu de quedar 2 “a” siguías si pon tildi.\n\nSolu s’aplica enas últimas sílabas. Hai escepcionis cumu: vida, edor...",
+          "examples": [
+            "Verdad -- Verdá",
+            "Velocidad -- Velocidá",
+            "Madrid -- Madrí",
+            "Parad – Parad (Imperativo)",
+            "Nacido -- Nacíu",
+            "Patada -- Patáa",
+            "Todo – Tou",
+            "Enredadera – Enredaera (Solo se quita la última D)",
+            "Adobado -- Adobáu (Solo se quita la última D)",
+            "Adicional – Adicional (La D intervocálica está en las primeras sílabas)"
+          ],
+          "exercises": [
+            {
+              "id": "b1-l3-ex1",
+              "question": "Traduce “Manada”",
+              "expectedAnswer": "Manáa",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l3-ex2",
+              "question": "Traduce “Bajad a Madrid”",
+              "expectedAnswer": "Bajad a Madrí",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l3-ex3",
+              "question": "Traduce “El pasado español es grandioso. Ese poder era inmenso ”",
+              "expectedAnswer": "El pasáu español es grandiosu. Esi poer era inmensu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l3-ex4",
+              "question": "Elige la respuesta correcta. A estabilidad se le quita:",
+              "expectedAnswer": "d) Solo se quita la última D porque tiene preferencia la última, además se pone tilde porque es aguda acabada en vocal: estabilidá",
+              "options": [
+                "a) La última D porque tiene preferencia la última: estabilida",
+                "b) La última D y la intervocálica, además se le pone tilde a la última A porque es aguda y: estabiliá",
+                "c) Solo se quita la intervocálica y se pone tilde porque si quedan dos “a” seguidas pone tilde: estabiliad",
+                "d) Solo se quita la última D porque tiene preferencia la última, además se pone tilde porque es aguda acabada en vocal: estabilidá",
+                "e) Ninguna es correcta"
+              ],
+              "explanation": "d) Esa es la regla correcta."
+            },
+            {
+              "id": "b1-l3-ex5",
+              "question": "Traduce “Enamorado”",
+              "expectedAnswer": "Enamoráu",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b1-l4",
+          "title": "LECCIÓN 4 ----- La J",
+          "theory": "La J en cántabru si prununcia /h/, es dicir, cumu una H inglesa.\n\nEn cántabru cambean a J las H y F que vengan de una F latina.\n\nPiru hai otras palabras que tamién llevan J cumu: Jasta, Jallar o Jatu. Estas palabras hai que deprendelas, polo que n’estos tests pondremos tolas palabras pruvinientis del latín pa potenciar vocabulariu.\nNel restu de test, si indicarán las F u H latinas. Las qu’estén en nigrita y cursiva hai que cambealas a J.",
+          "examples": [
+            "Horno – Fornus – Jornu",
+            "Fuente – Fontis – Juenti",
+            "Fuerte – Fortis – Juerti",
+            "Hacer – Facere – Jacer"
+          ],
+          "exercises": [
+            {
+              "id": "b1-l4-ex1",
+              "question": "Traduce “Horno”",
+              "expectedAnswer": "Jornu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l4-ex2",
+              "question": "Traduce “Fuera”",
+              "expectedAnswer": "Juera",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l4-ex3",
+              "question": "Traduce “Él halló unas fuentes que hacen mucho ruido”",
+              "expectedAnswer": "Él jalló unas juentis que jacin muchu ruidu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l4-ex4",
+              "question": "Traduce “Ahogado”",
+              "expectedAnswer": "Ajogáu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l4-ex5",
+              "question": "Traduce “Hierro”",
+              "expectedAnswer": "Jierru",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l4-ex6",
+              "question": "Traduce “Hacha”",
+              "expectedAnswer": "Jacha",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l4-ex7",
+              "question": "Traduce “Hablar”",
+              "expectedAnswer": "Jablar",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b1-l5",
+          "title": "LECCIÓN 5 ---- CC, CT y ECT",
+          "theory": "Si una palabra tien CC u CT, s’ilimina una C\nEjemplos:\nAcción -- Ación\nActuar – Atuar\n\nSi una palabra tien ECT, esi ECT pasa a EUT\nEjemplo:\nPerfecto – Perfeutu\nTrayecto – Trayeutu\nConectan – Coneutan",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b1-l5-ex1",
+              "question": "Traduce “Octogenario”",
+              "expectedAnswer": "Otogenariu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l5-ex2",
+              "question": "Traduce “Adicción”",
+              "expectedAnswer": "Adición",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l5-ex3",
+              "question": "Traduce “El proyecto de la otra clase”",
+              "expectedAnswer": "El proyeutu de la otra clasi",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l5-ex4",
+              "question": "Traduce “Aspectos”",
+              "expectedAnswer": "Aspeutos",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l5-ex5",
+              "question": "Elige la respuesta correcta (Aspecto -> Aspeutu, Perfecto -> Perfeutu, etc):",
+              "expectedAnswer": "e) La C es correcta, y perfectos es perfeutos",
+              "options": [
+                "a) Los plurales acaban en u",
+                "b) Aspectos es Aspeutes",
+                "c) La regla no aplica en plurales para la u final",
+                "d) Actúan es Actuan",
+                "e) La C es correcta, y perfectos es perfeutos",
+                "f) Ninguna de las anteriores"
+              ],
+              "explanation": "e) La C es correcta, pero el plural acaba en 'os' porque los plurales no acaban en U (Perfeutos)."
+            },
+            {
+              "id": "b1-l5-ex6",
+              "question": "Elige la respuesta correcta:",
+              "expectedAnswer": "e) Ninguna es correcta",
+              "options": [
+                "a) Acción es Aczión",
+                "b) Perfecto es Perfectu",
+                "c) Actuar es Aztuar",
+                "d) Trayecto es Trayectu",
+                "e) Ninguna es correcta"
+              ],
+              "explanation": "e) Ninguna es correcta"
+            }
+          ]
+        },
+        {
+          "id": "b1-l6",
+          "title": "LECCIÓN 6 ---- Y, VERBOS y X",
+          "theory": "Cuandu una palabra tirmina en Y, esa Y cambea a I\nEjemplos:\nHay – Hai\nEstoy – Estoi\n\nHai verbos qu’en vez de acabar en I simplementi no tienin la última letra. \nEjemplos;\nViene – Vien\nTiene – Tien\nHace – Jaz\nPone – Pon\nEstu solu pasa colos verbos en singular.\n\nLas X suelen cambiar a S",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b1-l6-ex1",
+              "question": "Traduce “El Rey tiene mucho poder”",
+              "expectedAnswer": "El Rei tien muchu poer",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l6-ex2",
+              "question": "Traduce “Hace un calor insoportable”",
+              "expectedAnswer": "Jaz un calor insoportabli",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l6-ex3",
+              "question": "Traduce “Él no hiere”",
+              "expectedAnswer": "Él nu jier",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l6-ex4",
+              "question": "Traduce “Examen”",
+              "expectedAnswer": "Esamin",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b1-l7",
+          "title": "REPASO",
+          "theory": "Abora vamos a jacer test de repasu con tolo dau nel bloqui 1.",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b1-l7-ex1",
+              "question": "Traduce: Ese prado es mío",
+              "expectedAnswer": "Esi práu es míu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex2",
+              "question": "Traduce: Viene mañana",
+              "expectedAnswer": "Vien mañana",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex3",
+              "question": "Traduce: Para hacer eso, no hagas nada",
+              "expectedAnswer": "Pa jacer esu, nu jagas naa",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex4",
+              "question": "Traduce: La noche tiene a la luna",
+              "expectedAnswer": "La nochi tien a la luna",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex5",
+              "question": "Traduce: No sé nada del temario dado con anterioridad",
+              "expectedAnswer": "Nu sé naa del temariu dáu con anterioridá",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex6",
+              "question": "Traduce: No pongo tildes nunca, creo que son inútiles",
+              "expectedAnswer": "Nu pongo tildis nunca, creo que son inútilis",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex7",
+              "question": "Traduce: El horno no va bien",
+              "expectedAnswer": "El jornu nu va bien",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex8",
+              "question": "Traduce: Eres muy alto",
+              "expectedAnswer": "Eris mui altu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex9",
+              "question": "Traduce: Paso el paso y canto con un canto",
+              "expectedAnswer": "Paso el pasu y canto con un cantu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex10",
+              "question": "Traduce: Que",
+              "expectedAnswer": "Que",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex11",
+              "question": "Traduce: Hay que accionar el chisme ese",
+              "expectedAnswer": "Hai que acionar el chismi esi",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex12",
+              "question": "Traduce: Ese aspecto da miedo",
+              "expectedAnswer": "Esi aspeutu da miedu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex13",
+              "question": "Traduce: Oswald tiene un supermercado fuera de la ciudad",
+              "expectedAnswer": "Oswald tien un supermercáu juera de la ciudá",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex14",
+              "question": "Traduce: El primero fue aburrido",
+              "expectedAnswer": "El primeru jue aburríu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex15",
+              "question": "Traduce: Ese cuadro es muy feo",
+              "expectedAnswer": "Esi cuadru es mui feu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex16",
+              "question": "Traduce: El tejado es alto",
+              "expectedAnswer": "El tejáu es altu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex17",
+              "question": "Traduce: Este monte no es verde, es amarillo",
+              "expectedAnswer": "Esti monti nu es verdi, es amarillu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex18",
+              "question": "Traduce: El llavero está muy caro",
+              "expectedAnswer": "El llaveru está mui caru",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex19",
+              "question": "Traduce: El bote de tomate",
+              "expectedAnswer": "El boti de tomati",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex20",
+              "question": "Traduce: El teclado no va",
+              "expectedAnswer": "El tecláu nu va",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex21",
+              "question": "Traduce: ¿“El Prado”? Eso es el museo de Madrid",
+              "expectedAnswer": "¿”El Prado”? Esu es el museu de Madrí",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex22",
+              "question": "Traduce: Hay mucho plástico",
+              "expectedAnswer": "Hai muchu plásticu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex23",
+              "question": "Traduce: Puedes ganar el premio gordo",
+              "expectedAnswer": "Puéis ganar el premiu gordu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex24",
+              "question": "Traduce: El portátil es demasiado viejo",
+              "expectedAnswer": "El portátil es demasiáu vieju",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex25",
+              "question": "Traduce: Unos gatos sueltos por ahí roban mucho",
+              "expectedAnswer": "Unos gatos sueltos por ahí roban muchu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex26",
+              "question": "Traduce: Ese salce es muy alto",
+              "expectedAnswer": "Esi salci es mui altu",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex27",
+              "question": "Traduce: Voy hasta allí",
+              "expectedAnswer": "Voi jasta allí",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex28",
+              "question": "Traduce: Es perfecto para mí",
+              "expectedAnswer": "Es perfeutu pa mí",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex29",
+              "question": "Traduce: Es muy listo para esos temas",
+              "expectedAnswer": "Es mui listu pa estos temas",
+              "explanation": ""
+            },
+            {
+              "id": "b1-l7-ex30",
+              "question": "Traduce: Dicen que tú eres alto",
+              "expectedAnswer": "Dicin que tú eris altu",
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "block-2",
+      "title": "BLOQUI 2",
+      "description": "Hue/Bue, Posesivos, Contracciones, Apostrofación",
+      "lessons": [
+        {
+          "id": "b2-l1",
+          "title": "LECCIÓN 1 ----- Hue, Bue",
+          "theory": "HUE y BUE/VUE cambean a GÜE\n\nEjemplos:\nHuevo -- Güevu\nAbuela -- Güela\nVuelta -- Güelta",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b2-l1-ex1",
+              "question": "Traduce “Hueso”",
+              "expectedAnswer": "Güesu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l1-ex2",
+              "question": "Traduce “Di una vuelta”",
+              "expectedAnswer": "Di una güelta",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b2-l2",
+          "title": "LECCIÓN 2 ---- POSESIVOS",
+          "theory": "COSA POSEÍDA / POSEEOR\n\nA los pusisivos (mi, tu, su) si lis añidi un “el”, “la”, “los”, “las” delanti.\n\n1ª pers. sing.: (el/lo) míu, (la) mía, (los) míos, (las) mías\n2ª pers. sing.: (el/lo) tuyu, (la) tuya, (los) tuyos, (las) tuyas\n3ª pers. sing.: (el/lo) suyu, (la) suya, (los) suyos, (las) suyas\n\n1ª pers. plu.: (el/lo) muestru, (la) muestra, (los) muestros, (las) muestras\n2ª pers. plu.: (el/lo) vuestru, (la) vuestra, (los) vuestros, (las) vuestras\n3ª pers. plu.: (el/lo) suyu, (la) suya, (los) suyos, (las) suyas\n\nEjemplos:\nEl mi gatu.\nLa mi cama.\nEl tu cochi.\nLa tu ropa.\nEl su trebaju.\nLa su playera.\nEl muestru sueñu.\nLa muestra casa.\nLa vuestra bici.\nEl vuestru práu.\nLos mis pies.",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b2-l2-ex1",
+              "question": "Traduce “Mi piano”",
+              "expectedAnswer": "El mi pianu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex2",
+              "question": "Traduce “Su guitarra”",
+              "expectedAnswer": "La su guitarra",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex3",
+              "question": "Traduce “Él fue, su abuela no”",
+              "expectedAnswer": "Él jue, la su güela no",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex4",
+              "question": "Traduce “Eso es nuestro”",
+              "expectedAnswer": "Esu es muestru",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex5",
+              "question": "Elige la respuesta correcta:",
+              "expectedAnswer": "c) Se pone el o la dependiendo del género del sustantivo.",
+              "options": [
+                "a) Siempre se pone \"el\" o \"la\" indistintamente.",
+                "b) Siempre se pone \"lo\".",
+                "c) Se pone el o la dependiendo del género del sustantivo.",
+                "d) No se usa ni el ni la con posesivos."
+              ],
+              "explanation": "c) Se pone el o la dependiendo del género del sustantivo."
+            },
+            {
+              "id": "b2-l2-ex6",
+              "question": "Completa la tabla en tercera persona: ___ su gatu",
+              "expectedAnswer": "el",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex7",
+              "question": "Completa la tabla en tercera persona: ___ sus sudaeras",
+              "expectedAnswer": "las",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex8",
+              "question": "Completa la tabla en tercera persona: las ___ vacas",
+              "expectedAnswer": "sus",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex9",
+              "question": "Completa la tabla en tercera persona: la ___ maera",
+              "expectedAnswer": "su",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex10",
+              "question": "Completa la tabla en primera persona: ___ mi práu",
+              "expectedAnswer": "el",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex11",
+              "question": "Completa la tabla en primera persona: ___ mi ropa",
+              "expectedAnswer": "la",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex12",
+              "question": "Completa la tabla en primera persona: la ___ casa",
+              "expectedAnswer": "muestra",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex13",
+              "question": "Completa la tabla en primera persona: los ___ trajis",
+              "expectedAnswer": "muestros",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l2-ex14",
+              "question": "Traduce “Vuestra fuerza es grande actualmente”",
+              "expectedAnswer": "La vuestra juerza es grandi atualmenti",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b2-l3",
+          "title": "LECCIÓN 3 ----- CONTRACCIONES",
+          "theory": "Del -> Del | Al -> Al\nEn la -> Ena | En unas -> Nunas\nEn lo -> Eno | Con el -> Col\nEn las -> Enas | Con la -> Cola / Cona\nEn los -> Enos | Con lo -> Colo / Cono\nEn el -> Nel | Con las -> Colas / Conas\nPara el -> Pal | Con los -> Colos / Conos\nPara la -> Pala | Todo el -> Tol / Tul\nPor el -> Pol | Toda la -> Tola\nPor la -> Pola | Todo lo -> Tolo\nPor lo -> Polos | Todos los -> Tolos\nPor los -> Polas | Todas las -> Tolas\nEn un -> Nun | Por arriba -> Poarriba / Por riba\nEn una -> Nuna | Por abajo -> Poabaju / Por baju\nEn unos -> Nunos | Por delante -> Poalanti / Por lanti\nPor la parte de atrás -> Partatrás\nPor detrás -> Poatrás / Por trás\nPor la parte de adelante -> Partalanti\nPor la parte de fuera -> Partajuera\nCada uno -> Caúnu\nPor la parte de dentro -> Partadrentu\nCada una -> Caúna\n\nLos pronombris MOS y VOS también forman contracción junto a determinante.\nMolo dijo ahier.\nMola presentesti.\nMolos disti l’otru día.\nEsas hestorias ya molas contarin en clas.\nEl lápiz volu doi dispués.\nEso nu volo criís ni vós.\n\nOtra contracción importante es el caso de DENDI, que contrae de las siguientes formas:\nDIQUIÁ (dendi aquí jasta) Diquiá dos días, estaré en paru.\nDILLIÁ (dendi allí jasta) DilliáTorlavega son séis kilómetros.\nDIQUÍ (dendi+aquí) Diquí se vei la mar.\nDILLÍ (dendi+allí) Dillí tendrán de vivir a salvamos.\nCuntracionis sacáas direutamenti de PROYEUTU DEPRIENDI. Aunqui angunas d’ellas son intuitivas, hai que deprendelas.",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b2-l3-ex1",
+              "question": "Contrae “En los”",
+              "expectedAnswer": "Enos",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex2",
+              "question": "Contrae “Para el”",
+              "expectedAnswer": "Pal",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex3",
+              "question": "Contrae “Para la”",
+              "expectedAnswer": "Pala",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex4",
+              "question": "Contrae “Por el”",
+              "expectedAnswer": "Pol",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex5",
+              "question": "Contrae “Por la”",
+              "expectedAnswer": "Pola",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex6",
+              "question": "Contrae “En el”",
+              "expectedAnswer": "Nel",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex7",
+              "question": "Contrae “En una”",
+              "expectedAnswer": "Nuna",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex8",
+              "question": "Contrae “En unos”",
+              "expectedAnswer": "Nunos",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex9",
+              "question": "Contrae “Cada uno”",
+              "expectedAnswer": "Caúnu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex10",
+              "question": "Contrae “En unas”",
+              "expectedAnswer": "Nunas",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex11",
+              "question": "Contrae “Por delante”",
+              "expectedAnswer": "Poalanti",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex12",
+              "question": "Contrae “Con el”",
+              "expectedAnswer": "Col",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex13",
+              "question": "Contrae “Con las” sin usar “Colas”",
+              "expectedAnswer": "Conas",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex14",
+              "question": "Contrae “Toda la”",
+              "expectedAnswer": "Tola",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex15",
+              "question": "Contrae “Por la parte de afuera”",
+              "expectedAnswer": "Partajuera",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex16",
+              "question": "Contrae “Por abajo” en una sola palabra",
+              "expectedAnswer": "Poabaju",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex17",
+              "question": "Contrae “Por atrás” con dos palabras",
+              "expectedAnswer": "Por tras",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex18",
+              "question": "Contrae “Desde aquí”",
+              "expectedAnswer": "Diquí",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex19",
+              "question": "Contrae “Desde aquí hasta”",
+              "expectedAnswer": "Diquiá",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex20",
+              "question": "Contrae “Me lo”",
+              "expectedAnswer": "Molo",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex21",
+              "question": "Contrae “Me la”",
+              "expectedAnswer": "Mola",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex22",
+              "question": "Traduce “Creo que los bolos están por alante”",
+              "expectedAnswer": "Creo que los bolos están poalanti",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex23",
+              "question": "Traduce “Con el cuaderno no haces nada, toma mis hojas”",
+              "expectedAnswer": "Col cuadernu no jacis naa, toma las mis hojas",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l3-ex24",
+              "question": "Traduce “En la casa de Juan todas las cosas asustan”",
+              "expectedAnswer": "Ena casa de Juan tolas cosas asustan",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b2-l4",
+          "title": "LECCIÓN 4 ----- APOSTROFACIÓN",
+          "theory": "Apostrófanse con cualisquier suníu vocálicu: EL, DE, QUE\n\nEL --- El agua --- L’augua + Está el --- Está’l\nEn caso de doble sonido, tiene preferencia ponerlo en la palabra siguiente:\nEstá el agua --- Está l’augua\n\nDE --- De oro --- D’oru\n\nQUE --- Que está --- Qu’está\n\nApostrófanse SOLU col suníu A: PA y LA\n\nLA --- La armónica --- L’armónica\nLA --- La encara --- La encara, L’encara ESTÁ MAL\n\nPA --- Pa acerrar --- P’acerrar\nPA --- Pa empezar --- Pa empezar, P’empezar ESTÁ MAL\n\nEl QUE tien anguna regla especial:\nQue+sonido vocálico: qu’estabas, q’hai.\nQue+el: que’l.\nQue+el+vocálicu: que l’armariu (siempre la palabra de después)\nQue+él: qu’él.",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b2-l4-ex1",
+              "question": "Traduce y apostrofa donde sea necesario: El editor es muy bueno",
+              "expectedAnswer": "L’editor es mui güenu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l4-ex2",
+              "question": "Traduce y apostrofa donde sea necesario: La actuación fue larga",
+              "expectedAnswer": "L’atuación jue larga",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l4-ex3",
+              "question": "Traduce y apostrofa donde sea necesario: Dijo que el prado es llano",
+              "expectedAnswer": "Dijo que’l práu es llanu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l4-ex4",
+              "question": "Traduce y apostrofa donde sea necesario: Sabes que él no fue",
+              "expectedAnswer": "Sabis qu’él nu jue",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l4-ex5",
+              "question": "Traduce y apostrofa donde sea necesario: Hacha de oro y de esmeraldas",
+              "expectedAnswer": "Jacha d'oru y d'esmeraldas",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l4-ex6",
+              "question": "Traduce y apostrofa donde sea necesario: Para Ana el grande de ayer",
+              "expectedAnswer": "P'Ana el grandi d'ahier",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l4-ex7",
+              "question": "Traduce y apostrofa donde sea necesario: La iglesia del pueblo es grande",
+              "expectedAnswer": "La iglesia del pueblu es grandi",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l4-ex8",
+              "question": "Traduce y apostrofa donde sea necesario: Sigue el rastro",
+              "expectedAnswer": "Sigue’l rastru",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l4-ex9",
+              "question": "Traduce y apostrofa donde sea necesario: Sigue el aire",
+              "expectedAnswer": "Sigue l’airi",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l4-ex10",
+              "question": "Traduce y apostrofa donde sea necesario: Que hay",
+              "expectedAnswer": "Qu’hai",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b2-l5",
+          "title": "REPASU",
+          "theory": "Abora vamos con unas treducionis de repasu:",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b2-l5-ex1",
+              "question": "Me lo dijo cuando fue a la ciudad",
+              "expectedAnswer": "Molo dijo cuandu jue a la ciudá",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex2",
+              "question": "Tiene que haber botes allí",
+              "expectedAnswer": "Tien que haber botis allí",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex3",
+              "question": "Por la parte de fuera hay que hacer obra",
+              "expectedAnswer": "Partajuera hai que jacer obra",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex4",
+              "question": "Esta lluvia no asusta a este pueblo",
+              "expectedAnswer": "Esta lluvia nu asusta a esti pueblu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex5",
+              "question": "Que él no sepa poner el cuadro, no significa que el cuadro esté así",
+              "expectedAnswer": "Qu’él nu sepa poner el cuadru, nu significa que’l cuadru esté así",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex6",
+              "question": "El amianto es muy tóxico",
+              "expectedAnswer": "L’amiantu es mui tósicu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex7",
+              "question": "¿Sabes de él?",
+              "expectedAnswer": "¿Sabis d’él?",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex8",
+              "question": "Para Amanda es bueno ese",
+              "expectedAnswer": "P’Amanda es güenu esi",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex9",
+              "question": "Fui con mi abuela al mercado",
+              "expectedAnswer": "Jui cola mi güela al mercáu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex10",
+              "question": "Su perro muerde",
+              "expectedAnswer": "El su perru muerdi",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex11",
+              "question": "Ven con nuestro coche",
+              "expectedAnswer": "Ven col muestru cochi",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex12",
+              "question": "Mi lavadora no hace eso",
+              "expectedAnswer": "La mi lavaora nu jaz esu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex13",
+              "question": "Es un casco de oro",
+              "expectedAnswer": "Es un cascu d’oru",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex14",
+              "question": "Mi amigo es bueno",
+              "expectedAnswer": "El mi amigu es güenu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex15",
+              "question": "Ese perro es muy malo",
+              "expectedAnswer": "Esi perru es mui malu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex16",
+              "question": "Esos palos de madera son largos",
+              "expectedAnswer": "Esos palos de maera son largos",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex17",
+              "question": "Tiene ese reloj",
+              "expectedAnswer": "Tien esi reloj",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex18",
+              "question": "Hace daño",
+              "expectedAnswer": "Jaz dañu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex19",
+              "question": "Si puedes, trae la armónica",
+              "expectedAnswer": "Si puéis, trai l’armónica",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex20",
+              "question": "Claro que no",
+              "expectedAnswer": "Claru que nu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex21",
+              "question": "Esa fuente tiene siglos",
+              "expectedAnswer": "Esa juenti tien siglos",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex22",
+              "question": "Por arriba tiene polvo y por abajo tiene hongos (“h” de “f” latina)",
+              "expectedAnswer": "Poarriba tien polvu y poabaju tien jongos",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex23",
+              "question": "Son siete para cada uno",
+              "expectedAnswer": "Son sieti pa caúnu",
+              "explanation": ""
+            },
+            {
+              "id": "b2-l5-ex24",
+              "question": "¿Tienes este libro?",
+              "expectedAnswer": "¿Tienis esti libru?",
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "block-3",
+      "title": "BLOQUI 3",
+      "description": "Cierre vocálico, Neutro de materia, Complementos y enclisis",
+      "lessons": [
+        {
+          "id": "b3-l1",
+          "title": "Lección 1---- Cierre vocálico",
+          "theory": "En cántabru asistin 3 tipos de cierri vocálicu. El TÓNICU, el POST-TÓNICU y el PRETÓNICU. Nel cántabru estándar úsase solu el PRETÓNICO. Los otros dos estarán dispuniblis juturamenti ena istinsión de dialeutos.\n\nEl cierri vocálicu ajunciona de la siguienti manera:\nCuandu la SÍLABA TÓNICA tien una vocal acerráa (i, u), tolas “o” y “e” aciérranse a “u” e “i” jasta la propia tónica u jasta qu’haya una “a”.\nEjemplos:\nPodría --- Tónica en “ní”, polo que “o” --> “u” --- Pudría\nFemenino --- Tónica en “ni” polo que “e” --> “i” --- Fimininu\nMenú --- Tónica en “ú” polo que “e” --> “i” --- Minú\n\nTamién aplícasi el cierri cuandu la tónica es unu de los siguientis diptongos: “io” “ue” “ie”\nEjemplos:\nSesión --- Tónica en “ió” polo que “e” --> “i” --- Sisión\nTeruel --- Tónica en “ue” polo que “e” --> “i” --- Tiruel\nComienzo -- Tónica en “ie” polo que “o” --> “u” --- Cumienzo",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b3-l1-ex1",
+              "question": "Traduce: Metió",
+              "expectedAnswer": "Mitió",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex2",
+              "question": "Traduce: Diorita",
+              "expectedAnswer": "Diurita",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex3",
+              "question": "Traduce: Lección",
+              "expectedAnswer": "Lición",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex4",
+              "question": "Traduce: Perdiera",
+              "expectedAnswer": "Pirdiera",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex5",
+              "question": "Traduce: Vendría",
+              "expectedAnswer": "Vindría",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex6",
+              "question": "Traduce: Tercio",
+              "expectedAnswer": "Tercio",
+              "explanation": "¡¡La vocal tónica es una E!!"
+            },
+            {
+              "id": "b3-l1-ex7",
+              "question": "Traduce: Comí",
+              "expectedAnswer": "Cumí",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex8",
+              "question": "Traduce: Cementerio",
+              "expectedAnswer": "Cementerio",
+              "explanation": "¡¡La vocal tónica es una E!!"
+            },
+            {
+              "id": "b3-l1-ex9",
+              "question": "Traduce: Insolación",
+              "expectedAnswer": "Insulación",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex10",
+              "question": "Traduce: Bebí",
+              "expectedAnswer": "Bibí",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex11",
+              "question": "Traduce: Bebía",
+              "expectedAnswer": "Bibía",
+              "explanation": "Bibía = Verbo /// Bibida = Sustantivo"
+            },
+            {
+              "id": "b3-l1-ex12",
+              "question": "Traduce: Comía",
+              "expectedAnswer": "Cumía",
+              "explanation": "Cumía = Verbo /// Cumida = Sustantivo"
+            },
+            {
+              "id": "b3-l1-ex13",
+              "question": "Traduce: Tónico",
+              "expectedAnswer": "Tónicu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex14",
+              "question": "Traduce: Sentir",
+              "expectedAnswer": "Sintir",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex15",
+              "question": "Traduce: Cosucas",
+              "expectedAnswer": "Cusucas",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex16",
+              "question": "Traduce: Mozuco",
+              "expectedAnswer": "Muzucu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex17",
+              "question": "Traduce: Escribe",
+              "expectedAnswer": "Iscribi",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex18",
+              "question": "Traduce: Prohibido",
+              "expectedAnswer": "Pruhibíu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex19",
+              "question": "Traduce: Decir",
+              "expectedAnswer": "Dicir",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l1-ex20",
+              "question": "Traduce: Pregunta",
+              "expectedAnswer": "Prigunta",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b3-l2",
+          "title": "LECCIÓN 2 ---- NEUTRO DE MATERIA",
+          "theory": "Pa emplear el neutru de materia hai que tener en cuenta si l’ojetu es contabli u incontabli.\n\nSI ES CONTABLI:\nEl ajitivu y pronombri concuerda en géneru, por ejemplu: “Un boti suciu”, cumu boti es contabli, l’ajitivu concuerda siendo masculinu, además el su pronombri tamién: “lávalu”. Estu aplica en fimininu tamién: “La moneda doráa” ,“Dámela”\nEjemplos:\n-Boti (Contable), Suciu (Masculino, que concuerda con “bote”), Lávalu (Masculino, el cual acaba en “u”)\n-Moneda (Contable), Doráa (Femenino), Dámela (Femenino, acabado en “a”)\n\nSI ES INCONTABLI:\nSi es incontabli la cosa cambea, indipindientimenti de ser masculinu u fimininu, si l’jetu es INCONTABLI, l’ajitivu es masculinu ( ACABÁU EN “U”) y el pronombri es neutru (ACABÁU EN “O”)\nEjemplos:\nEl barru pringosu, sáltalo:\nBarru (incontable), Pringosu (Masculino), Sáltalo (Neutro, el cual acaba en “o”)\nLa ropa suciu, tiéndilo:\nRopa (Incontable), Suciu (Masculino), Tiéndilo (Neutro, acabado en “o”)",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b3-l2-ex1",
+              "question": "Traduce las siguientes frases con el género adecuado: La ropa mojada",
+              "expectedAnswer": "La ropa mojáu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l2-ex2",
+              "question": "Traduce: La arena revuelta",
+              "expectedAnswer": "L’arena regüeltu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l2-ex3",
+              "question": "Traduce: Lava ese pantalón y dóblalo",
+              "expectedAnswer": "Lava esi pantalón y dóblalu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l2-ex4",
+              "question": "Traduce: Lava esa camiseta y dóblala",
+              "expectedAnswer": "Lava esa camiseta y dóblala",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l2-ex5",
+              "question": "Traduce: Lava esa ropa y dóblala",
+              "expectedAnswer": "Lava esa ropa y dóblalo",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l2-ex6",
+              "question": "Traduce: El coche no lo cogió",
+              "expectedAnswer": "El cochi nu lu cugió",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l2-ex7",
+              "question": "Traduce: Esa pregunta no la entendió",
+              "expectedAnswer": "Esa prigunta nu la entendió",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l2-ex8",
+              "question": "Traduce: El asco no lo sintió nunca",
+              "expectedAnswer": "L’ascu nu lo sintió nunca",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l2-ex9",
+              "question": "Traduce: Hay sopa hecha allí",
+              "expectedAnswer": "Hai sopa jechu allí",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l2-ex10",
+              "question": "Traduce: Piedra seca",
+              "expectedAnswer": "Piedra secu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l2-ex11",
+              "question": "Escoge la respuesta correcta: ¿Si un objeto es femenino incontable, como son el adjetivo y pronombre?",
+              "expectedAnswer": "c) Adjetivo masculino y pronombre neutro",
+              "options": [
+                "a) Adjetivo femenino y pronombre neutro",
+                "b) Adjetivo femenino y pronombre femenino",
+                "c) Adjetivo masculino y pronombre neutro",
+                "d) Adjetivo masculino y pronombre masculino"
+              ],
+              "explanation": "c) Adjetivo masculino y pronombre neutro"
+            },
+            {
+              "id": "b3-l2-ex12",
+              "question": "Elige la respuesta correcta: El viento es...",
+              "expectedAnswer": "b) Incontable masculino, es decir, adjetivo masculino y pronombre neutro",
+              "options": [
+                "a) Contable masculino",
+                "b) Incontable masculino, es decir, adjetivo masculino y pronombre neutro",
+                "c) Incontable neutro sin adjetivo de materia",
+                "d) Contable femenino"
+              ],
+              "explanation": "b) Incontable masculino, es decir, adjetivo masculino y pronombre neutro"
+            }
+          ]
+        },
+        {
+          "id": "b3-l3",
+          "title": "LECCIÓN 3 ----- COMPLEMENTO DIRECTO E INDIRECTO Y ENCLISIS",
+          "theory": "La inclisis cunsiste en poner un pronombri dimpués d’un verbu\n\nMe dijo --- Díjome\nMe trajo --- Tríjome\nSe trae --- Traise\n\nSi al jormar la inclisis la palabra riquier d’una tilde pa no perder la su tónica original, es obligatoriu ponela\n-Me dijo – Dijome (El verbo no lleva tilde, pero su nueva tónica en “di” la hace esdrújula) -- Díjome\n-Se metió -- MItiose (El verbo tiene tilde, la cual se mantiene) -- Mitióse\n-Se requiere – Riquiersi (Riquier es aguda acabada en R, sin tilde, con la enclisis se convierte en llana acabada en vocal, por lo que permanece sin tilde).\n\nLas inclisis úsanse sobri tou al iniciu de las uracionis. Son libris de usu pa cuandu sueni bien.\n\nA los verbos con pronombris, se lis quita la “r”\nVerte --- Vete\nCogerlo --- Cogelo\nDarte --- Date\n\nDistinción entre “SE”\nSE direutu --- SE\nSE indireutu --- SI\nSE impersonal --- SI\nSÉ --- SÉ",
+          "examples": [
+            "Vino a dame. / Vino a dami las llavis.",
+            "Quier vete. / Quier veti la cara.",
+            "Pasó a recogelu. / Pasó a recogeli las cosas.",
+            "Van a traela. / Van a traeli un café.",
+            "Esta herba hai que segalo. / Empenzó a dali güelta a la herba..",
+            "Vamos a dejalos / Vamos a dejalis el corréu nel buzón",
+            "Hai que dibujalas / Hai que dibujalis un planu de la casa.",
+            "Sabi ponese nel sitiu / Sabi ponesi la ropa."
+          ],
+          "exercises": [
+            {
+              "id": "b3-l3-ex1",
+              "question": "Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Vengo a pintarte el brazo",
+              "expectedAnswer": "Vengo a pintati’l brazu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex2",
+              "question": "Me puse allí",
+              "expectedAnswer": "Me pusi allí",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex3",
+              "question": "Me puse una pulsera en el brazo",
+              "expectedAnswer": "Mi pusi una pulsera nel brazu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex4",
+              "question": "Se sabe por el color (Utiliza enclisis)",
+              "expectedAnswer": "Sábisi pol color",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex5",
+              "question": "Voy a peinarme",
+              "expectedAnswer": "Voi a peiname",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex6",
+              "question": "Va a peinarte el pelo",
+              "expectedAnswer": "Va a peinati el pelu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex7",
+              "question": "Voy a ponerme los calcetines",
+              "expectedAnswer": "Voi a ponemi los calcitinis",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex8",
+              "question": "Me golpeó el brazo (Utiliza enclisis)",
+              "expectedAnswer": "Golpeómi’l brazu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex9",
+              "question": "Hay que representarla bien",
+              "expectedAnswer": "Hai que representala bien",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex10",
+              "question": "Para este tema, hay que representarles un eje para que lo entiendan",
+              "expectedAnswer": "Pa esti tema, hai que representales un eji pa que lu intiendan",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex11",
+              "question": "Se cayó (Utiliza enclisis)",
+              "expectedAnswer": "Cayóse",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex12",
+              "question": "Se cayó su móvil al suelo (Utiliza enclisis)",
+              "expectedAnswer": "Cayósi’l su móvil al suelu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l3-ex13",
+              "question": "Te voy a dar un regalo",
+              "expectedAnswer": "Ti voi a dar un regalu",
+              "explanation": ""
+            }
+          ]
+        },
+        {
+          "id": "b3-l4",
+          "title": "REPASO",
+          "theory": "Abora vamos con unas treducionis de repasu general de los tres bloquis.",
+          "examples": [],
+          "exercises": [
+            {
+              "id": "b3-l4-ex1",
+              "question": "Traduce: El se metió en la piscina (Con enclisis)",
+              "expectedAnswer": "El mitióse ena piscina",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex2",
+              "question": "Hice una torre de pizarra negra",
+              "expectedAnswer": "Jici una torri de pizarra negru",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex3",
+              "question": "La brisa es cálida",
+              "expectedAnswer": "La brisa es cálidu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex4",
+              "question": "Te dio el dinero, ¿Le diste las gracias?",
+              "expectedAnswer": "Te dio’l dineru, ¿Li disti las gracias?",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex5",
+              "question": "Me cansé en el partido",
+              "expectedAnswer": "Me cansé nel partíu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex6",
+              "question": "Me corté el dedo",
+              "expectedAnswer": "Mi corté’l deu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex7",
+              "question": "El gato es muy astuto para verlo",
+              "expectedAnswer": "El gatu es mui astutu pa velu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex8",
+              "question": "El polvo es demasiado pequeño para verlo",
+              "expectedAnswer": "El polvu es demasiáu pequeñu pa velo",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex9",
+              "question": "Quítate el barro de la ropa",
+              "expectedAnswer": "Qítati’l barru de la ropa",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex10",
+              "question": "Apártate, que no veo nada",
+              "expectedAnswer": "Apártate, que nu veo naa",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex11",
+              "question": "Me dijo que no viene (Con enclisis)",
+              "expectedAnswer": "Díjome que nu vien",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex12",
+              "question": "Te mojé la pierna",
+              "expectedAnswer": "Ti mojé la pierna",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex13",
+              "question": "Se fue con ellos",
+              "expectedAnswer": "Se jue con ellos",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex14",
+              "question": "Se sabe que no es así (Con enclisis)",
+              "expectedAnswer": "Sábisi que nu es así",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex15",
+              "question": "Se rizó el pelo ayer (Con enclisis)",
+              "expectedAnswer": "Rizósi’l pelu ayer",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex16",
+              "question": "Fui al cementerio el mes pasado",
+              "expectedAnswer": "Jui al cementeriu’l mes pasáu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex17",
+              "question": "Hace un frío que eriza la piel",
+              "expectedAnswer": "Jaz un fríu qu’iriza la piel",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex18",
+              "question": "Es posible que esté prohibido",
+              "expectedAnswer": "Es pusibli qu’esté pruhibíu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex19",
+              "question": "Esa casa se quemó por una pelea (con enclisis)",
+              "expectedAnswer": "Esa casa quemóse por una pelea",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex20",
+              "question": "A esa casa se le quemó el tejado",
+              "expectedAnswer": "A esa casa si li quemó’l tejáu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex21",
+              "question": "Me dio la sopa fría, no se lo perdonaré",
+              "expectedAnswer": "Mi dio la sopa fríu, nu si lu perdonaré",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex22",
+              "question": "Ese caldo es muy malo, aun así no lo tiraré",
+              "expectedAnswer": "Esi caldu es mui malu, aun así nu lo tiraré",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex23",
+              "question": "Empieza por el principio",
+              "expectedAnswer": "Impieza pol principiu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex24",
+              "question": "Me dio el menú después de media hora",
+              "expectedAnswer": "Mi dio’l minú dispués de media hora",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex25",
+              "question": "Te traigo ropa limpia (Enclisis)",
+              "expectedAnswer": "Tráigoti ropa limpiu",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex26",
+              "question": "Me dio un golpe",
+              "expectedAnswer": "Me dio un golpe",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex27",
+              "question": "La avenida del este es muy ancha",
+              "expectedAnswer": "L’avinía del esti es mui ancha",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex28",
+              "question": "Métete en llamada",
+              "expectedAnswer": "Métete en llamáa",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex29",
+              "question": "Estuvo en la celebración",
+              "expectedAnswer": "Istuvo ena cilibración",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex30",
+              "question": "Fue un gran porvernir",
+              "expectedAnswer": "Jue un gran purvinir",
+              "explanation": ""
+            },
+            {
+              "id": "b3-l4-ex31",
+              "question": "Estoy cansado de tanto escribir",
+              "expectedAnswer": "Estoi cansáu de tantu iscribir",
+              "explanation": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "block-4",
+      "title": "BLOQUI DE VOCABULARIU Y VERBOS",
+      "description": "Verbos irregulares, conjugaciones y nuevo vocabulario.",
+      "lessons": [
+        {
+          "id": "b4-l1",
+          "title": "LECCIÓN 1 ---- VERBOS",
+          "theory": "VERBO SER\nYo ero | Tú eris | Él/Ella es | Nós semos | Vós séis | Ell@s son\nYo juí | Tú juisti | Él/Ella jué | Nós juimos | Vós juístis | Ell@s juerin\n\nCONJUGACIONES\nEn verbos como merecer, cunducir, la 1ª persona del singular: Yo merezo, yo cunduzo. La tercera persona: Ella merez, él cunduz.\nEn subjuntivo: Que ella cunduza.\nEl imperativo singular termina en I en 2ª y 3ª conjugación: poni, sali.\nEl imperativo plural adopta las terminaciones -ái -éi -íi para las 1ª, 2ª y 3ª: marcái, sobái, cogéi, jacéi, viníi, subíi.\n\nINDEFINIDO: Verbo Echar.- Yo eché / Tú echesti / Ella echó / Nós echemos / Vós echestis / Ellas echarin. Verbo Comer.- Yo cumí / Tú cumisti / Ella cumió / Nós cumimos / Vós cumistis / Ellas cumierin.\n\nVERBOS IRREGULARES\nSobar.- suebo, suebi, sobamos...\nCoger.- cuejo, cuejis...\nCoser.- cueso, cuesis...\nCorrer.- cuerro, cuerris...\nDoler.- duelgo, duelis, duel...",
+          "examples": [],
+          "exercises": []
+        },
+        {
+          "id": "b4-l2",
+          "title": "LECCIÓN 2 --- VOCABULARIO",
+          "interactiveVocab": true,
+          "theory": "VOCABULARIO GENERAL\n\nPalabras varias:\nPero -- Piru\nComo -- Cumu\nAsí -- Asina\nSin -- Ensín\nMucho/En grandes cantidades -- Asgaya\nTodo seguido/Uno tras otro -- Arronti\nO - U\nAquí -- Equí\nDesde – Dendi\nTengo – Teno\nTengo que – Teno de/Tengo de\nSí -- Jí\nComprar -- Mercáu\nFútbol -- Júrbul\n\nColores:\nRojo -- Encarnáu/Coloráu/Roju\nVerde -- Verdi\nAmarillo -- Amarillu\nAzul -- Azul\nMorado -- Moráu\nGris -- Pedrés\nMarrón -- Pardu\nBlanco -- Brancu\nNegro -- Negru\nRosa -- Rosa\nNaranja -- Naranja\n\nPueblo:\nPrado -- Práu\nBosque -- Monti\nCartel – Endicaor/Rétulu\nÁrbol -- Árbul\nBrote -- Armuellu\nHuerta -- Güerta\nSuelo/Prado -- Verdi\nEmpinado -- Pindiu\nVacío/Abismo -- Abizu\nZarza – Barda\nRoble – Cajiga\nAcacia – Acaciu\nAbedul – Abidul\nArbusto – Setu\nMuro – Moiru\nVaya – Cierru\nValla de alambre -- Estacáu\nTronco -- Tueru\nEl puente – La puenti\nDía -- Diya\nPiedra -- Cantu\n\nCalle:\nSantnader – Sanander\nTorrelavega – Torlavega\nAdoquín -- Aduquín\nHormigón -- Jormigón\nTaxi – Tasis\nCómic/Tira cómica -- Chisti\nGrava -- Grija\nBotón -- Butón/Bötón\n\nAnimales:\nTejón -- Tasugu\nCerdo -- Chon\nGallina -- Picasuelos\nCuervo -- Corvatu\nMurciélago -- Sapulatu\nConejo -- Lapín\nSaltamontes -- Saltapraos\nAvispa -- Brispa\nGusano -- Bujanu\nTortuga -- Turtúa\nCobaya -- Coín\nOveja -- Uveja\nCalamar -- Maganu\nPulpo -- Pulpe\n\n¡Ahora vamos a practicar con el juego de vocabulario!",
+          "examples": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "block-5",
+      "title": "BLOQUI D’ESTRAS",
+      "description": "Palatalización, Tres y Verbos en A.",
+      "lessons": [
+        {
+          "id": "b5-l1",
+          "title": "LECCIÓN 1 ---- PALATALIZACIÓN",
+          "theory": "A vecis, cuandu hai una “n” con una “i”, si palataliza en “ñ”\nNieve -- Ñevi\nNidal -- Ñial",
+          "examples": [],
+          "exercises": []
+        },
+        {
+          "id": "b5-l2",
+          "title": "LECCIÓN 2 ----- TRES",
+          "theory": "Cuandu hai “trans” nuna palabra, cambea a “tres”\nEjemplos:\nTransportar – Tresportar\nTeletransporte – Teletresporti",
+          "examples": [],
+          "exercises": []
+        },
+        {
+          "id": "b5-l3",
+          "title": "LECCIÓN 3 ---- VERBOS EN A",
+          "theory": "Angunos verbos cumienzan por “a” en cántabru\nEjemplos:\nFuncionar - Ajuncionar\nRascar - Arrascar\nCerrar - Acerrar\nJuntar – Ajuntar\nRozar - Arrozar",
+          "examples": [],
+          "exercises": []
+        },
+        {
+          "id": "b5-l4",
+          "title": "LECCIÓN 4 -------- APÓSTROFE “DE”",
+          "theory": "A vecis, de jorma más vulgar, si puéi poner “El cosu’ la puerta” en vez de “El cosu de la puerta”. Puniendo un apóstrofe en vez de “de”.",
+          "examples": [],
+          "exercises": []
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "id": "vocab",
+    "title": "Repaso Vocabulario y Palabras",
+    "description": "Repaso de palabras clave y traducciones del cántabru.",
+    "categories": [
+      {
+        "name": "Palabras Varias",
+        "words": [
+          {
+            "castellano": "Pero",
+            "cantabru": "Piru",
+            "example": ""
+          },
+          {
+            "castellano": "Como",
+            "cantabru": "Cumu",
+            "example": ""
+          },
+          {
+            "castellano": "Así",
+            "cantabru": "Asina",
+            "example": ""
+          },
+          {
+            "castellano": "Sin",
+            "cantabru": "Ensín",
+            "example": ""
+          },
+          {
+            "castellano": "Mucho/En grandes cantidades",
+            "cantabru": "Asgaya",
+            "example": ""
+          },
+          {
+            "castellano": "Todo seguido/Uno tras otro",
+            "cantabru": "Arronti",
+            "example": ""
+          },
+          {
+            "castellano": "O",
+            "cantabru": "U",
+            "example": ""
+          },
+          {
+            "castellano": "Aquí",
+            "cantabru": "Equí",
+            "example": ""
+          },
+          {
+            "castellano": "Desde",
+            "cantabru": "Dendi",
+            "example": ""
+          },
+          {
+            "castellano": "Tengo",
+            "cantabru": "Teno",
+            "example": ""
+          },
+          {
+            "castellano": "Tengo que",
+            "cantabru": "Teno de/Tengo de",
+            "example": ""
+          },
+          {
+            "castellano": "Sí",
+            "cantabru": "Jí",
+            "example": ""
+          },
+          {
+            "castellano": "Comprar",
+            "cantabru": "Mercáu",
+            "example": ""
+          },
+          {
+            "castellano": "Fútbol",
+            "cantabru": "Júrbul",
+            "example": ""
+          },
+          {
+            "castellano": "Agua",
+            "cantabru": "Augua",
+            "example": ""
+          },
+          {
+            "castellano": "Pequeño",
+            "cantabru": "Chicu",
+            "example": ""
+          },
+          {
+            "castellano": "Coger",
+            "cantabru": "Pescar",
+            "example": ""
+          },
+          {
+            "castellano": "Caber",
+            "cantabru": "Coger",
+            "example": ""
+          },
+          {
+            "cantabru": "Parlar/Jablar",
+            "castellano": "Hablar",
+            "example": ""
+          },
+          {
+            "cantabru": "Guapu",
+            "castellano": "Bonito",
+            "example": ""
+          },
+          {
+            "cantabru": "Gandumiar",
+            "castellano": "Comer",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "name": "Colores",
+        "words": [
+          {
+            "castellano": "Rojo",
+            "cantabru": "Encarnáu/Coloráu/Roju",
+            "example": ""
+          },
+          {
+            "castellano": "Verde",
+            "cantabru": "Verdi",
+            "example": ""
+          },
+          {
+            "castellano": "Amarillo",
+            "cantabru": "Amarillu",
+            "example": ""
+          },
+          {
+            "castellano": "Azul",
+            "cantabru": "Azul",
+            "example": ""
+          },
+          {
+            "castellano": "Morado",
+            "cantabru": "Moráu",
+            "example": ""
+          },
+          {
+            "castellano": "Gris",
+            "cantabru": "Pedrés",
+            "example": ""
+          },
+          {
+            "castellano": "Marrón",
+            "cantabru": "Pardu",
+            "example": ""
+          },
+          {
+            "castellano": "Blanco",
+            "cantabru": "Brancu",
+            "example": ""
+          },
+          {
+            "castellano": "Negro",
+            "cantabru": "Negru",
+            "example": ""
+          },
+          {
+            "castellano": "Rosa",
+            "cantabru": "Rosa",
+            "example": ""
+          },
+          {
+            "castellano": "Naranja",
+            "cantabru": "Naranja",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "name": "Pueblo y Calle",
+        "words": [
+          {
+            "castellano": "Prado",
+            "cantabru": "Práu",
+            "example": ""
+          },
+          {
+            "castellano": "Bosque",
+            "cantabru": "Monti",
+            "example": ""
+          },
+          {
+            "castellano": "Cartel",
+            "cantabru": "Endicaor/Rétulu",
+            "example": ""
+          },
+          {
+            "castellano": "Árbol",
+            "cantabru": "Árbul",
+            "example": ""
+          },
+          {
+            "castellano": "Brote",
+            "cantabru": "Armuellu",
+            "example": ""
+          },
+          {
+            "castellano": "Huerta",
+            "cantabru": "Güerta",
+            "example": ""
+          },
+          {
+            "castellano": "Suelo/Prado",
+            "cantabru": "Verdi",
+            "example": ""
+          },
+          {
+            "castellano": "Empinado",
+            "cantabru": "Pindiu",
+            "example": ""
+          },
+          {
+            "castellano": "Vacío/Abismo",
+            "cantabru": "Abizu",
+            "example": ""
+          },
+          {
+            "castellano": "Zarza",
+            "cantabru": "Barda",
+            "example": ""
+          },
+          {
+            "castellano": "Roble",
+            "cantabru": "Cajiga",
+            "example": ""
+          },
+          {
+            "castellano": "Acacia",
+            "cantabru": "Acaciu",
+            "example": ""
+          },
+          {
+            "castellano": "Abedul",
+            "cantabru": "Abidul",
+            "example": ""
+          },
+          {
+            "castellano": "Arbusto",
+            "cantabru": "Setu",
+            "example": ""
+          },
+          {
+            "castellano": "Muro",
+            "cantabru": "Moiru",
+            "example": ""
+          },
+          {
+            "castellano": "Valla",
+            "cantabru": "Cierru",
+            "example": ""
+          },
+          {
+            "castellano": "Valla de alambre",
+            "cantabru": "Estacáu",
+            "example": ""
+          },
+          {
+            "castellano": "Tronco",
+            "cantabru": "Tueru",
+            "example": ""
+          },
+          {
+            "castellano": "El puente",
+            "cantabru": "La puenti",
+            "example": ""
+          },
+          {
+            "castellano": "Día",
+            "cantabru": "Diya",
+            "example": ""
+          },
+          {
+            "castellano": "Piedra",
+            "cantabru": "Cantu",
+            "example": ""
+          },
+          {
+            "castellano": "Santander",
+            "cantabru": "Sanander",
+            "example": ""
+          },
+          {
+            "castellano": "Torrelavega",
+            "cantabru": "Torlavega",
+            "example": ""
+          },
+          {
+            "castellano": "Adoquín",
+            "cantabru": "Aduquín",
+            "example": ""
+          },
+          {
+            "castellano": "Hormigón",
+            "cantabru": "Jormigón",
+            "example": ""
+          },
+          {
+            "castellano": "Taxi",
+            "cantabru": "Tasis",
+            "example": ""
+          },
+          {
+            "castellano": "Cómic/Tira cómica",
+            "cantabru": "Chisti",
+            "example": ""
+          },
+          {
+            "castellano": "Grava",
+            "cantabru": "Grija",
+            "example": ""
+          },
+          {
+            "castellano": "Botón",
+            "cantabru": "Butón/Bötón",
+            "example": ""
+          },
+          {
+            "castellano": "Cubo",
+            "cantabru": "Calderu/Tangarru",
+            "example": ""
+          },
+          {
+            "castellano": "Arenisca",
+            "cantabru": "Ariniza",
+            "example": ""
+          }
+        ]
+      },
+      {
+        "name": "Animales",
+        "words": [
+          {
+            "castellano": "Tejón",
+            "cantabru": "Tasugu",
+            "example": ""
+          },
+          {
+            "castellano": "Cerdo",
+            "cantabru": "Chon",
+            "example": ""
+          },
+          {
+            "castellano": "Gallina",
+            "cantabru": "Picasuelos",
+            "example": ""
+          },
+          {
+            "castellano": "Cuervo",
+            "cantabru": "Corvatu",
+            "example": ""
+          },
+          {
+            "castellano": "Murciélago",
+            "cantabru": "Sapulatu",
+            "example": ""
+          },
+          {
+            "castellano": "Conejo",
+            "cantabru": "Lapín",
+            "example": ""
+          },
+          {
+            "castellano": "Saltamontes",
+            "cantabru": "Saltapraos",
+            "example": ""
+          },
+          {
+            "castellano": "Avispa",
+            "cantabru": "Brispa",
+            "example": ""
+          },
+          {
+            "castellano": "Gusano",
+            "cantabru": "Bujanu",
+            "example": ""
+          },
+          {
+            "castellano": "Tortuga",
+            "cantabru": "Turtúa",
+            "example": ""
+          },
+          {
+            "castellano": "Cobaya",
+            "cantabru": "Coín",
+            "example": ""
+          },
+          {
+            "castellano": "Oveja",
+            "cantabru": "Uveja",
+            "example": ""
+          },
+          {
+            "castellano": "Calamar",
+            "cantabru": "Maganu",
+            "example": ""
+          },
+          {
+            "castellano": "Pulpo",
+            "cantabru": "Pulpe",
+            "example": ""
+          },
+          {
+            "castellano": "Maullar",
+            "cantabru": "Miagar",
+            "example": ""
+          },
+          {
+            "castellano": "Maullido",
+            "cantabru": "Miaguíu",
+            "example": ""
+          },
+          {
+            "castellano": "Pez",
+            "cantabru": "Peji",
+            "example": ""
+          }
+        ]
+      }
+    ]
+  }
+}

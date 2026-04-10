@@ -1,9 +1,10 @@
 import React from 'react';
 import { useProgress } from '../context/ProgressContext';
-import { courseData } from '../data/courseData';
+import { useCourseData } from '../context/CourseDataContext';
 
 const Results = () => {
-    const { progress, resetProgress, setCurrentLocation, updateProgress } = useProgress();
+    const { progress, resetProgress, updateProgress } = useProgress();
+    const { courseData } = useCourseData();
 
     // Calculate total possible score
     const totalExercises = courseData.blocks.reduce((acc, block) =>

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Depriendi Cántabru | Contenido dinámico</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f8fafc;
+        --panel: #ffffff;
+        --text: #0f172a;
+        --muted: #475569;
+        --accent: #0ea5e9;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: "Source Sans 3", "Segoe UI", sans-serif;
+        background: radial-gradient(circle at 20% 20%, #dbeafe, var(--bg) 45%),
+          radial-gradient(circle at 80% 0%, #cffafe, var(--bg) 40%);
+        color: var(--text);
+        display: grid;
+        place-items: center;
+        padding: 24px;
+      }
+
+      main {
+        width: min(760px, 100%);
+        background: var(--panel);
+        border-radius: 16px;
+        padding: 28px;
+        box-shadow: 0 12px 36px rgba(15, 23, 42, 0.1);
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: clamp(1.6rem, 3vw, 2.2rem);
+      }
+
+      p {
+        margin: 8px 0;
+        color: var(--muted);
+      }
+
+      a {
+        color: var(--accent);
+        font-weight: 700;
+      }
+
+      code {
+        display: inline-block;
+        margin-top: 8px;
+        background: #e2e8f0;
+        border-radius: 8px;
+        padding: 4px 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Contenido remoto del curso</h1>
+      <p>
+        Esta página sirve el contenido dinámico de Depriendi Cántabru para que la app
+        pueda actualizar ejercicios y vocabulario sin recompilar.
+      </p>
+      <p>
+        Archivo de datos:
+        <a href="./courseData.json" target="_blank" rel="noopener noreferrer">courseData.json</a>
+      </p>
+      <p><code>courseData.json</code></p>
+    </main>
+  </body>
+</html>

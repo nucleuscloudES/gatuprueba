@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
 import { useProgress } from '../context/ProgressContext';
-import { courseData } from '../data/courseData';
+import { useCourseData } from '../context/CourseDataContext';
 import { isAnswerCorrect } from '../utils/stringComparison';
 
 const VocabularyBlock = ({ isEmbedded = false }) => {
     const { setCurrentLocation, progress, updateProgress } = useProgress();
+    const { courseData } = useCourseData();
     const [mode, setMode] = useState('menu'); // 'menu', 'practice', 'flashcards'
     const [activeCategory, setActiveCategory] = useState(null);
     const [currentIndex, setCurrentIndex] = useState(0);

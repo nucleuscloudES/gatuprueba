@@ -21,7 +21,7 @@ export const ProgressProvider = ({ children }) => {
     if (saved) {
       try {
         return JSON.parse(saved);
-      } catch (e) {
+      } catch {
         return initialState;
       }
     }
@@ -113,4 +113,5 @@ export const ProgressProvider = ({ children }) => {
   );
 };
 
+// eslint-disable-next-line react-refresh/only-export-components
 export const useProgress = () => useContext(ProgressContext);

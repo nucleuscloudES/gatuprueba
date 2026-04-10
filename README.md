@@ -43,3 +43,26 @@ Este proyecto ya está configurado para desplegar en GitHub Pages del repositori
 URL esperada:
 
 `https://nucleuscloudes.github.io/gatuprueba/`
+
+## Contenido dinámico con fallback
+
+La app ahora intenta cargar el contenido del curso desde una URL remota y, si falla por cualquier motivo (timeout, red, formato inválido, etc.), usa automáticamente el contenido hardcodeado de `src/data/courseData.js`.
+
+- Proveedor de datos: `src/context/CourseDataContext.jsx`
+- URL por defecto: `https://raw.githubusercontent.com/nucleuscloudES/gatuprueba/course-content/courseData.json`
+- Variables opcionales: `VITE_COURSE_DATA_URL` y `VITE_COURSE_DATA_TIMEOUT_MS` (ver `.env.example`)
+
+## Sitio estático de contenido
+
+Se creó el directorio `course-content-site/` para publicar contenido actualizable sin recompilar la aplicación:
+
+- `course-content-site/index.html`: página estática de referencia
+- `course-content-site/courseData.json`: datos consumidos por la app
+
+## Workflow de despliegue del contenido estático
+
+Se añadió el workflow `.github/workflows/deploy-course-content.yml`.
+
+- Dispara en push a `main` cuando cambia `course-content-site/**`.
+- Publica el contenido en la rama `course-content`.
+- La app consume el JSON remoto desde esa rama vía `raw.githubusercontent.com`.
