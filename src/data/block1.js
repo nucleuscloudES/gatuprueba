@@ -1,7 +1,7 @@
 export const block1 = {
     id: "block-1",
     title: "BLOQUI 1",
-    description: "Terminaciones U, I, D final, J, CC/CT/ECT, Y/Verbos/X",
+    description: "Terminaciones U, I, D final, J, CC/CT/ECT, Y/Verbos/X ._.",
     lessons: [
         {
             id: "b1-l1",
