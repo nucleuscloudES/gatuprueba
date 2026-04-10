@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "sync:android": "npm run build && npx cap sync android",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },

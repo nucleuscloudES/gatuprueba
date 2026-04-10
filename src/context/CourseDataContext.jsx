@@ -2,7 +2,7 @@ import React, { createContext, useContext, useEffect, useRef, useState } from 'r
 import { courseData as fallbackCourseData } from '../data/courseData';
 
 const DEFAULT_REMOTE_DATA_URL = 'https://raw.githubusercontent.com/nucleuscloudES/gatuprueba/course-content/courseData.json';
-const DEFAULT_TIMEOUT_MS = 2000;
+const DEFAULT_TIMEOUT_MS = 8000;
 
 const configuredUrl = import.meta.env.VITE_COURSE_DATA_URL?.trim();
 const remoteDataUrl = configuredUrl || DEFAULT_REMOTE_DATA_URL;
