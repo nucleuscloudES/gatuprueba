@@ -41,7 +41,7 @@ Solu acaban en U los verbos en participiu, el restu NO (Siempre con tilde).`,
         {
             id: "b1-l2",
             title: "LECCIÓN 2 ----- TERMINACIÓN EN I",
-            theory: `En cántabru tirminan en I, IS, IN tolas palabras qu’en castellanu tirminan en E, ES, EN
+            theory: `En cántabru tirminan en I, IS, IN tolas palabras qu'en castellanu tirminan en E, ES, EN
 
 Esceptu “QUE” ,“DE”, Sustantivos y verbos monosémicos (Té, ve, fe, sé...), Palabras agudas (Canté, Monté, Viviré, Parqué, Arcén...)
 
@@ -70,11 +70,11 @@ Los verbos acabados en “te”, “se”, “me” y “le” puéin acabar de 
         {
             id: "b1-l3",
             title: "LECCIÓN 3 ----- “D” FINAL E INTERVOCÁLICA",
-            theory: `Toas las D finalis s’iliminan y si pon tildi ena última letra. Enos impirativos no si quita la D
+            theory: `Toas las D finalis s'iliminan y si pon tildi ena última letra. Enos impirativos no si quita la D
 
-Las “D” intervocálicas tamién s’iliminan. En casu de quedar 2 “a” siguías si pon tildi.
+Las “D” intervocálicas tamién s'iliminan. En casu de quedar 2 “a” siguías si pon tildi.
 
-Solu s’aplica enas últimas sílabas. Hai escepcionis cumu: vida, edor...`,
+Solu s'aplica enas últimas sílabas. Hai escepcionis cumu: vida, edor...`,
             examples: [
                 "Verdad -- Verdá",
                 "Velocidad -- Velocidá",
@@ -102,8 +102,8 @@ Solu s’aplica enas últimas sílabas. Hai escepcionis cumu: vida, edor...`,
 
 En cántabru cambean a J las H y F que vengan de una F latina.
 
-Piru hai otras palabras que tamién llevan J cumu: Jasta, Jallar o Jatu. Estas palabras hai que deprendelas, polo que n’estos tests pondremos tolas palabras pruvinientis del latín pa potenciar vocabulariu.
-Nel restu de test, si indicarán las F u H latinas. Las qu’estén en nigrita y cursiva hai que cambealas a J.`,
+Piru hai otras palabras que tamién llevan J cumu: Jasta, Jallar o Jatu. Estas palabras hai que deprendelas, polo que n'estos tests pondremos tolas palabras pruvinientis del latín pa potenciar vocabulariu.
+Nel restu de test, si indicarán las F u H latinas. Las qu'estén en nigrita y cursiva hai que cambealas a J.`,
             examples: [
                 "Horno – Fornus – Jornu",
                 "Fuente – Fontis – Juenti",
@@ -123,7 +123,7 @@ Nel restu de test, si indicarán las F u H latinas. Las qu’estén en nigrita y
         {
             id: "b1-l5",
             title: "LECCIÓN 5 ---- CC, CT y ECT",
-            theory: `Si una palabra tien CC u CT, s’ilimina una C
+            theory: `Si una palabra tien CC u CT, s'ilimina una C
 Ejemplos:
 Acción -- Ación
 Actuar – Atuar
@@ -151,7 +151,7 @@ Ejemplos:
 Hay – Hai
 Estoy – Estoi
 
-Hai verbos qu’en vez de acabar en I simplementi no tienin la última letra. 
+Hai verbos qu'en vez de acabar en I simplementi no tienin la última letra. 
 Ejemplos;
 Viene – Vien
 Tiene – Tien
