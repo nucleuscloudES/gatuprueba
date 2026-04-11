@@ -32,6 +32,31 @@ export const ProgressProvider = ({ children }) => {
     localStorage.setItem('aprende-cantabru-progress', JSON.stringify(progress));
   }, [progress]);
 
+  useEffect(() => {
+    // Initialize history stack on mount for mobile back button support
+    if (progress.currentBlock !== null) {
+      window.history.replaceState({ blockId: null, lessonId: 0 }, '');
+      window.history.pushState({ blockId: progress.currentBlock, lessonId: progress.currentLesson }, '');
+    } else {
+      window.history.replaceState({ blockId: null, lessonId: 0 }, '');
+    }
+
+    const handlePopState = (event) => {
+      const blockId = event.state && event.state.blockId !== undefined ? event.state.blockId : null;
+      const lessonId = event.state && event.state.lessonId !== undefined ? event.state.lessonId : 0;
+      
+      setProgress(prev => {
+        if (prev.currentBlock === blockId && prev.currentLesson === lessonId) return prev;
+        return { ...prev, currentBlock: blockId, currentLesson: lessonId };
+      });
+      window.scrollTo(0, 0);
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => window.removeEventListener('popstate', handlePopState);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []); // Run once on mount
+
   const updateProgress = (updates) => {
     setProgress((prev) => ({ ...prev, ...updates }));
   };
@@ -70,11 +95,17 @@ export const ProgressProvider = ({ children }) => {
     }));
   };
   const setCurrentLocation = (blockId, lessonId = 0) => {
-    setProgress((prev) => ({
-      ...prev,
-      currentBlock: blockId,
-      currentLesson: lessonId
-    }));
+    setProgress((prev) => {
+      if (prev.currentBlock !== blockId || prev.currentLesson !== lessonId) {
+        window.history.pushState({ blockId, lessonId }, '', '');
+      }
+      return {
+        ...prev,
+        currentBlock: blockId,
+        currentLesson: lessonId
+      };
+    });
+    window.scrollTo(0, 0);
   };
 
   const resetProgress = () => {
