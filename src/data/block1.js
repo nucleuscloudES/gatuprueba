@@ -1,7 +1,7 @@
 export const block1 = {
     id: "block-1",
     title: "BLOQUI 1",
-    description: "Terminaciones U, I, D final, J, CC/CT/ECT, Y/Verbos/X ._.",
+    description: "Terminaciones U, I, D final, J, CC/CT/ECT, Y/Verbos/X",
     lessons: [
         {
             id: "b1-l1",
@@ -10,17 +10,20 @@ export const block1 = {
 
 En cántabru acábanse en U tolos SUSTANTIVOS, ADJITIVOS, ADVERBIOS y PRONOMBRIS singularis acabaos en O en castellanu (Sin ser agudas).
 
+Ejemplos:
+
+Toro -- Toru
+Malo -- Malu
+Cuando -- Cuandu
+Mío -- Míu
+No – Nu
+
 ATINCIÓN:
 Los pluralis NO acaban en U enl cántabru estándar. (El cántabru estándar es una generalización del cántabru vivo que se ha reglamentizado para lograr el reconocimiento como lengua).
 
 ATINCIÓN:
 Solu acaban en U los verbos en participiu, el restu NO (Siempre con tilde).`,
             examples: [
-                "Toro -- Toru",
-                "Malo -- Malu",
-                "Cuando -- Cuandu",
-                "Mío -- Míu",
-                "No – Nu",
                 "Nacido -- Nacíu",
                 "Visto -- Vistu",
                 "Viviendo -- Viviendo (gerundio)",
@@ -34,7 +37,7 @@ Solu acaban en U los verbos en participiu, el restu NO (Siempre con tilde).`,
                 { id: "b1-l1-ex4", question: 'Traduce “Pelo claro”', expectedAnswer: "Pelu claru", explanation: "" },
                 { id: "b1-l1-ex5", question: 'Traduce “Solo”', expectedAnswer: "Solu", explanation: "" },
                 { id: "b1-l1-ex6", question: 'Traduce “Un perro y dos gatos”', expectedAnswer: "Un perru y dos gatos", explanation: "" },
-                { id: "b1-l1-ex7", question: '¿Cuál de estos “canto” acaba en U en cántabru?', expectedAnswer: "2. Me di con un canto en el pie", options: ["1. Yo canto muy mal", "2. Me di con un canto en el pie"], explanation: "1. Yo canto muy mal\n2. Me di con un canto en el pie" },
+                { id: "b1-l1-ex7", question: '¿Cuál de estos “canto” acaba en U en cántabru?', expectedAnswer: "2. Me di con un canto en el pie", options: ["1. Yo canto muy mal", "2. Me di con un canto en el pie"], explanation: "" },
                 { id: "b1-l1-ex8", question: 'Traduce “Veo un poco mal”', expectedAnswer: "Veo un pocu mal", explanation: "" }
             ]
         },
@@ -60,7 +63,18 @@ Los verbos acabados en “te”, “se”, “me” y “le” puéin acabar de 
                 { id: "b1-l2-ex5", question: 'Traduce “¿Qué dices?”', expectedAnswer: "¿Qué dicis?", explanation: "" },
                 { id: "b1-l2-ex6", question: 'Traduce “Lee y bebe un té”', expectedAnswer: "Lei y bebi un té", explanation: "" },
                 { id: "b1-l2-ex7", question: 'Traduce “Aparqué por ese monte”', expectedAnswer: "Aparqué por esi monti", explanation: "" },
-                { id: "b1-l2-ex8", question: 'Elige la respuesta correcta:', expectedAnswer: "c) Tener nunca acaba en IR.", options: ["a) Tener es Tenir porque acaba en er.", "b) Tener solo es Tenir si es sustantivo.", "c) Tener nunca acaba en IR.", "d) Al igual que las acabadas en EN, sólo se aplica el cambio si no es un verbo que acaba en te, me, se y le"], explanation: "c) Tener nunca acaba en IR." },
+                { 
+                    id: "b1-l2-ex8", 
+                    question: 'Elige la respuesta correcta:', 
+                    expectedAnswer: "c) “Tener” nunca acaba en “IR”", 
+                    options: [
+                        "a) “Tener” es “Tenir” porque acaba en “er”",
+                        "b) “Tener” solo es “Tenir” si es sustantivo",
+                        "c) “Tener” nunca acaba en “IR”",
+                        "d) Al igual que las acabadas en “EN”, sólo se aplica el cambio si no es un verbo que acaba en “te”, “me”, “se” y “le”"
+                    ], 
+                    explanation: "" 
+                },
                 { id: "b1-l2-ex9", question: 'Traduce “Ese oso es malo y grande”', expectedAnswer: "Esi osu es malu y grandi", explanation: "" },
                 { id: "b1-l2-ex10", question: 'Traduce “Vienen de Burgos y saben otro idioma”', expectedAnswer: "Vienin de Burgos y sabin otru idioma", explanation: "" },
                 { id: "b1-l2-ex11", question: 'Escribe 14 en letra y en cántabru', expectedAnswer: "Catorci", explanation: "" },
@@ -72,9 +86,13 @@ Los verbos acabados en “te”, “se”, “me” y “le” puéin acabar de 
             title: "LECCIÓN 3 ----- “D” FINAL E INTERVOCÁLICA",
             theory: `Toas las D finalis s'iliminan y si pon tildi ena última letra. Enos impirativos no si quita la D
 
-Las “D” intervocálicas tamién s'iliminan. En casu de quedar 2 “a” siguías si pon tildi.
+Las “D” intervocálicas tamién s'iliminan. En casu de quedar dobli “a” siguías si pon tildi.
 
-Solu s'aplica enas últimas sílabas. Hai escepcionis cumu: vida, edor...`,
+En casu de quedar “eu” tamién lleva tildi “éu”
+
+Solu s'aplica enas últimas sílabas. Hai escepcionis cumu: vida, edor...
+
+(Para no lleva D pero se escribe “pa”, al ser una palabra común la empezaremos a usar ahora)`,
             examples: [
                 "Verdad -- Verdá",
                 "Velocidad -- Velocidá",
@@ -91,7 +109,19 @@ Solu s'aplica enas últimas sílabas. Hai escepcionis cumu: vida, edor...`,
                 { id: "b1-l3-ex1", question: 'Traduce “Manada”', expectedAnswer: "Manáa", explanation: "" },
                 { id: "b1-l3-ex2", question: 'Traduce “Bajad a Madrid”', expectedAnswer: "Bajad a Madrí", explanation: "" },
                 { id: "b1-l3-ex3", question: 'Traduce “El pasado español es grandioso. Ese poder era inmenso ”', expectedAnswer: "El pasáu español es grandiosu. Esi poer era inmensu", explanation: "" },
-                { id: "b1-l3-ex4", question: 'Elige la respuesta correcta. A estabilidad se le quita:', expectedAnswer: "d) Solo se quita la última D porque tiene preferencia la última, además se pone tilde porque es aguda acabada en vocal: estabilidá", options: ["a) La última D porque tiene preferencia la última: estabilida", "b) La última D y la intervocálica, además se le pone tilde a la última A porque es aguda y: estabiliá", "c) Solo se quita la intervocálica y se pone tilde porque si quedan dos “a” seguidas pone tilde: estabiliad", "d) Solo se quita la última D porque tiene preferencia la última, además se pone tilde porque es aguda acabada en vocal: estabilidá", "e) Ninguna es correcta"], explanation: "d) Esa es la regla correcta." },
+                { 
+                    id: "b1-l3-ex4", 
+                    question: 'Elige la respuesta correcta. A estabilidad se le quita:', 
+                    expectedAnswer: "d) Solo se quita la última D porque tiene preferencia la última, además se pone tilde porque es aguda acabada en vocal: estabilidá", 
+                    options: [
+                        "a) La última D porque tiene preferencia la última: estabilida",
+                        "b) La última D y la intervocálica, además se le pone tilde a la última A porque es aguda y: estabiliá",
+                        "c) Solo se quita la intervocálica y se pone tilde porque si quedan dos “a” seguidas pone tilde: estabiliad",
+                        "d) Solo se quita la última D porque tiene preferencia la última, además se pone tilde porque es aguda acabada en vocal: estabilidá",
+                        "e) Ninguna es correcta"
+                    ], 
+                    explanation: "" 
+                },
                 { id: "b1-l3-ex5", question: 'Traduce “Enamorado”', expectedAnswer: "Enamoráu", explanation: "" }
             ]
         },
@@ -113,7 +143,7 @@ Nel restu de test, si indicarán las F u H latinas. Las qu'estén en nigrita y c
             exercises: [
                 { id: "b1-l4-ex1", question: 'Traduce “Horno”', expectedAnswer: "Jornu", explanation: "" },
                 { id: "b1-l4-ex2", question: 'Traduce “Fuera”', expectedAnswer: "Juera", explanation: "" },
-                { id: "b1-l4-ex3", question: 'Traduce “Él halló unas fuentes que hacen mucho ruido”', expectedAnswer: "Él jalló unas juentis que jacin muchu ruidu", explanation: "" },
+                { id: "b1-l4-ex3", question: 'Traduce “Él halló unas fuentes que hacen mucho ruido”', expectedAnswer: "Él jalló unas juentis que jacin muchu ruíu", explanation: "" },
                 { id: "b1-l4-ex4", question: 'Traduce “Ahogado”', expectedAnswer: "Ajogáu", explanation: "" },
                 { id: "b1-l4-ex5", question: 'Traduce “Hierro”', expectedAnswer: "Jierru", explanation: "" },
                 { id: "b1-l4-ex6", question: 'Traduce “Hacha”', expectedAnswer: "Jacha", explanation: "" },
@@ -139,8 +169,33 @@ Conectan – Coneutan`,
                 { id: "b1-l5-ex2", question: 'Traduce “Adicción”', expectedAnswer: "Adición", explanation: "" },
                 { id: "b1-l5-ex3", question: 'Traduce “El proyecto de la otra clase”', expectedAnswer: "El proyeutu de la otra clasi", explanation: "" },
                 { id: "b1-l5-ex4", question: 'Traduce “Aspectos”', expectedAnswer: "Aspeutos", explanation: "" },
-                { id: "b1-l5-ex5", question: 'Elige la respuesta correcta (Aspecto -> Aspeutu, Perfecto -> Perfeutu, etc):', expectedAnswer: "e) La C es correcta, y perfectos es perfeutos", options: ["a) Los plurales acaban en u", "b) Aspectos es Aspeutes", "c) La regla no aplica en plurales para la u final", "d) Actúan es Actuan", "e) La C es correcta, y perfectos es perfeutos", "f) Ninguna de las anteriores"], explanation: "e) La C es correcta, pero el plural acaba en 'os' porque los plurales no acaban en U (Perfeutos)." },
-                { id: "b1-l5-ex6", question: 'Elige la respuesta correcta:', expectedAnswer: "e) Ninguna es correcta", options: ["a) Acción es Aczión", "b) Perfecto es Perfectu", "c) Actuar es Aztuar", "d) Trayecto es Trayectu", "e) Ninguna es correcta"], explanation: "e) Ninguna es correcta" }
+                { 
+                    id: "b1-l5-ex5", 
+                    question: 'Elige la respuesta correcta:', 
+                    expectedAnswer: "e) La C es correcta, pero acaba en “eutos” porque los plurales no acaban en U.", 
+                    options: [
+                        "a) “Correctos” es “correutus” ya que todo lo que lleva “ecto” se cambia a “eutu”.",
+                        "b) “Correctos” no cambia por ser plural.",
+                        "c) “Correctos” tiermina en “ecto” por lo que tiene “ect”, que independientemente del género y número de la palabra se cambia a “eut” por lo que “Correutus” es correcto.",
+                        "d) No cambia, está claro.",
+                        "e) La C es correcta, pero acaba en “eutos” porque los plurales no acaban en U.",
+                        "f) Ninguna es correcta"
+                    ], 
+                    explanation: "" 
+                },
+                { 
+                    id: "b1-l5-ex6", 
+                    question: 'Elige la respuesta correcta', 
+                    expectedAnswer: "e) Ninguna es correcta", 
+                    options: [
+                        "a) Si una palabra lleva “cc” se quitan las dos “c” y se cambia a “z” porque el sonido que queda es /Z/",
+                        "b) Si una palabra tiene “ct” se deja la “t”",
+                        "c) Si una palabra tiene “ect” se quita la “c” porque a las palabras con “ct” se les quita la “c”.",
+                        "d) Si una palabra tiene “cc” se le quita siempre la segunda “c”, si tienen “ct” se quita una y se deja la que mejor suene y las que tienen “ect” se cambian a “eut” independientemente del número, pero no del género.",
+                        "e) Ninguna es correcta"
+                    ], 
+                    explanation: "" 
+                }
             ]
         },
         {
@@ -151,7 +206,7 @@ Ejemplos:
 Hay – Hai
 Estoy – Estoi
 
-Hai verbos qu'en vez de acabar en I simplementi no tienin la última letra. 
+Hai verbos qu'en vez de acabar en I simplementi no tienin la última letra.
 Ejemplos;
 Viene – Vien
 Tiene – Tien
@@ -174,36 +229,36 @@ Las X suelen cambiar a S`,
             theory: `Abora vamos a jacer test de repasu con tolo dau nel bloqui 1.`,
             examples: [],
             exercises: [
-                { id: "b1-l7-ex1", question: 'Traduce: Ese prado es mío', expectedAnswer: "Esi práu es míu", explanation: "" },
-                { id: "b1-l7-ex2", question: 'Traduce: Viene mañana', expectedAnswer: "Vien mañana", explanation: "" },
-                { id: "b1-l7-ex3", question: 'Traduce: Para hacer eso, no hagas nada', expectedAnswer: "Pa jacer esu, nu jagas naa", explanation: "" },
-                { id: "b1-l7-ex4", question: 'Traduce: La noche tiene a la luna', expectedAnswer: "La nochi tien a la luna", explanation: "" },
-                { id: "b1-l7-ex5", question: 'Traduce: No sé nada del temario dado con anterioridad', expectedAnswer: "Nu sé naa del temariu dáu con anterioridá", explanation: "" },
-                { id: "b1-l7-ex6", question: 'Traduce: No pongo tildes nunca, creo que son inútiles', expectedAnswer: "Nu pongo tildis nunca, creo que son inútilis", explanation: "" },
-                { id: "b1-l7-ex7", question: 'Traduce: El horno no va bien', expectedAnswer: "El jornu nu va bien", explanation: "" },
-                { id: "b1-l7-ex8", question: 'Traduce: Eres muy alto', expectedAnswer: "Eris mui altu", explanation: "" },
-                { id: "b1-l7-ex9", question: 'Traduce: Paso el paso y canto con un canto', expectedAnswer: "Paso el pasu y canto con un cantu", explanation: "" },
-                { id: "b1-l7-ex10", question: 'Traduce: Que', expectedAnswer: "Que", explanation: "" },
-                { id: "b1-l7-ex11", question: 'Traduce: Hay que accionar el chisme ese', expectedAnswer: "Hai que acionar el chismi esi", explanation: "" },
-                { id: "b1-l7-ex12", question: 'Traduce: Ese aspecto da miedo', expectedAnswer: "Esi aspeutu da miedu", explanation: "" },
-                { id: "b1-l7-ex13", question: 'Traduce: Oswald tiene un supermercado fuera de la ciudad', expectedAnswer: "Oswald tien un supermercáu juera de la ciudá", explanation: "" },
-                { id: "b1-l7-ex14", question: 'Traduce: El primero fue aburrido', expectedAnswer: "El primeru jue aburríu", explanation: "" },
-                { id: "b1-l7-ex15", question: 'Traduce: Ese cuadro es muy feo', expectedAnswer: "Esi cuadru es mui feu", explanation: "" },
-                { id: "b1-l7-ex16", question: 'Traduce: El tejado es alto', expectedAnswer: "El tejáu es altu", explanation: "" },
-                { id: "b1-l7-ex17", question: 'Traduce: Este monte no es verde, es amarillo', expectedAnswer: "Esti monti nu es verdi, es amarillu", explanation: "" },
-                { id: "b1-l7-ex18", question: 'Traduce: El llavero está muy caro', expectedAnswer: "El llaveru está mui caru", explanation: "" },
-                { id: "b1-l7-ex19", question: 'Traduce: El bote de tomate', expectedAnswer: "El boti de tomati", explanation: "" },
-                { id: "b1-l7-ex20", question: 'Traduce: El teclado no va', expectedAnswer: "El tecláu nu va", explanation: "" },
-                { id: "b1-l7-ex21", question: 'Traduce: ¿“El Prado”? Eso es el museo de Madrid', expectedAnswer: "¿”El Prado”? Esu es el museu de Madrí", explanation: "" },
-                { id: "b1-l7-ex22", question: 'Traduce: Hay mucho plástico', expectedAnswer: "Hai muchu plásticu", explanation: "" },
-                { id: "b1-l7-ex23", question: 'Traduce: Puedes ganar el premio gordo', expectedAnswer: "Puéis ganar el premiu gordu", explanation: "" },
-                { id: "b1-l7-ex24", question: 'Traduce: El portátil es demasiado viejo', expectedAnswer: "El portátil es demasiáu vieju", explanation: "" },
-                { id: "b1-l7-ex25", question: 'Traduce: Unos gatos sueltos por ahí roban mucho', expectedAnswer: "Unos gatos sueltos por ahí roban muchu", explanation: "" },
-                { id: "b1-l7-ex26", question: 'Traduce: Ese salce es muy alto', expectedAnswer: "Esi salci es mui altu", explanation: "" },
-                { id: "b1-l7-ex27", question: 'Traduce: Voy hasta allí', expectedAnswer: "Voi jasta allí", explanation: "" },
-                { id: "b1-l7-ex28", question: 'Traduce: Es perfecto para mí', expectedAnswer: "Es perfeutu pa mí", explanation: "" },
-                { id: "b1-l7-ex29", question: 'Traduce: Es muy listo para esos temas', expectedAnswer: "Es mui listu pa estos temas", explanation: "" },
-                { id: "b1-l7-ex30", question: 'Traduce: Dicen que tú eres alto', expectedAnswer: "Dicin que tú eris altu", explanation: "" }
+                { id: "b1-l7-ex1", question: 'Ese prado es mío', expectedAnswer: "Esi práu es míu", explanation: "" },
+                { id: "b1-l7-ex2", question: 'Viene mañana', expectedAnswer: "Vien mañana", explanation: "" },
+                { id: "b1-l7-ex3", question: 'Para hacer eso, no hagas nada', expectedAnswer: "Pa jacer esu, nu jagas naa", explanation: "" },
+                { id: "b1-l7-ex4", question: 'La noche tiene a la luna', expectedAnswer: "La nochi tien a la luna", explanation: "" },
+                { id: "b1-l7-ex5", question: 'No sé nada del temario dado con anterioridad', expectedAnswer: "Nu sé naa del temariu dáu con anterioridá", explanation: "" },
+                { id: "b1-l7-ex6", question: 'No pongo tildes nunca, creo que son inútiles', expectedAnswer: "Nu pongo tildis nunca, creo que son inútilis", explanation: "" },
+                { id: "b1-l7-ex7", question: 'El horno no va bien', expectedAnswer: "El jornu nu va bien", explanation: "" },
+                { id: "b1-l7-ex8", question: 'Eres muy alto', expectedAnswer: "Eris mui altu", explanation: "" },
+                { id: "b1-l7-ex9", question: 'Paso el paso y canto con un canto', expectedAnswer: "Paso el pasu y canto con un cantu", explanation: "" },
+                { id: "b1-l7-ex10", question: 'Que', expectedAnswer: "Que", explanation: "" },
+                { id: "b1-l7-ex11", question: 'Hay que accionar el chisme ese', expectedAnswer: "Hai que acionar el chismi esi", explanation: "" },
+                { id: "b1-l7-ex12", question: 'Ese aspecto da miedo', expectedAnswer: "Esi aspeutu da miéu", explanation: "" },
+                { id: "b1-l7-ex13", question: 'Oswald tiene un supermercado fuera de la ciudad', expectedAnswer: "Oswald tien un supermercáu juera de la ciudá", explanation: "" },
+                { id: "b1-l7-ex14", question: 'El primero fue aburrido', expectedAnswer: "El primeru jue aburríu", explanation: "" },
+                { id: "b1-l7-ex15", question: 'Ese cuadro es muy feo', expectedAnswer: "Esi cuadru es mui feu", explanation: "" },
+                { id: "b1-l7-ex16", question: 'El tejado es alto', expectedAnswer: "El tejáu es altu", explanation: "" },
+                { id: "b1-l7-ex17", question: 'Este monte no es verde, es amarillo', expectedAnswer: "Esti monti nu es verdi, es amarillu", explanation: "" },
+                { id: "b1-l7-ex18", question: 'El llavero está muy caro', expectedAnswer: "El llaveru está mui caru", explanation: "" },
+                { id: "b1-l7-ex19", question: 'El bote de tomate', expectedAnswer: "El boti de tomati", explanation: "" },
+                { id: "b1-l7-ex20", question: 'El teclado no va', expectedAnswer: "El tecláu nu va", explanation: "" },
+                { id: "b1-l7-ex21", question: '¿“El Prado”? Eso es el museo de Madrid', expectedAnswer: "¿”El Prado”? Esu es el muséu de Madrí", explanation: "" },
+                { id: "b1-l7-ex22", question: 'Hay mucho plástico', expectedAnswer: "Hai muchu plásticu", explanation: "" },
+                { id: "b1-l7-ex23", question: 'Puedes ganar el premio gordo', expectedAnswer: "Puéis ganar el premiu gordu", explanation: "" },
+                { id: "b1-l7-ex24", question: 'El portátil es demasiado viejo', expectedAnswer: "El portátil es demasiáu vieju", explanation: "" },
+                { id: "b1-l7-ex25", question: 'Unos gatos sueltos por ahí roban mucho', expectedAnswer: "Unos gatos sueltos por ahí roban muchu", explanation: "" },
+                { id: "b1-l7-ex26", question: 'Ese salce es muy alto', expectedAnswer: "Esi salci es mui altu", explanation: "" },
+                { id: "b1-l7-ex27", question: 'Voy hasta allí', expectedAnswer: "Voi jasta allí", explanation: "" },
+                { id: "b1-l7-ex28", question: 'Es perfecto para mí', expectedAnswer: "Es perfeutu pa mí", explanation: "" },
+                { id: "b1-l7-ex29", question: 'Es muy listo para esos temas', expectedAnswer: "Es mui listu pa estos temas", explanation: "" },
+                { id: "b1-l7-ex30", question: 'Dicen que tú eres alto', expectedAnswer: "Dicin que tú eris altu", explanation: "" }
             ]
         }
     ]

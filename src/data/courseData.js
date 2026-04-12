@@ -33,15 +33,7 @@ export const courseData = {
                     { castellano: "Tengo que", cantabru: "Teno de/Tengo de", example: "" },
                     { castellano: "Sí", cantabru: "Jí", example: "" },
                     { castellano: "Comprar", cantabru: "Mercáu", example: "" },
-                    { castellano: "Fútbol", cantabru: "Júrbul", example: "" },
-                    // Added remaining general words you had previously requested:
-                    { castellano: "Agua", cantabru: "Augua", example: "" },
-                    { castellano: "Pequeño", cantabru: "Chicu", example: "" },
-                    { castellano: "Coger", cantabru: "Pescar", example: "" },
-                    { castellano: "Caber", cantabru: "Coger", example: "" },
-                    { cantabru: "Parlar/Jablar", castellano: "Hablar", example: "" },
-                    { cantabru: "Guapu", castellano: "Bonito", example: "" },
-                    { cantabru: "Gandumiar", castellano: "Comer", example: "" },
+                    { castellano: "Fútbol", cantabru: "Júrbul", example: "" }
                 ]
             },
             {
@@ -61,7 +53,7 @@ export const courseData = {
                 ]
             },
             {
-                name: "Pueblo y Calle",
+                name: "Pueblo",
                 words: [
                     { castellano: "Prado", cantabru: "Práu", example: "" },
                     { castellano: "Bosque", cantabru: "Monti", example: "" },
@@ -83,17 +75,20 @@ export const courseData = {
                     { castellano: "Tronco", cantabru: "Tueru", example: "" },
                     { castellano: "El puente", cantabru: "La puenti", example: "" },
                     { castellano: "Día", cantabru: "Diya", example: "" },
-                    { castellano: "Piedra", cantabru: "Cantu", example: "" },
-                    { castellano: "Santander", cantabru: "Sanander", example: "" },
+                    { castellano: "Piedra", cantabru: "Cantu", example: "" }
+                ]
+            },
+            {
+                name: "Calle",
+                words: [
+                    { castellano: "Santnader", cantabru: "Sanander", example: "" },
                     { castellano: "Torrelavega", cantabru: "Torlavega", example: "" },
                     { castellano: "Adoquín", cantabru: "Aduquín", example: "" },
                     { castellano: "Hormigón", cantabru: "Jormigón", example: "" },
                     { castellano: "Taxi", cantabru: "Tasis", example: "" },
                     { castellano: "Cómic/Tira cómica", cantabru: "Chisti", example: "" },
                     { castellano: "Grava", cantabru: "Grija", example: "" },
-                    { castellano: "Botón", cantabru: "Butón/Bötón", example: "" },
-                    { castellano: "Cubo", cantabru: "Calderu/Tangarru", example: "" },
-                    { castellano: "Arenisca", cantabru: "Ariniza", example: "" }
+                    { castellano: "Botón", cantabru: "Butón/Bötón", example: "" }
                 ]
             },
             {
@@ -112,10 +107,7 @@ export const courseData = {
                     { castellano: "Cobaya", cantabru: "Coín", example: "" },
                     { castellano: "Oveja", cantabru: "Uveja", example: "" },
                     { castellano: "Calamar", cantabru: "Maganu", example: "" },
-                    { castellano: "Pulpo", cantabru: "Pulpe", example: "" },
-                    { castellano: "Maullar", cantabru: "Miagar", example: "" },
-                    { castellano: "Maullido", cantabru: "Miaguíu", example: "" },
-                    { castellano: "Pez", cantabru: "Peji", example: "" }
+                    { castellano: "Pulpo", cantabru: "Pulpe", example: "" }
                 ]
             }
         ]

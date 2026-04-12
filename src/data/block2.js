@@ -51,15 +51,27 @@ Los mis pies.`,
                 { id: "b2-l2-ex2", question: 'Traduce “Su guitarra”', expectedAnswer: "La su guitarra", explanation: "" },
                 { id: "b2-l2-ex3", question: 'Traduce “Él fue, su abuela no”', expectedAnswer: "Él jue, la su güela no", explanation: "" },
                 { id: "b2-l2-ex4", question: 'Traduce “Eso es nuestro”', expectedAnswer: "Esu es muestru", explanation: "" },
-                { id: "b2-l2-ex5", question: 'Elige la respuesta correcta:', expectedAnswer: "c) Se pone el o la dependiendo del género del sustantivo.", options: ["a) Siempre se pone \"el\" o \"la\" indistintamente.", "b) Siempre se pone \"lo\".", "c) Se pone el o la dependiendo del género del sustantivo.", "d) No se usa ni el ni la con posesivos."], explanation: "c) Se pone el o la dependiendo del género del sustantivo." },
-                { id: "b2-l2-ex6", question: 'Completa la tabla en tercera persona: ___ su gatu', expectedAnswer: "el", explanation: "" },
-                { id: "b2-l2-ex7", question: 'Completa la tabla en tercera persona: ___ sus sudaeras', expectedAnswer: "las", explanation: "" },
-                { id: "b2-l2-ex8", question: 'Completa la tabla en tercera persona: las ___ vacas', expectedAnswer: "sus", explanation: "" },
-                { id: "b2-l2-ex9", question: 'Completa la tabla en tercera persona: la ___ maera', expectedAnswer: "su", explanation: "" },
-                { id: "b2-l2-ex10", question: 'Completa la tabla en primera persona: ___ mi práu', expectedAnswer: "el", explanation: "" },
-                { id: "b2-l2-ex11", question: 'Completa la tabla en primera persona: ___ mi ropa', expectedAnswer: "la", explanation: "" },
-                { id: "b2-l2-ex12", question: 'Completa la tabla en primera persona: la ___ casa', expectedAnswer: "muestra", explanation: "" },
-                { id: "b2-l2-ex13", question: 'Completa la tabla en primera persona: los ___ trajis', expectedAnswer: "muestros", explanation: "" },
+                { 
+                    id: "b2-l2-ex5", 
+                    question: 'Elige la respuesta correcta:', 
+                    expectedAnswer: "c) Se pone el o la dependiendo del género del sustantivo", 
+                    options: [
+                        "a) Se pone el o la dependiendo del número del sustantivo",
+                        "b) Se pone el o los dependiendo del género del sustantivo",
+                        "c) Se pone el o la dependiendo del género del sustantivo",
+                        "d) Se pone la o las dependiendo de cómo suene mejor",
+                        "e) Ninguna es correcta"
+                    ], 
+                    explanation: "" 
+                },
+                { id: "b2-l2-ex6", question: 'Completa la tabla en tercera persona singular: ------ su gatu', expectedAnswer: "el", explanation: "" },
+                { id: "b2-l2-ex7", question: 'Completa la tabla en tercera persona singular: ------ sus sudaeras', expectedAnswer: "las", explanation: "" },
+                { id: "b2-l2-ex8", question: 'Completa la tabla en tercera persona singular: las ----- vacas', expectedAnswer: "sus", explanation: "" },
+                { id: "b2-l2-ex9", question: 'Completa la tabla en tercera persona singular: la ----- maera', expectedAnswer: "su", explanation: "" },
+                { id: "b2-l2-ex10", question: 'Completa la siguiente tabla en primera persona plural: ----- mi práu', expectedAnswer: "el", explanation: "" },
+                { id: "b2-l2-ex11", question: 'Completa la siguiente tabla en primera persona plural: ----- mi ropa', expectedAnswer: "la", explanation: "" },
+                { id: "b2-l2-ex12", question: 'Completa la siguiente tabla en primera persona plural: la ----- casa', expectedAnswer: "muestra", explanation: "" },
+                { id: "b2-l2-ex13", question: 'Completa la siguiente tabla en primera persona plural: los ------ trajis', expectedAnswer: "muestros", explanation: "" },
                 { id: "b2-l2-ex14", question: 'Traduce “Vuestra fuerza es grande actualmente”', expectedAnswer: "La vuestra juerza es grandi atualmenti", explanation: "" }
             ]
         },
@@ -134,7 +146,9 @@ Cuntracionis sacáas direutamenti de PROYEUTU DEPRIENDI. Aunqui angunas d'ellas 
         {
             id: "b2-l4",
             title: "LECCIÓN 4 ----- APOSTROFACIÓN",
-            theory: `Apostrófanse con cualisquier suníu vocálicu: EL, DE, QUE
+            theory: `Apostrófanse con cualisquier suníu vocálicu:
+
+EL, DE, QUE
 
 EL --- El agua --- L'augua + Está el --- Está'l
 En caso de doble sonido, tiene preferencia ponerlo en la palabra siguiente:
@@ -144,7 +158,8 @@ DE --- De oro --- D'oru
 
 QUE --- Que está --- Qu'está
 
-Apostrófanse SOLU col suníu A: PA y LA
+Apostrófanse SOLU col suníu A:
+PA y LA
 
 LA --- La armónica --- L'armónica
 LA --- La encara --- La encara, L'encara ESTÁ MAL
@@ -166,8 +181,8 @@ Que+él: qu'él.`,
                 { id: "b2-l4-ex5", question: 'Traduce y apostrofa donde sea necesario: Hacha de oro y de esmeraldas', expectedAnswer: "Jacha d'oru y d'esmeraldas", explanation: "" },
                 { id: "b2-l4-ex6", question: 'Traduce y apostrofa donde sea necesario: Para Ana el grande de ayer', expectedAnswer: "P'Ana el grandi d'ayer", explanation: "" },
                 { id: "b2-l4-ex7", question: 'Traduce y apostrofa donde sea necesario: La iglesia del pueblo es grande', expectedAnswer: "La iglesia del pueblu es grandi", explanation: "" },
-                { id: "b2-l4-ex8", question: 'Traduce y apostrofa donde sea necesario: Sigue el rastro', expectedAnswer: "Sigue'l rastru", explanation: "" },
-                { id: "b2-l4-ex9", question: 'Traduce y apostrofa donde sea necesario: Sigue el aire', expectedAnswer: "Sigue l'airi", explanation: "" },
+                { id: "b2-l4-ex8", question: 'Traduce y apostrofa donde sea necesario: Sigue el rastro', expectedAnswer: "Sigui'l rastru", explanation: "" },
+                { id: "b2-l4-ex9", question: 'Traduce y apostrofa donde sea necesario: Sigue el aire', expectedAnswer: "Sigui l'airi", explanation: "" },
                 { id: "b2-l4-ex10", question: 'Traduce y apostrofa donde sea necesario: Que hay', expectedAnswer: "Qu'hai", explanation: "" }
             ]
         },
@@ -177,30 +192,30 @@ Que+él: qu'él.`,
             theory: `Abora vamos con unas treducionis de repasu:`,
             examples: [],
             exercises: [
-                { id: "b2-l5-ex1", question: 'Me lo dijo cuando fue a la ciudad', expectedAnswer: "Molo dijo cuandu jue a la ciudá", explanation: "" },
-                { id: "b2-l5-ex2", question: 'Tiene que haber botes allí', expectedAnswer: "Tien que haber botis allí", explanation: "" },
-                { id: "b2-l5-ex3", question: 'Por la parte de fuera hay que hacer obra', expectedAnswer: "Partajuera hai que jacer obra", explanation: "" },
-                { id: "b2-l5-ex4", question: 'Esta lluvia no asusta a este pueblo', expectedAnswer: "Esta lluvia nu asusta a esti pueblu", explanation: "" },
-                { id: "b2-l5-ex5", question: 'Que él no sepa poner el cuadro, no significa que el cuadro esté así', expectedAnswer: "Qu'él nu sepa poner el cuadru, nu significa que'l cuadru esté así", explanation: "" },
-                { id: "b2-l5-ex6", question: 'El amianto es muy tóxico', expectedAnswer: "L'amiantu es mui tósicu", explanation: "" },
-                { id: "b2-l5-ex7", question: '¿Sabes de él?', expectedAnswer: "¿Sabis d'él?", explanation: "" },
-                { id: "b2-l5-ex8", question: 'Para Amanda es bueno ese', expectedAnswer: "P'Amanda es güenu esi", explanation: "" },
-                { id: "b2-l5-ex9", question: 'Fui con mi abuela al mercado', expectedAnswer: "Jui cola mi güela al mercáu", explanation: "" },
-                { id: "b2-l5-ex10", question: 'Su perro muerde', expectedAnswer: "El su perru muerdi", explanation: "" },
-                { id: "b2-l5-ex11", question: 'Ven con nuestro coche', expectedAnswer: "Ven col muestru cochi", explanation: "" },
-                { id: "b2-l5-ex12", question: 'Mi lavadora no hace eso', expectedAnswer: "La mi lavaora nu jaz esu", explanation: "" },
-                { id: "b2-l5-ex13", question: 'Es un casco de oro', expectedAnswer: "Es un cascu d'oru", explanation: "" },
-                { id: "b2-l5-ex14", question: 'Mi amigo es bueno', expectedAnswer: "El mi amigu es güenu", explanation: "" },
-                { id: "b2-l5-ex15", question: 'Ese perro es muy malo', expectedAnswer: "Esi perru es mui malu", explanation: "" },
-                { id: "b2-l5-ex16", question: 'Esos palos de madera son largos', expectedAnswer: "Esos palos de maera son largos", explanation: "" },
-                { id: "b2-l5-ex17", question: 'Tiene ese reloj', expectedAnswer: "Tien esi reloj", explanation: "" },
-                { id: "b2-l5-ex18", question: 'Hace daño', expectedAnswer: "Jaz dañu", explanation: "" },
-                { id: "b2-l5-ex19", question: 'Si puedes, trae la armónica', expectedAnswer: "Si puéis, trai l'armónica", explanation: "" },
-                { id: "b2-l5-ex20", question: 'Claro que no', expectedAnswer: "Claru que nu", explanation: "" },
-                { id: "b2-l5-ex21", question: 'Esa fuente tiene siglos', expectedAnswer: "Esa juenti tien siglos", explanation: "" },
-                { id: "b2-l5-ex22", question: 'Por arriba tiene polvo y por abajo tiene hongos (“h” de “f” latina)', expectedAnswer: "Poarriba tien polvu y poabaju tien jongos", explanation: "" },
-                { id: "b2-l5-ex23", question: 'Son siete para cada uno', expectedAnswer: "Son sieti pa caúnu", explanation: "" },
-                { id: "b2-l5-ex24", question: '¿Tienes este libro?', expectedAnswer: "¿Tienis esti libru?", explanation: "" }
+                { id: "b2-l5-ex1", question: 'Traduce: Me lo dijo cuando fue a la ciudad', expectedAnswer: "Molo dijo cuandu jue a la ciudá", explanation: "" },
+                { id: "b2-l5-ex2", question: 'Traduce: Tiene que haber botes allí', expectedAnswer: "Tien que haber botis allí", explanation: "" },
+                { id: "b2-l5-ex3", question: 'Traduce: Por la parte de fuera hay que hacer obra', expectedAnswer: "Partajuera hai que jacer obra", explanation: "" },
+                { id: "b2-l5-ex4", question: 'Traduce: Esta lluvia no asusta a este pueblo', expectedAnswer: "Esta lluvia nu asusta a esti pueblu", explanation: "" },
+                { id: "b2-l5-ex5", question: 'Traduce: Que él no sepa poner el cuadro, no significa que el cuadro esté así', expectedAnswer: "Qu'él nu sepa poner el cuadru, nu significa que'l cuadru esté así", explanation: "" },
+                { id: "b2-l5-ex6", question: 'Traduce: El amianto es muy tóxico', expectedAnswer: "L'amiantu es mui tósicu", explanation: "" },
+                { id: "b2-l5-ex7", question: 'Traduce: ¿Sabes de él?', expectedAnswer: "¿Sabis d'él?", explanation: "" },
+                { id: "b2-l5-ex8", question: 'Traduce: Para Amanda es bueno ese', expectedAnswer: "P'Amanda es güenu esi", explanation: "" },
+                { id: "b2-l5-ex9", question: 'Traduce: Fui con mi abuela al mercado', expectedAnswer: "Jui cola mi güela al mercáu", explanation: "" },
+                { id: "b2-l5-ex10", question: 'Traduce: Su perro muerde', expectedAnswer: "El su perru muerdi", explanation: "" },
+                { id: "b2-l5-ex11", question: 'Traduce: Ven con nuestro coche', expectedAnswer: "Ven col muestru cochi", explanation: "" },
+                { id: "b2-l5-ex12", question: 'Traduce: Mi lavadora no hace eso', expectedAnswer: "La mi lavaora nu jaz esu", explanation: "" },
+                { id: "b2-l5-ex13", question: 'Traduce: Es un casco de oro', expectedAnswer: "Es un cascu d'oru", explanation: "" },
+                { id: "b2-l5-ex14", question: 'Traduce: Mi amigo es bueno', expectedAnswer: "El mi amigu es güenu", explanation: "" },
+                { id: "b2-l5-ex15", question: 'Traduce: Ese perro es muy malo', expectedAnswer: "Esi perru es mui malu", explanation: "" },
+                { id: "b2-l5-ex16", question: 'Traduce: Esos palos de madera son largos', expectedAnswer: "Esos palos de maera son largos", explanation: "" },
+                { id: "b2-l5-ex17", question: 'Traduce: Tiene ese reloj', expectedAnswer: "Tien esi reloj", explanation: "" },
+                { id: "b2-l5-ex18", question: 'Traduce: Hace daño', expectedAnswer: "Jaz dañu", explanation: "" },
+                { id: "b2-l5-ex19", question: 'Traduce: Si puedes, trae la armónica', expectedAnswer: "Si puéis, trai l'armónica", explanation: "" },
+                { id: "b2-l5-ex20", question: 'Traduce: Claro que no', expectedAnswer: "Claru que nu", explanation: "" },
+                { id: "b2-l5-ex21", question: 'Traduce: Esa fuente tiene siglos', expectedAnswer: "Esa juenti tien siglos", explanation: "" },
+                { id: "b2-l5-ex22", question: 'Traduce: Por arriba tiene polvo y por abajo tiene hongos (“h” de “f” latina)', expectedAnswer: "Poarriba tien polvu y poabaju tien jongos", explanation: "" },
+                { id: "b2-l5-ex23", question: 'Traduce: Son siete para cada uno', expectedAnswer: "Son sieti pa caúnu", explanation: "" },
+                { id: "b2-l5-ex24", question: 'Traduce: ¿Tienes este libro?', expectedAnswer: "¿Tienis esti libru?", explanation: "" }
             ]
         }
     ]
