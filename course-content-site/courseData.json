@@ -390,7 +390,7 @@
             {
               "id": "b1-l7-ex3",
               "question": "Traduce: Para hacer eso, no hagas nada",
-              "expectedAnswer": "Pa jacer esu, nu jagas naa",
+              "expectedAnswer": "Pa jacer esu, nu jagas náa",
               "explanation": ""
             },
             {
@@ -402,7 +402,7 @@
             {
               "id": "b1-l7-ex5",
               "question": "Traduce: No sé nada del temario dado con anterioridad",
-              "expectedAnswer": "Nu sé naa del temariu dáu con anterioridá",
+              "expectedAnswer": "Nu sé náa del temariu dáu con anterioridá",
               "explanation": ""
             },
             {
@@ -823,7 +823,7 @@
             {
               "id": "b2-l3-ex23",
               "question": "Traduce “Con el cuaderno no haces nada, toma mis hojas”",
-              "expectedAnswer": "Col cuadernu no jacis naa, toma las mis hojas",
+              "expectedAnswer": "Col cuadernu no jacis náa, toma las mis hojas",
               "explanation": ""
             },
             {
@@ -1439,7 +1439,7 @@
             {
               "id": "b3-l4-ex10",
               "question": "Apártate, que no veo nada",
-              "expectedAnswer": "Apártate, que nu veo naa",
+              "expectedAnswer": "Apártate, que nu veo náa",
               "explanation": ""
             },
             {
