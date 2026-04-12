@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
                         className="brand-logo"
                         title="Volver al inicio"
                     >
-                        Depriendi Cántabru
+                        Aprende Cántabru
                     </button>
                 </div>
 
@@ -65,7 +65,7 @@ const Layout = ({ children }) => {
             </main>
 
             <footer style={{ padding: '1rem', textAlign: 'center', color: 'var(--color-text-muted)', fontSize: '0.9rem' }}>
-                © {new Date().getFullYear()} Depriendi Cántabru - App Iducativa - Por Proyeutu Montañés
+                Jechu por Proyeutu Montañés
             </footer>
         </div>
     );

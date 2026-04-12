@@ -13,15 +13,11 @@ const Home = () => {
     return (
         <div className="fade-in" style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
             <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
-                <h1 style={{ color: 'var(--color-primary)', fontSize: '2.5rem', marginBottom: '0.5rem' }}>Depriendi Cántabru</h1>
-                <p style={{ color: 'var(--color-text-muted)', fontSize: '1.2rem', marginBottom: '1rem' }}>
-                    Iscubri'l cántabru de jorma cincía y prugrisiva
-                </p>
-                <p style={{ color: 'var(--color-secondary-dark, #0f172a)', fontSize: '1.1rem', fontWeight: 'bold' }}>
+                <h1 style={{ color: 'var(--color-primary)', fontSize: '2.5rem', marginBottom: '1rem' }}>
                     Jechu por Proyeutu Montañés
-                </p>
+                </h1>
                 <p style={{ marginBottom: '1rem' }}>
-                    <a href="https://depriendi.wordpress.com/indiz/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'underline' }}>
+                    <a href="https://depriendi.wordpress.com/indiz/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'underline', fontSize: '1.2rem' }}>
                         Pa deprender más cántabru: ÍNDICI | Proyeutu Depriendi
                     </a>
                 </p>
@@ -41,7 +37,6 @@ const Home = () => {
                         <div key={block.id} className="glass-panel" style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
                             <div>
                                 <h3 style={{ color: btnStyle.background, marginBottom: '0.5rem' }}>{block.title}</h3>
-                                <p style={{ color: 'var(--color-text-muted)', marginBottom: '1.5rem' }}>{block.description}</p>
                             </div>
                             <button className="btn-primary" style={btnStyle} onClick={() => handleStartBlock(index)}>
                                 {progress.completedExerciseIds.some(id => id.startsWith(`b${index + 1}-`)) ? 'Continuar' : 'Empezar'}
@@ -55,14 +50,6 @@ const Home = () => {
                 <button className="btn-secondary" onClick={finishCourse}>
                     Ver Resultados Finales
                 </button>
-            </div>
-
-            {/* Redes Sociales */}
-            <div style={{ textAlign: 'center', marginTop: '3rem', display: 'flex', flexDirection: 'column', gap: '0.5rem', fontSize: '0.9rem' }}>
-                <p style={{ color: 'var(--color-text-muted)', marginBottom: '0.5rem' }}>Síguenos pa más:</p>
-                <a href="https://www.instagram.com/proyeutu.montanies/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'none' }}>@proyeutu.montanies</a>
-                <a href="https://www.instagram.com/cantabrudeprendiu/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'none' }}>@cantabrudeprendiu</a>
-                <a href="https://www.instagram.com/cantabru_parlau/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-primary)', textDecoration: 'none' }}>@cantabru_parlau</a>
             </div>
         </div>
     );
