@@ -249,7 +249,7 @@
             {
               "id": "b1-l4-ex3",
               "question": "Traduce “Él halló unas fuentes que hacen mucho ruido”",
-              "expectedAnswer": "Él jalló unas juentis que jacin muchu ruidu",
+              "expectedAnswer": "Él jalló unas juentis que jacin muchu ruíu",
               "explanation": ""
             },
             {
@@ -444,7 +444,7 @@
             {
               "id": "b1-l7-ex12",
               "question": "Traduce: Ese aspecto da miedo",
-              "expectedAnswer": "Esi aspeutu da miedu",
+              "expectedAnswer": "Esi aspeutu da mieu",
               "explanation": ""
             },
             {
@@ -498,7 +498,7 @@
             {
               "id": "b1-l7-ex21",
               "question": "Traduce: ¿“El Prado”? Eso es el museo de Madrid",
-              "expectedAnswer": "¿”El Prado”? Esu es el museu de Madrí",
+              "expectedAnswer": "¿”El Prado”? Esu es el muséu de Madrí",
               "explanation": ""
             },
             {
@@ -664,13 +664,13 @@
             },
             {
               "id": "b2-l2-ex12",
-              "question": "Completa la tabla en primera persona: la ___ casa",
+              "question": "Completa la tabla en primera persona plural: la ___ casa",
               "expectedAnswer": "muestra",
               "explanation": ""
             },
             {
               "id": "b2-l2-ex13",
-              "question": "Completa la tabla en primera persona: los ___ trajis",
+              "question": "Completa la tabla en primera persona plural: los ___ trajis",
               "expectedAnswer": "muestros",
               "explanation": ""
             },
@@ -1415,7 +1415,7 @@
             {
               "id": "b3-l4-ex6",
               "question": "Me corté el dedo",
-              "expectedAnswer": "Mi corté'l deu",
+              "expectedAnswer": "Mi corté'l déu",
               "explanation": ""
             },
             {
@@ -1690,7 +1690,7 @@
           },
           {
             "castellano": "Tengo que",
-            "cantabru": "Teno de/Tengo de",
+            "cantabru": "Teno de",
             "example": ""
           },
           {
@@ -1700,7 +1700,7 @@
           },
           {
             "castellano": "Comprar",
-            "cantabru": "Mercáu",
+            "cantabru": "Mercar",
             "example": ""
           },
           {
