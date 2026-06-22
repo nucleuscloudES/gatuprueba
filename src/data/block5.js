@@ -6,7 +6,7 @@ export const block5 = {
         {
             id: "b5-l1",
             title: "LECCIÓN 1 ---- PALATALIZACIÓN",
-            theory: `A vecis, cuandu hai una “n” con una “i”, si palataliza en “ñ”
+            theory: `A veces, cuando hay una “n” con una “i”, si palataliza en “ñ”
 
 Nieve -- Ñevi
 Nidal -- Ñial`,
@@ -16,10 +16,10 @@ Nidal -- Ñial`,
         {
             id: "b5-l2",
             title: "LECCIÓN 2 ----- TRES",
-            theory: `Cuandu hai “trans” nuna palabra, cambea a “tres”
+            theory: `Cuando hay “trans” en una palabra, cambia a “tres” 
 
-Ejemplos:
-Transportar – Tresportar
+Ejemplos: 
+Transportar – Tresportar 
 Teletransporte – Teletresporti`,
             examples: [],
             exercises: []
@@ -27,13 +27,13 @@ Teletransporte – Teletresporti`,
         {
             id: "b5-l3",
             title: "LECCIÓN 3 ---- VERBOS EN A",
-            theory: `Angunos verbos cumienzan por “a” en cántabru
+            theory: `Algunos verbos comienzan por “a” en cántabro 
 
-Ejemplos:
-Funcionar - Ajuncionar
-Rascar - Arrascar
-Cerrar - Acerrar
-Juntar – Ajuntar
+Ejemplos: 
+Funcionar - Ajuncionar 
+Rascar - Arrascar 
+Cerrar - Acerrar 
+Juntar – Ajuntar 
 Rozar - Arrozar`,
             examples: [],
             exercises: []
@@ -41,7 +41,7 @@ Rozar - Arrozar`,
         {
             id: "b5-l4",
             title: "LECCIÓN 4 -------- APÓSTROFE “DE”",
-            theory: `A vecis, de jorma más vulgar, si puéi poner “El cosu' la puerta” en vez de “El cosu de la puerta”. Puniendo un apóstrofe en vez de “de”.`,
+            theory: `A veces, de forma más vulgar, si puede poner “El cosu’ la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.`,
             examples: [],
             exercises: []
         }

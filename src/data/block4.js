@@ -7,16 +7,23 @@ export const block4 = {
             id: "b4-l1",
             title: "LECCIÓN 1 ---- VERBOS",
             theory: `VERBO SER
-Yo ero | Tú eris | Él/Ella es | Nós semos | Vós séis | Ell@s son
-Yo juí | Tú juisti | Él/Ella jué | Nós juimos | Vós juístis | Ell@s juerin
+Yo ero | Yo juí
+Tú eris | Tú juisti
+Él/Ella es | Él/Ella jué
+Nós semos | Nós juimos
+Vós séis | Vós juístis
+Ell@s son | Ell@s juerin
 
 CONJUGACIONES
 (Teoría original de Proyeutu Depriendi)
 En verbos como merecer, cunducir, la 1ª persona del singular en presente de indicativo es así: Yo merezo, yo cunduzo.
+
 La tercera persona sería así: Ella merez, él cunduz (En verbos fuera de este modelo como Tener, Salir, el modelo sería éste: Ella tien, él sal).
+
 En el presente de subjuntivo los verbos del tipo de los anteriormente indicados se opera de una forma análoga: Que ella cunduza, lo que se merezan, lo que le paeza, cuandu remanezamos, etc.
 
 El imperativo singular termina en I, tratándose de verbos de la 2ª y 3ª conjugación. De Poner, Salir: poni, sali.
+
 El imperativo plural adopta las terminaciones -ái -éi -íi para las 1ª, 2ª y 3ª conjugaciones, respectivamente. De Marcar, Sobar: marcái, sobái. De Coger, Jacer: cogéi, jacéi. De Vinir, Subir: viníi, subíi.
 
 El indefinido presenta formas analógicas para la 1ª conjugación, y además ciertas personas de tal tiempo terminan en I. Por otra parte, la 3ª persona del plural presenta como terminaciones las formas -arin / -erin.
@@ -27,7 +34,9 @@ Verbo Comer.- Yo cumí / Tú cumisti / Ella cumió / Nós cumimos / Vós cumisti
 Como rasgo más específicamente cántabro, el gerundio se forma por analogía con el indefinido. Exceptuado el verbo Jacer, cuyo gerundio es Jaciendo, ejemplos de lo expuesto serían.- De Poner, Saber: Pusiendo (yo pusi), Supiendo (Yo supi).
 
 La 2ª persona del plural en tiempo futuro lleva la terminación -ís. En Traer, Dar: trairís, darís.
+
 Esta persona en el pretérito imperfecto lleva la terminación -is. De Abajar, Entrar: abajabis, entrabis.
+
 Y en el condicional esta misma persona termina en -íeis. De Jirvir, Blincar: jirviríeis, blincaríeis.
 
 VERBOS IRREGULARES
@@ -59,7 +68,7 @@ Yo doldré, tú doldrás, elle/usté doldrá, nós doldremos, vós doldríis, el
             id: "b4-l2",
             title: "LECCIÓN 2 --- VOCABULARIO",
             interactiveVocab: true,
-            theory: `VOCABULARIO GENERAL
+            theory: `CASTELLANO ----> CÁNTABRU
 
 Palabras varias:
 Pero -- Piru

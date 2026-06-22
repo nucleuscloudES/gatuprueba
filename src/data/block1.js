@@ -6,9 +6,9 @@ export const block1 = {
         {
             id: "b1-l1",
             title: "LECCIÓN 1 --- TERMINACIÓN EN U",
-            theory: `Pa deprender correutamenti cúmu ajunciona la tirminación en U, poemos tener en cuenta las siguientis reglas.
+            theory: `Para aprender correctamente cómo funciona la terminación en U, podemos tener en cuenta las siguientes reglas.
 
-En cántabru acábanse en U tolos SUSTANTIVOS, ADJITIVOS, ADVERBIOS y PRONOMBRIS singularis acabaos en O en castellanu (Sin ser agudas).
+En cántabro se acaban en U todos los SUSTANTIVOS, ADJETIVOS, ADVERBIOS y PRONOMBRES singulares acabados en O en castellano (Sin ser agudas).
 
 Ejemplos:
 
@@ -16,18 +16,20 @@ Toro -- Toru
 Malo -- Malu
 Cuando -- Cuandu
 Mío -- Míu
+
 No – Nu
 
-ATINCIÓN:
-Los pluralis NO acaban en U enl cántabru estándar. (El cántabru estándar es una generalización del cántabru vivo que se ha reglamentizado para lograr el reconocimiento como lengua).
 
-ATINCIÓN:
-Solu acaban en U los verbos en participiu, el restu NO (Siempre con tilde).`,
+ATENCIÓN:
+Los plurales NO acaban en U en el cántabro estándar. (El cántabro estándar es una generalización del cántabro vivo que se ha reglamentado para lograr el reconocimiento como lengua).
+
+ATENCIÓN:
+Solo acaban en U los verbos en participio, el resto NO (Siempre con tilde).`,
             examples: [
                 "Nacido -- Nacíu",
                 "Visto -- Vistu",
                 "Viviendo -- Viviendo (gerundio)",
-                "Veo -- Veo (presente)",
+                "Veo – Veo (presente)",
                 "Acabado -- Acabáu"
             ],
             exercises: [
@@ -37,18 +39,27 @@ Solu acaban en U los verbos en participiu, el restu NO (Siempre con tilde).`,
                 { id: "b1-l1-ex4", question: 'Traduce “Pelo claro”', expectedAnswer: "Pelu claru", explanation: "" },
                 { id: "b1-l1-ex5", question: 'Traduce “Solo”', expectedAnswer: "Solu", explanation: "" },
                 { id: "b1-l1-ex6", question: 'Traduce “Un perro y dos gatos”', expectedAnswer: "Un perru y dos gatos", explanation: "" },
-                { id: "b1-l1-ex7", question: '¿Cuál de estos “canto” acaba en U en cántabru?', expectedAnswer: "2. Me di con un canto en el pie", options: ["1. Yo canto muy mal", "2. Me di con un canto en el pie"], explanation: "" },
+                { 
+                    id: "b1-l1-ex7", 
+                    question: '¿Cuál de estos “canto” acaba en U en cántabru?', 
+                    expectedAnswer: "2", 
+                    options: [
+                        "Yo canto muy mal",
+                        "Me di con un canto en el pie"
+                    ], 
+                    explanation: "" 
+                },
                 { id: "b1-l1-ex8", question: 'Traduce “Veo un poco mal”', expectedAnswer: "Veo un pocu mal", explanation: "" }
             ]
         },
         {
             id: "b1-l2",
             title: "LECCIÓN 2 ----- TERMINACIÓN EN I",
-            theory: `En cántabru tirminan en I, IS, IN tolas palabras qu'en castellanu tirminan en E, ES, EN
+            theory: `En cántabro terminan en I, IS, IN todas las palabras que en castellano terminan en E, ES, EN
 
-Esceptu “QUE” ,“DE”, Sustantivos y verbos monosémicos (Té, ve, fe, sé...), Palabras agudas (Canté, Monté, Viviré, Parqué, Arcén...)
+Excepto “QUE”,“DE”, Sustantivos y verbos monosémicos (Té, ve, fe, sé...), Palabras agudas (Canté, Monté, Viviré, Parqué, Arcén...)
 
-Los verbos acabados en “te”, “se”, “me” y “le” puéin acabar de las dos formas, polo que de momentu vamos a dejalos de láu.`,
+Los verbos acabados en “te”, “se”, “me” y “le” pueden acabar de las dos formas, por lo que de momento vamos a dejarlos de lado.`,
             examples: [
                 "Verde – Verdi",
                 "Vienen – Vienin",
@@ -66,7 +77,7 @@ Los verbos acabados en “te”, “se”, “me” y “le” puéin acabar de 
                 { 
                     id: "b1-l2-ex8", 
                     question: 'Elige la respuesta correcta:', 
-                    expectedAnswer: "c) “Tener” nunca acaba en “IR”", 
+                    expectedAnswer: "c)", 
                     options: [
                         "a) “Tener” es “Tenir” porque acaba en “er”",
                         "b) “Tener” solo es “Tenir” si es sustantivo",
@@ -84,35 +95,40 @@ Los verbos acabados en “te”, “se”, “me” y “le” puéin acabar de 
         {
             id: "b1-l3",
             title: "LECCIÓN 3 ----- “D” FINAL E INTERVOCÁLICA",
-            theory: `Toas las D finalis s'iliminan y si pon tildi ena última letra. Enos impirativos no si quita la D
+            theory: `Todas las D finales se eliminan y se pone tilde en la última letra. En los imperativos no se quita la D
 
-Las “D” intervocálicas tamién s'iliminan. En casu de quedar dobli “a” siguías si pon tildi.
+Ejemplos:
+Verdad -- Verdá
+Velocidad -- Velocidá
+Madrid -- Madrí
+Parad – Parad (Imperativo)
 
-En casu de quedar “eu” tamién lleva tildi “éu”
+Las “D” intervocálicas también se eliminan. En caso de quedar doble “a” seguidas se pone tilde.
+En caso de quedar “eu” también lleva tilde “éu”
 
-Solu s'aplica enas últimas sílabas. Hai escepcionis cumu: vida, edor...
+Ejemplos:
+Nacido -- Nacíu
+Patada -- Patáa
+Todo – Tou
+
+Solo se aplica en las últimas sílabas
+
+Ejemplos
+Enredadera – Enredaera (Solo se quita la última D)
+Adobado -- Adobáu (Solo se quita la última D)
+Adicional – Adicional (La D intervocálica está en las primeras sílabas)
+Hay excepciones como: vida, hedor...
 
 (Para no lleva D pero se escribe “pa”, al ser una palabra común la empezaremos a usar ahora)`,
-            examples: [
-                "Verdad -- Verdá",
-                "Velocidad -- Velocidá",
-                "Madrid -- Madrí",
-                "Parad – Parad (Imperativo)",
-                "Nacido -- Nacíu",
-                "Patada -- Patáa",
-                "Todo – Tou",
-                "Enredadera – Enredaera (Solo se quita la última D)",
-                "Adobado -- Adobáu (Solo se quita la última D)",
-                "Adicional – Adicional (La D intervocálica está en las primeras sílabas)"
-            ],
+            examples: [],
             exercises: [
                 { id: "b1-l3-ex1", question: 'Traduce “Manada”', expectedAnswer: "Manáa", explanation: "" },
                 { id: "b1-l3-ex2", question: 'Traduce “Bajad a Madrid”', expectedAnswer: "Bajad a Madrí", explanation: "" },
-                { id: "b1-l3-ex3", question: 'Traduce “El pasado español es grandioso. Ese poder era inmenso ”', expectedAnswer: "El pasáu español es grandiosu. Esi poer era inmensu", explanation: "" },
+                { id: "b1-l3-ex3", question: 'Traduce “El pasado español es grandioso. Ese poder era inmenso”', expectedAnswer: "El pasáu español es grandiosu. Esi poer era inmensu", explanation: "" },
                 { 
                     id: "b1-l3-ex4", 
                     question: 'Elige la respuesta correcta. A estabilidad se le quita:', 
-                    expectedAnswer: "d) Solo se quita la última D porque tiene preferencia la última, además se pone tilde porque es aguda acabada en vocal: estabilidá", 
+                    expectedAnswer: "d)", 
                     options: [
                         "a) La última D porque tiene preferencia la última: estabilida",
                         "b) La última D y la intervocálica, además se le pone tilde a la última A porque es aguda y: estabiliá",
@@ -122,24 +138,28 @@ Solu s'aplica enas últimas sílabas. Hai escepcionis cumu: vida, edor...
                     ], 
                     explanation: "" 
                 },
-                { id: "b1-l3-ex5", question: 'Traduce “Enamorado”', expectedAnswer: "Enamoráu", explanation: "" }
+                { id: "b1-l3-ex5", question: 'Traduce “Enamorado”', expectedAnswer: "Enamoráu", explanation: "" },
+                { id: "b1-l3-ex6", question: 'Traduce “Subid”', expectedAnswer: "Subid", explanation: "Recuerda que es un imperativo" },
+                { id: "b1-l3-ex7", question: 'Traduce “Atrapado por maldad”', expectedAnswer: "Atrapáu por maldá", explanation: "" }
             ]
         },
         {
             id: "b1-l4",
             title: "LECCIÓN 4 ----- La J",
-            theory: `La J en cántabru si prununcia /h/, es dicir, cumu una H inglesa.
+            theory: `La J en cántabro se pronuncia /h/, es decir, como una H inglesa. 
 
-En cántabru cambean a J las H y F que vengan de una F latina.
+En cántabro cambian a J las H y F que vengan de una F latina.
 
-Piru hai otras palabras que tamién llevan J cumu: Jasta, Jallar o Jatu. Estas palabras hai que deprendelas, polo que n'estos tests pondremos tolas palabras pruvinientis del latín pa potenciar vocabulariu.
-Nel restu de test, si indicarán las F u H latinas. Las qu'estén en nigrita y cursiva hai que cambealas a J.`,
-            examples: [
-                "Horno – Fornus – Jornu",
-                "Fuente – Fontis – Juenti",
-                "Fuerte – Fortis – Juerti",
-                "Hacer – Facere – Jacer"
-            ],
+Ejemplos: 
+Horno – Fornus – Jornu 
+Fuente – Fontis – Juenti 
+Fuerte – Fortis – Juerti 
+Hacer – Facere – Jacer 
+
+Pero hay otras palabras que también llevan J como: Jasta, Jallar o Jatu. Estas palabras hay que aprendelas, por lo que en estos tests pondremos todas las palabras provenientes del latín para potenciar vocabulario.
+
+En el resto de los bloques, las palabras que necesiten este cambio serán marcadas.`,
+            examples: [],
             exercises: [
                 { id: "b1-l4-ex1", question: 'Traduce “Horno”', expectedAnswer: "Jornu", explanation: "" },
                 { id: "b1-l4-ex2", question: 'Traduce “Fuera”', expectedAnswer: "Juera", explanation: "" },
@@ -153,15 +173,15 @@ Nel restu de test, si indicarán las F u H latinas. Las qu'estén en nigrita y c
         {
             id: "b1-l5",
             title: "LECCIÓN 5 ---- CC, CT y ECT",
-            theory: `Si una palabra tien CC u CT, s'ilimina una C
-Ejemplos:
-Acción -- Ación
-Actuar – Atuar
+            theory: `Si una palabra tiene CC u CT, se elimina una C
+Ejemplos: 
+Acción -- Ación 
+Actuar – Atuar 
 
-Si una palabra tien ECT, esi ECT pasa a EUT
-Ejemplo:
-Perfecto – Perfeutu
-Trayecto – Trayeutu
+Si una palabra tiene ECT, ese ECT pasa a EUT 
+Ejemplo: 
+Perfecto – Perfeutu 
+Trayecto – Trayeutu 
 Conectan – Coneutan`,
             examples: [],
             exercises: [
@@ -172,7 +192,7 @@ Conectan – Coneutan`,
                 { 
                     id: "b1-l5-ex5", 
                     question: 'Elige la respuesta correcta:', 
-                    expectedAnswer: "e) La C es correcta, pero acaba en “eutos” porque los plurales no acaban en U.", 
+                    expectedAnswer: "e)", 
                     options: [
                         "a) “Correctos” es “correutus” ya que todo lo que lleva “ecto” se cambia a “eutu”.",
                         "b) “Correctos” no cambia por ser plural.",
@@ -186,7 +206,7 @@ Conectan – Coneutan`,
                 { 
                     id: "b1-l5-ex6", 
                     question: 'Elige la respuesta correcta', 
-                    expectedAnswer: "e) Ninguna es correcta", 
+                    expectedAnswer: "e)", 
                     options: [
                         "a) Si una palabra lleva “cc” se quitan las dos “c” y se cambia a “z” porque el sonido que queda es /Z/",
                         "b) Si una palabra tiene “ct” se deja la “t”",
@@ -201,32 +221,36 @@ Conectan – Coneutan`,
         {
             id: "b1-l6",
             title: "LECCIÓN 6 ---- Y, VERBOS y X",
-            theory: `Cuandu una palabra tirmina en Y, esa Y cambea a I
-Ejemplos:
-Hay – Hai
-Estoy – Estoi
+            theory: `Cuando una palabra termina en Y, esa Y cambia a I 
 
-Hai verbos qu'en vez de acabar en I simplementi no tienin la última letra.
-Ejemplos;
-Viene – Vien
-Tiene – Tien
-Hace – Jaz
-Pone – Pon
-Estu solu pasa colos verbos en singular.
+Ejemplos: 
+Hay – Hai 
+Estoy – Estoi 
+
+Hay verbos que en vez de acabar en I simplemente no tienen la última letra. Estarán marcados como “verbo corto” 
+
+Ejemplos; 
+Viene – Vien 
+Tiene – Tien 
+Hace – Jaz 
+Pone – Pon 
+
+Esto solo pasa con los verbos en singular. 
+
 
 Las X suelen cambiar a S`,
             examples: [],
             exercises: [
-                { id: "b1-l6-ex1", question: 'Traduce “El Rey tiene mucho poder”', expectedAnswer: "El Rei tien muchu poer", explanation: "" },
-                { id: "b1-l6-ex2", question: 'Traduce “Hace un calor insoportable”', expectedAnswer: "Jaz un calor insoportabli", explanation: "" },
-                { id: "b1-l6-ex3", question: 'Traduce “Él no hiere”', expectedAnswer: "Él nu jier", explanation: "" },
+                { id: "b1-l6-ex1", question: 'Traduce “El Rey tiene mucho poder” (Verbo corto)', expectedAnswer: "El Rei tien muchu poer", explanation: "" },
+                { id: "b1-l6-ex2", question: 'Traduce “Hace un calor insoportable” (Verbo corto)', expectedAnswer: "Jaz un calor insoportabli", explanation: "" },
+                { id: "b1-l6-ex3", question: 'Traduce “Él no hiere” (Verbo corto)', expectedAnswer: "Él nu jier", explanation: "" },
                 { id: "b1-l6-ex4", question: 'Traduce “Examen”', expectedAnswer: "Esamin", explanation: "" }
             ]
         },
         {
             id: "b1-l7",
             title: "REPASO",
-            theory: `Abora vamos a jacer test de repasu con tolo dau nel bloqui 1.`,
+            theory: `Ahora vamos a hacer test de repaso con todo lo dado en el bloque 1.`,
             examples: [],
             exercises: [
                 { id: "b1-l7-ex1", question: 'Ese prado es mío', expectedAnswer: "Esi práu es míu", explanation: "" },
