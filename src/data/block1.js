@@ -35,19 +35,19 @@ Solo acaban en U los verbos en participio, el resto NO (Siempre con tilde).`,
             exercises: [
                 { id: "b1-l1-ex1", question: 'Traduce “Poco”', expectedAnswer: "Pocu", explanation: "" },
                 { id: "b1-l1-ex2", question: 'Traduce el verbo “Paso”', expectedAnswer: "Paso", explanation: "" },
-                { id: "b1-l1-ex3", question: 'Traduce “Enseño cántabro”', expectedAnswer: "Enseño cántabru", explanation: "" },
+                { id: "b1-l1-ex3", question: 'Traduce “Molesto poco”', expectedAnswer: "Molesto pocu", explanation: "" },
                 { id: "b1-l1-ex4", question: 'Traduce “Pelo claro”', expectedAnswer: "Pelu claru", explanation: "" },
                 { id: "b1-l1-ex5", question: 'Traduce “Solo”', expectedAnswer: "Solu", explanation: "" },
                 { id: "b1-l1-ex6", question: 'Traduce “Un perro y dos gatos”', expectedAnswer: "Un perru y dos gatos", explanation: "" },
-                { 
-                    id: "b1-l1-ex7", 
-                    question: '¿Cuál de estos “canto” acaba en U en cántabru?', 
-                    expectedAnswer: "2", 
+                {
+                    id: "b1-l1-ex7",
+                    question: '¿Cuál de estos “canto” acaba en U en cántabru?',
+                    expectedAnswer: "2",
                     options: [
                         "Yo canto muy mal",
                         "Me di con un canto en el pie"
-                    ], 
-                    explanation: "" 
+                    ],
+                    explanation: ""
                 },
                 { id: "b1-l1-ex8", question: 'Traduce “Veo un poco mal”', expectedAnswer: "Veo un pocu mal", explanation: "" }
             ]
@@ -74,17 +74,17 @@ Los verbos acabados en “te”, “se”, “me” y “le” pueden acabar de 
                 { id: "b1-l2-ex5", question: 'Traduce “¿Qué dices?”', expectedAnswer: "¿Qué dicis?", explanation: "" },
                 { id: "b1-l2-ex6", question: 'Traduce “Lee y bebe un té”', expectedAnswer: "Lei y bebi un té", explanation: "" },
                 { id: "b1-l2-ex7", question: 'Traduce “Aparqué por ese monte”', expectedAnswer: "Aparqué por esi monti", explanation: "" },
-                { 
-                    id: "b1-l2-ex8", 
-                    question: 'Elige la respuesta correcta:', 
-                    expectedAnswer: "c)", 
+                {
+                    id: "b1-l2-ex8",
+                    question: 'Elige la respuesta correcta:',
+                    expectedAnswer: "c)",
                     options: [
                         "a) “Tener” es “Tenir” porque acaba en “er”",
                         "b) “Tener” solo es “Tenir” si es sustantivo",
                         "c) “Tener” nunca acaba en “IR”",
                         "d) Al igual que las acabadas en “EN”, sólo se aplica el cambio si no es un verbo que acaba en “te”, “me”, “se” y “le”"
-                    ], 
-                    explanation: "" 
+                    ],
+                    explanation: ""
                 },
                 { id: "b1-l2-ex9", question: 'Traduce “Ese oso es malo y grande”', expectedAnswer: "Esi osu es malu y grandi", explanation: "" },
                 { id: "b1-l2-ex10", question: 'Traduce “Vienen de Burgos y saben otro idioma”', expectedAnswer: "Vienin de Burgos y sabin otru idioma", explanation: "" },
@@ -125,18 +125,18 @@ Hay excepciones como: vida, hedor...
                 { id: "b1-l3-ex1", question: 'Traduce “Manada”', expectedAnswer: "Manáa", explanation: "" },
                 { id: "b1-l3-ex2", question: 'Traduce “Bajad a Madrid”', expectedAnswer: "Bajad a Madrí", explanation: "" },
                 { id: "b1-l3-ex3", question: 'Traduce “El pasado español es grandioso. Ese poder era inmenso”', expectedAnswer: "El pasáu español es grandiosu. Esi poer era inmensu", explanation: "" },
-                { 
-                    id: "b1-l3-ex4", 
-                    question: 'Elige la respuesta correcta. A estabilidad se le quita:', 
-                    expectedAnswer: "d)", 
+                {
+                    id: "b1-l3-ex4",
+                    question: 'Elige la respuesta correcta. A estabilidad se le quita:',
+                    expectedAnswer: "d)",
                     options: [
                         "a) La última D porque tiene preferencia la última: estabilida",
                         "b) La última D y la intervocálica, además se le pone tilde a la última A porque es aguda y: estabiliá",
                         "c) Solo se quita la intervocálica y se pone tilde porque si quedan dos “a” seguidas pone tilde: estabiliad",
                         "d) Solo se quita la última D porque tiene preferencia la última, además se pone tilde porque es aguda acabada en vocal: estabilidá",
                         "e) Ninguna es correcta"
-                    ], 
-                    explanation: "" 
+                    ],
+                    explanation: ""
                 },
                 { id: "b1-l3-ex5", question: 'Traduce “Enamorado”', expectedAnswer: "Enamoráu", explanation: "" },
                 { id: "b1-l3-ex6", question: 'Traduce “Subid”', expectedAnswer: "Subid", explanation: "Recuerda que es un imperativo" },
@@ -189,10 +189,10 @@ Conectan – Coneutan`,
                 { id: "b1-l5-ex2", question: 'Traduce “Adicción”', expectedAnswer: "Adición", explanation: "" },
                 { id: "b1-l5-ex3", question: 'Traduce “El proyecto de la otra clase”', expectedAnswer: "El proyeutu de la otra clasi", explanation: "" },
                 { id: "b1-l5-ex4", question: 'Traduce “Aspectos”', expectedAnswer: "Aspeutos", explanation: "" },
-                { 
-                    id: "b1-l5-ex5", 
-                    question: 'Elige la respuesta correcta:', 
-                    expectedAnswer: "e)", 
+                {
+                    id: "b1-l5-ex5",
+                    question: 'Elige la respuesta correcta:',
+                    expectedAnswer: "e)",
                     options: [
                         "a) “Correctos” es “correutus” ya que todo lo que lleva “ecto” se cambia a “eutu”.",
                         "b) “Correctos” no cambia por ser plural.",
@@ -200,21 +200,21 @@ Conectan – Coneutan`,
                         "d) No cambia, está claro.",
                         "e) La C es correcta, pero acaba en “eutos” porque los plurales no acaban en U.",
                         "f) Ninguna es correcta"
-                    ], 
-                    explanation: "" 
+                    ],
+                    explanation: ""
                 },
-                { 
-                    id: "b1-l5-ex6", 
-                    question: 'Elige la respuesta correcta', 
-                    expectedAnswer: "e)", 
+                {
+                    id: "b1-l5-ex6",
+                    question: 'Elige la respuesta correcta',
+                    expectedAnswer: "e)",
                     options: [
                         "a) Si una palabra lleva “cc” se quitan las dos “c” y se cambia a “z” porque el sonido que queda es /Z/",
                         "b) Si una palabra tiene “ct” se deja la “t”",
                         "c) Si una palabra tiene “ect” se quita la “c” porque a las palabras con “ct” se les quita la “c”.",
                         "d) Si una palabra tiene “cc” se le quita siempre la segunda “c”, si tienen “ct” se quita una y se deja la que mejor suene y las que tienen “ect” se cambian a “eut” independientemente del número, pero no del género.",
                         "e) Ninguna es correcta"
-                    ], 
-                    explanation: "" 
+                    ],
+                    explanation: ""
                 }
             ]
         },
