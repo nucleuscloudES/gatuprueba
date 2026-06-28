@@ -176,7 +176,7 @@ SÉ --- SÉ`,
         {
             id: "b3-l4",
             title: "REPASO",
-            theory: `Ahora vamos con unas traducciones de repaso general de los tres bloques.`,
+            theory: `Ahora vamos con unas traducciones de repaso general de los tres bloques. Para facilitar la traducción, en caso de duda añade "lo". Si encaja estás ante un CI, si no, es un CD. Ejemplo: Me dio el libro - Me lo dio --- "Me" es CI porque el CD es libro, se cierra a "Mi".`,
             examples: [],
             exercises: [
                 { id: "b3-l4-ex1", question: 'Traduce: Él se metió en la piscina (Con enclisis)', expectedAnswer: "Él mitióse ena piscina", explanation: "" },
