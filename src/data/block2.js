@@ -173,7 +173,7 @@ PA --- Pa empezar --- Pa empezar, P'empezar ESTÁ MAL
 
 El QUE tiene alguna regla especial:
 
-Que+sonido vocálico: qu'estabas, q'hai.
+Que+sonido vocálico: qu'estabas, qu'hai.
 Que+el: que'l.
 Que+el+vocálicu: que l'armariu (siempre la palabra de después)
 Que+él: qu'él.`,
@@ -184,7 +184,7 @@ Que+él: qu'él.`,
                 { id: "b2-l4-ex3", question: 'Traduce y apostrofa donde sea necesario: Dijo que el prado es llano', expectedAnswer: "Dijo que'l práu es llanu", explanation: "" },
                 { id: "b2-l4-ex4", question: 'Traduce y apostrofa donde sea necesario: Sabes que él no fue', expectedAnswer: "Sabis qu'él nu jue", explanation: "" },
                 { id: "b2-l4-ex5", question: 'Traduce y apostrofa donde sea necesario: Hacha de oro y de esmeraldas', expectedAnswer: "Jacha d'oru y d'esmeraldas", explanation: "" },
-                { id: "b2-l4-ex6", question: 'Traduce y apostrofa donde sea necesario: Para Ana el grande de ayer', expectedAnswer: "P'Ana el grandi d'ayer", explanation: "" },
+                { id: "b2-l4-ex6", question: 'Traduce y apostrofa donde sea necesario: Para Andrés el grande de ayer', expectedAnswer: "P'Andrés el grandi d'ayer", explanation: "" },
                 { id: "b2-l4-ex7", question: 'Traduce y apostrofa donde sea necesario: La iglesia del pueblo es grande', expectedAnswer: "La iglesia del pueblu es grandi", explanation: "" },
                 { id: "b2-l4-ex8", question: 'Traduce y apostrofa donde sea necesario: Sigue el rastro', expectedAnswer: "Sigui'l rastru", explanation: "" },
                 { id: "b2-l4-ex9", question: 'Traduce y apostrofa donde sea necesario: Sigue el aire', expectedAnswer: "Sigui l'airi", explanation: "" },
