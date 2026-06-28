@@ -71,6 +71,26 @@ const VocabularyBlock = ({ isEmbedded = false }) => {
                     <p style={{ color: 'var(--color-text-muted)' }}>{vocabData.description}</p>
                 </div>
 
+                {vocabData.alphabetTheory && (
+                    <div className="glass-panel" style={{ padding: '2rem' }}>
+                        <h3 style={{ color: 'var(--color-secondary)', marginBottom: '1.5rem', textAlign: 'center' }}>Abecedario y sonidos</h3>
+                        <div style={{ 
+                            whiteSpace: 'pre-wrap', 
+                            textAlign: 'left', 
+                            lineHeight: '1.6', 
+                            color: 'var(--color-text)',
+                            fontSize: '0.95rem',
+                            background: 'rgba(255, 255, 255, 0.5)',
+                            padding: '1.5rem',
+                            borderRadius: 'var(--radius-md)',
+                            maxHeight: '400px',
+                            overflowY: 'auto'
+                        }}>
+                            {vocabData.alphabetTheory}
+                        </div>
+                    </div>
+                )}
+
                 <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '1.5rem' }}>
                     <div className="glass-panel" style={{ padding: '2rem', textAlign: 'center', cursor: 'pointer', transition: 'transform 0.2s' }} onClick={() => handleStartMode('flashcards')} title="Repaso de todo el vocabulario">
                         <h3 style={{ color: 'var(--color-secondary)', marginBottom: '1rem' }}>Modo Repaso (Flashcards)</h3>

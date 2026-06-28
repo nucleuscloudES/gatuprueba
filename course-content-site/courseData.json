@@ -1521,7 +1521,7 @@
             {
               "id": "b3-l4-ex26",
               "question": "Traduce: Me dio un golpe",
-              "expectedAnswer": "Me dio un golpi",
+              "expectedAnswer": "Mi dio un golpi",
               "explanation": ""
             },
             {
@@ -1609,7 +1609,7 @@
         {
           "id": "b5-l4",
           "title": "LECCIÓN 4 -------- APÓSTROFE “DE”",
-          "theory": "A veces, de forma más vulgar, se puede poner “El cosu' la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.",
+          "theory": "A veces, de forma más vulgar, si puede poner “El cosu' la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.",
           "examples": [],
           "exercises": []
         }
@@ -1620,6 +1620,7 @@
     "id": "vocab",
     "title": "Repaso Vocabulario y Palabras",
     "description": "Repaso de palabras clave y traducciones del cántabru.",
+    "alphabetTheory": "A /a/ \n\nB /b/ \n\nC /k/ ante a, o, u; /θ/ ante e, i (ce, ci) \n\nD /d/ \n\nE /e/ \n\nF /f/ \n\nG /g/ ante a, o, u; /x/ ante e, i (ge, gi) \n\nH muda (∅) \n\nI /i/ \n\nJ /h/ \n\nK /k/ \n\nL /l/ \n\nLL /ll/ \n\nM /m/ \n\nN /n/ \n\nÑ /ɲ/ \n\nO /o/ \n\nP /p/ \n\nQ /k/ \n\nR /r/ simple [ɾ] entre vocales; /r/ múltiple [r] al inicio o “rr” \n\nS /s/ (puede ser /h/ al final de sílaba) \n\nT /t/ \n\nU /u/ \n\nV /b/ (No existe sonido /v/ en cántabro, pero si en restos del castellano) \n\nW /w/  \n\nY como consonante /ʝ/; como vocal  /i/ \n\nZ /θ/ en España \n\nÄ /æ/ (Sonido intermedio entre A-E) \n\nË /ɪ/ (Sonido intermedio entre E-I) \n\nÖ /ʊ/ (Sonido intermedio entre O-U) \n\nCambios respecto al castellano: \n\nNo existe el sonido /ks/ (X) \n\nLa J tiene sonido /h/ en vez de /x/ \n\nExisten vocales intermedias, pero están poco representadas y se usan para enfatizar la pronunciación en casos necesarios (Diálogos o canciones). En la escritura estándar casi no se usa \n\nNo existe yeísmo \n\nLa S puede sonar /h/",
     "categories": [
       {
         "name": "Palabras Varias",
