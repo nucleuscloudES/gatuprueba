@@ -103,12 +103,12 @@ Velocidad -- Velocidá
 Madrid -- Madrí
 Parad – Parad (Imperativo)
 
-Las “D” intervocálicas también se eliminan. En caso de quedar doble “a” seguidas se pone tilde.
-En caso de quedar “eu” también lleva tilde “éu”
+Las “D” intervocálicas también se eliminan. En caso de quedar doble “a” se suelen dejar tal cual ("aa"). También se puede ver con tilde pero nosotros no la pondremos.
+En caso de quedar “eu” se pone tilde, “éu”
 
 Ejemplos:
 Nacido -- Nacíu
-Patada -- Patáa
+Patada -- Pataa
 Todo – Tou
 
 Solo se aplica en las últimas sílabas
@@ -122,7 +122,7 @@ Hay excepciones como: vida, hedor...
 (Para no lleva D pero se escribe “pa”, al ser una palabra común la empezaremos a usar ahora)`,
             examples: [],
             exercises: [
-                { id: "b1-l3-ex1", question: 'Traduce “Manada”', expectedAnswer: "Manáa", explanation: "" },
+                { id: "b1-l3-ex1", question: 'Traduce “Manada”', expectedAnswer: "Manaa", explanation: "" },
                 { id: "b1-l3-ex2", question: 'Traduce “Bajad a Madrid”', expectedAnswer: "Bajad a Madrí", explanation: "" },
                 { id: "b1-l3-ex3", question: 'Traduce “El pasado español es grandioso. Ese poder era inmenso”', expectedAnswer: "El pasáu español es grandiosu. Esi poer era inmensu", explanation: "" },
                 {

@@ -53,11 +53,11 @@ Comienzo -- Tónica en “ie” polo que “o” --> “u” --- Cumienzu`,
             theory: `Para emplear el neutru de materia hay que tener en cuenta si el objeto es contable o incontable.
 
 SI ES CONTABLE:
-El adjetivo y pronombre concuerda en género, por ejemplo: “Un boti suciu”, como bote es contable, el adjetivo concuerda siendo masculino, además su pronombre también: “lávalu”. Esto aplica en femenino también: “La moneda doráa”, “Dámela”
+El adjetivo y pronombre concuerda en género, por ejemplo: “Un boti suciu”, como bote es contable, el adjetivo concuerda siendo masculino, además su pronombre también: “lávalu”. Esto aplica en femenino también: “La moneda doraa”, “Dámela”
 
 Ejemplos:
 -Boti (Contable), Suciu (Masculino, que concuerda con “bote”), Lávalu (Masculino, el cual acaba en “u”)
--Moneda (Contable), Doráa (Femenino), Dámela (Femenino, acabado en “a”)
+-Moneda (Contable), Doraa (Femenino), Dámela (Femenino, acabado en “a”)
 
 SI ES INCONTABLI:
 Si es incontable la cosa cambia, independientemente de ser masculino u femenino, si el objeto es INCONTABLE, el adjetivo es masculino ( ACABADO EN “U”) y el pronombre es neutro (ACABÁU EN “O”)
@@ -71,19 +71,19 @@ Ropa (Incontable), Suciu (Masculino), Tiéndilo (Neutro, acabado en “o”)`,
             examples: [],
             exercises: [
                 { id: "b3-l2-ex1", question: 'Traduce: La ropa mojada', expectedAnswer: "La ropa mojáu", explanation: "" },
-                { id: "b3-l2-ex2", question: 'Traduce: La arena revuelta', expectedAnswer: "L’arena regüeltu", explanation: "" },
+                { id: "b3-l2-ex2", question: 'Traduce: La arena revuelta', expectedAnswer: "L'arena regüeltu", explanation: "" },
                 { id: "b3-l2-ex3", question: 'Traduce: Lava ese pantalón y dóblalo', expectedAnswer: "Lava esi pantalón y dóblalu", explanation: "" },
                 { id: "b3-l2-ex4", question: 'Traduce: Lava esa camiseta y dóblala', expectedAnswer: "Lava esa camiseta y dóblala", explanation: "" },
                 { id: "b3-l2-ex5", question: 'Traduce: Lava esa ropa y dóblala', expectedAnswer: "Lava esa ropa y dóblalo", explanation: "" },
                 { id: "b3-l2-ex6", question: 'Traduce: El coche no lo cogió', expectedAnswer: "El cochi nu lu cugió", explanation: "" },
                 { id: "b3-l2-ex7", question: 'Traduce: Esa pregunta no la entendió', expectedAnswer: "Esa prigunta nu la entendió", explanation: "" },
-                { id: "b3-l2-ex8", question: 'Traduce: El asco no lo sintió nunca', expectedAnswer: "L’ascu nu lo sintió nunca", explanation: "" },
+                { id: "b3-l2-ex8", question: 'Traduce: El asco no lo sintió nunca', expectedAnswer: "L'ascu nu lo sintió nunca", explanation: "" },
                 { id: "b3-l2-ex9", question: 'Traduce: Hay sopa hecha allí', expectedAnswer: "Hai sopa jechu allí", explanation: "" },
                 { id: "b3-l2-ex10", question: 'Traduce: Piedra seca', expectedAnswer: "Piedra secu", explanation: "" },
-                { 
-                    id: "b3-l2-ex11", 
-                    question: 'Escoge la respuesta correcta: ¿Si un objeto es femenino incontable, como son el adjetivo y pronombre?', 
-                    expectedAnswer: "c)", 
+                {
+                    id: "b3-l2-ex11",
+                    question: 'Escoge la respuesta correcta: ¿Si un objeto es femenino incontable, como son el adjetivo y pronombre?',
+                    expectedAnswer: "c)",
                     options: [
                         "a) Adjetivo femenino y pronombre neutro",
                         "b) Depende si el objeto es sujeto o no dentro de la oración",
@@ -91,21 +91,21 @@ Ropa (Incontable), Suciu (Masculino), Tiéndilo (Neutro, acabado en “o”)`,
                         "d) Adjetivo neutro y el pronombre acabado en “u” porque es singular",
                         "e) Como he leído varias veces la teoría, he leído el texto oculto que dice que todo se pone neutro, salvo si es un objeto plural",
                         "f) Igual que en asturiano, todo neutro"
-                    ], 
-                    explanation: "" 
+                    ],
+                    explanation: ""
                 },
-                { 
-                    id: "b3-l2-ex12", 
-                    question: 'Elige la respuesta correcta: El viento es...', 
-                    expectedAnswer: "b)", 
+                {
+                    id: "b3-l2-ex12",
+                    question: 'Elige la respuesta correcta: El viento es...',
+                    expectedAnswer: "b)",
                     options: [
                         "a) Incontable masculino, es decir, adjetivo masculino y pronombre masculino",
                         "b) Incontable masculino, es decir, adjetivo masculino y pronombre neutro",
                         "c) Contable femenino",
                         "d) Para esa palabra no se aplica el neutro de materia",
                         "e) Neutral, adjetivo femenino y pronombre neutro"
-                    ], 
-                    explanation: "" 
+                    ],
+                    explanation: ""
                 }
             ]
         },
@@ -158,18 +158,18 @@ SE impersonal --- SI
 SÉ --- SÉ`,
             examples: [],
             exercises: [
-                { id: "b3-l3-ex1", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Vengo a pintarte el brazo', expectedAnswer: "Vengo a pintati’l brazu", explanation: "" },
+                { id: "b3-l3-ex1", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Vengo a pintarte el brazo', expectedAnswer: "Vengo a pintati'l brazu", explanation: "" },
                 { id: "b3-l3-ex2", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Me puse allí', expectedAnswer: "Me pusi allí", explanation: "" },
                 { id: "b3-l3-ex3", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Me puse una pulsera en el brazo', expectedAnswer: "Mi pusi una pulsera nel brazu", explanation: "" },
                 { id: "b3-l3-ex4", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Se sabe por el color (Utiliza enclisis)', expectedAnswer: "Sábisi pol color", explanation: "" },
                 { id: "b3-l3-ex5", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Voy a peinarme', expectedAnswer: "Voi a peiname", explanation: "" },
-                { id: "b3-l3-ex6", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Va a peinarte el pelo', expectedAnswer: "Va a peinati’l pelu", explanation: "" },
+                { id: "b3-l3-ex6", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Va a peinarte el pelo', expectedAnswer: "Va a peinati'l pelu", explanation: "" },
                 { id: "b3-l3-ex7", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Voy a ponerme los calcetines', expectedAnswer: "Voi a ponemi los calcitinis", explanation: "" },
-                { id: "b3-l3-ex8", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Me golpeó el brazo (Utiliza enclisis)', expectedAnswer: "Golpeómi’l brazu", explanation: "" },
+                { id: "b3-l3-ex8", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Me golpeó el brazo (Utiliza enclisis)', expectedAnswer: "Golpeómi'l brazu", explanation: "" },
                 { id: "b3-l3-ex9", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Hay que representarla bien', expectedAnswer: "Hai que representala bien", explanation: "" },
                 { id: "b3-l3-ex10", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Para este tema, hay que representarles un eje para que lo entiendan', expectedAnswer: "Pa esti tema, hai que representales un eji pa que lu intiendan", explanation: "" },
                 { id: "b3-l3-ex11", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Se cayó (Utiliza enclisis)', expectedAnswer: "Cayóse", explanation: "" },
-                { id: "b3-l3-ex12", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Se cayó su móvil al suelo (Utiliza enclisis)', expectedAnswer: "Cayósi’l su móvil al suelu", explanation: "" },
+                { id: "b3-l3-ex12", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Se cayó su móvil al suelo (Utiliza enclisis)', expectedAnswer: "Cayósi'l su móvil al suelu", explanation: "" },
                 { id: "b3-l3-ex13", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Te voy a dar un regalo', expectedAnswer: "Ti voi a dar un regalu", explanation: "" }
             ]
         },
@@ -182,31 +182,31 @@ SÉ --- SÉ`,
                 { id: "b3-l4-ex1", question: 'Traduce: El se metió en la piscina (Con enclisis)', expectedAnswer: "El mitióse ena piscina", explanation: "" },
                 { id: "b3-l4-ex2", question: 'Traduce: Hice una torre de pizarra negra', expectedAnswer: "Jici una torri de pizarra negru", explanation: "" },
                 { id: "b3-l4-ex3", question: 'Traduce: La brisa es cálida', expectedAnswer: "La brisa es cálidu", explanation: "" },
-                { id: "b3-l4-ex4", question: 'Traduce: Te dio el dinero, ¿Le diste las gracias?', expectedAnswer: "Te dio’l dineru, ¿Li disti las gracias?", explanation: "" },
+                { id: "b3-l4-ex4", question: 'Traduce: Te dio el dinero, ¿Le diste las gracias?', expectedAnswer: "Te dio'l dineru, ¿Li disti las gracias?", explanation: "" },
                 { id: "b3-l4-ex5", question: 'Traduce: Me cansé en el partido', expectedAnswer: "Me cansé nel partíu", explanation: "" },
-                { id: "b3-l4-ex6", question: 'Traduce: Me corté el dedo', expectedAnswer: "Mi corté’l deu", explanation: "" },
+                { id: "b3-l4-ex6", question: 'Traduce: Me corté el dedo', expectedAnswer: "Mi corté'l deu", explanation: "" },
                 { id: "b3-l4-ex7", question: 'Traduce: El gato es muy astuto para verlo', expectedAnswer: "El gatu es mui astutu pa velu", explanation: "" },
                 { id: "b3-l4-ex8", question: 'Traduce: El polvo es demasiado pequeño para verlo', expectedAnswer: "El polvu es demasiáu pequeñu pa velo", explanation: "" },
-                { id: "b3-l4-ex9", question: 'Traduce: Quítate el barro de la ropa', expectedAnswer: "Quítati’l barru de la ropa", explanation: "" },
+                { id: "b3-l4-ex9", question: 'Traduce: Quítate el barro de la ropa', expectedAnswer: "Quítati'l barru de la ropa", explanation: "" },
                 { id: "b3-l4-ex10", question: 'Traduce: Apártate, que no veo nada', expectedAnswer: "Apártate, que nu veo naa", explanation: "" },
                 { id: "b3-l4-ex11", question: 'Traduce: Me dijo que no viene (Con enclisis)', expectedAnswer: "Díjome que nu vien", explanation: "" },
                 { id: "b3-l4-ex12", question: 'Traduce: Te mojé la pierna', expectedAnswer: "Ti mojé la pierna", explanation: "" },
                 { id: "b3-l4-ex13", question: 'Traduce: Se fue con ellos', expectedAnswer: "Se jue con ellos", explanation: "" },
                 { id: "b3-l4-ex14", question: 'Traduce: Se sabe que no es así (Con enclisis)', expectedAnswer: "Sábisi que nu es así", explanation: "" },
-                { id: "b3-l4-ex15", question: 'Traduce: Se rizó el pelo ayer (Con enclisis)', expectedAnswer: "Rizósi’l pelu ayer", explanation: "" },
-                { id: "b3-l4-ex16", question: 'Traduce: Fui al cementerio el mes pasado', expectedAnswer: "Jui al cementeriu’l mes pasáu", explanation: "" },
-                { id: "b3-l4-ex17", question: 'Traduce: Hace un frío que eriza la piel', expectedAnswer: "Jaz un fríu qu’iriza la piel", explanation: "" },
-                { id: "b3-l4-ex18", question: 'Traduce: Es posible que esté prohibido', expectedAnswer: "Es pusibli qu’esté pruhibíu", explanation: "" },
+                { id: "b3-l4-ex15", question: 'Traduce: Se rizó el pelo ayer (Con enclisis)', expectedAnswer: "Rizósi'l pelu ayer", explanation: "" },
+                { id: "b3-l4-ex16", question: 'Traduce: Fui al cementerio el mes pasado', expectedAnswer: "Jui al cementeriu'l mes pasáu", explanation: "" },
+                { id: "b3-l4-ex17", question: 'Traduce: Hace un frío que eriza la piel', expectedAnswer: "Jaz un fríu qu'iriza la piel", explanation: "" },
+                { id: "b3-l4-ex18", question: 'Traduce: Es posible que esté prohibido', expectedAnswer: "Es pusibli qu'esté pruhibíu", explanation: "" },
                 { id: "b3-l4-ex19", question: 'Traduce: Esa casa se quemó por una pelea (con enclisis)', expectedAnswer: "Esa casa quemóse por una pelea", explanation: "" },
-                { id: "b3-l4-ex20", question: 'Traduce: A esa casa se le quemó el tejado', expectedAnswer: "A esa casa si li quemó’l tejáu", explanation: "" },
+                { id: "b3-l4-ex20", question: 'Traduce: A esa casa se le quemó el tejado', expectedAnswer: "A esa casa si li quemó'l tejáu", explanation: "" },
                 { id: "b3-l4-ex21", question: 'Traduce: Me dio la sopa fría, no se lo perdonaré', expectedAnswer: "Mi dio la sopa fríu, nu si lu perdonaré", explanation: "" },
                 { id: "b3-l4-ex22", question: 'Traduce: Ese caldo es muy malo, aun así no lo tiraré', expectedAnswer: "Esi caldu es mui malu, aun así nu lo tiraré", explanation: "" },
                 { id: "b3-l4-ex23", question: 'Traduce: Empieza por el principio', expectedAnswer: "Impieza pol principiu", explanation: "" },
-                { id: "b3-l4-ex24", question: 'Traduce: Me dio el menú después de media hora', expectedAnswer: "Mi dio’l minú dispués de media hora", explanation: "" },
+                { id: "b3-l4-ex24", question: 'Traduce: Me dio el menú después de media hora', expectedAnswer: "Mi dio'l minú dispués de media hora", explanation: "" },
                 { id: "b3-l4-ex25", question: 'Traduce: Te traigo ropa limpia (Enclisis)', expectedAnswer: "Tráigoti ropa limpiu", explanation: "" },
                 { id: "b3-l4-ex26", question: 'Traduce: Me dio un golpe', expectedAnswer: "Me dio un golpi", explanation: "" },
-                { id: "b3-l4-ex27", question: 'Traduce: La avenida del este es muy ancha', expectedAnswer: "L’avinía del esti es mui ancha", explanation: "" },
-                { id: "b3-l4-ex28", question: 'Traduce: Métete en llamada', expectedAnswer: "Métite en llamáa", explanation: "" },
+                { id: "b3-l4-ex27", question: 'Traduce: La avenida del este es muy ancha', expectedAnswer: "L'avinía del esti es mui ancha", explanation: "" },
+                { id: "b3-l4-ex28", question: 'Traduce: Métete en llamada', expectedAnswer: "Métite en llamaa", explanation: "" },
                 { id: "b3-l4-ex29", question: 'Traduce: Estuvo en la celebración', expectedAnswer: "Istuvo ena cilibración", explanation: "" },
                 { id: "b3-l4-ex30", question: 'Traduce: Fue un gran porvernir', expectedAnswer: "Jue un gran purvinir", explanation: "" },
                 { id: "b3-l4-ex31", question: 'Traduce: Estoy cansado de tanto escribir', expectedAnswer: "Estoi cansáu de tantu iscribir", explanation: "" }

@@ -41,7 +41,7 @@ Rozar - Arrozar`,
         {
             id: "b5-l4",
             title: "LECCIÓN 4 -------- APÓSTROFE “DE”",
-            theory: `A veces, de forma más vulgar, si puede poner “El cosu’ la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.`,
+            theory: `A veces, de forma más vulgar, si puede poner “El cosu' la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.`,
             examples: [],
             exercises: []
         }

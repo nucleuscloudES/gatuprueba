@@ -51,18 +51,18 @@ Los mis pies.`,
                 { id: "b2-l2-ex2", question: 'Traduce “Su guitarra”', expectedAnswer: "La su guitarra", explanation: "" },
                 { id: "b2-l2-ex3", question: 'Traduce “Él fue, su abuela no”', expectedAnswer: "Él jue, la su güela no", explanation: "" },
                 { id: "b2-l2-ex4", question: 'Traduce “Eso es nuestro”', expectedAnswer: "Esu es muestru", explanation: "" },
-                { 
-                    id: "b2-l2-ex5", 
-                    question: 'Elige la respuesta correcta:', 
-                    expectedAnswer: "c)", 
+                {
+                    id: "b2-l2-ex5",
+                    question: 'Elige la respuesta correcta:',
+                    expectedAnswer: "c)",
                     options: [
                         "a) Se pone el o la dependiendo del número del sustantivo",
                         "b) Se pone el o los dependiendo del género del sustantivo",
                         "c) Se pone el o la dependiendo del género del sustantivo",
                         "d) Se pone la o las dependiendo de cómo suene mejor",
                         "e) Ninguna es correcta"
-                    ], 
-                    explanation: "" 
+                    ],
+                    explanation: ""
                 },
                 { id: "b2-l2-ex6", question: 'Completa la tabla en tercera persona singular: ------ su gatu', expectedAnswer: "el", explanation: "" },
                 { id: "b2-l2-ex7", question: 'Completa la tabla en tercera persona singular: ------ sus sudaeras', expectedAnswer: "las", explanation: "" },
@@ -105,7 +105,7 @@ Cada una | Caúna
 Los pronombres MOS y VOS también forman contracción junto a determinante.
 Molo dijo ahier.
 Mola presentesti.
-Molos disti l’otru día.
+Molos disti l'otru día.
 Esas hestorias ya molas contarin en clas.
 El lápiz volu doi dispués.
 Eso nu volo criís ni vós.
@@ -151,7 +151,7 @@ Contracciones sacadas directamente de PROYEUTU DEPRIENDI. Aunque algunas de ella
 
 EL, DE, QUE
 
-EL --- El agua --- L'augua + Está el --- Está’l
+EL --- El agua --- L'augua + Está el --- Está'l
 En caso de doble sonido, tiene preferencia ponerlo en la palabra siguiente:
 Está el agua --- Está l'augua
 
@@ -164,31 +164,31 @@ QUE --- Que está --- Qu'está
 Se apostrofan SOLU con el sonido A:
 PA y LA
 
-LA --- La armónica --- L’armónica
-LA --- La encara --- La encara, L’encara ESTÁ MAL
+LA --- La armónica --- L'armónica
+LA --- La encara --- La encara, L'encara ESTÁ MAL
 
-PA --- Pa acerrar --- P’acerrar
-PA --- Pa empezar --- Pa empezar, P’empezar ESTÁ MAL
+PA --- Pa acerrar --- P'acerrar
+PA --- Pa empezar --- Pa empezar, P'empezar ESTÁ MAL
 
 
 El QUE tiene alguna regla especial:
 
-Que+sonido vocálico: qu’estabas, q’hai.
-Que+el: que’l.
-Que+el+vocálicu: que l’armariu (siempre la palabra de después)
-Que+él: qu’él.`,
+Que+sonido vocálico: qu'estabas, q'hai.
+Que+el: que'l.
+Que+el+vocálicu: que l'armariu (siempre la palabra de después)
+Que+él: qu'él.`,
             examples: [],
             exercises: [
                 { id: "b2-l4-ex1", question: 'Traduce y apostrofa donde sea necesario: El editor es muy bueno', expectedAnswer: "L'editor es mui güenu", explanation: "" },
                 { id: "b2-l4-ex2", question: 'Traduce y apostrofa donde sea necesario: La actuación fue larga', expectedAnswer: "L'atuación jue larga", explanation: "" },
                 { id: "b2-l4-ex3", question: 'Traduce y apostrofa donde sea necesario: Dijo que el prado es llano', expectedAnswer: "Dijo que'l práu es llanu", explanation: "" },
-                { id: "b2-l4-ex4", question: 'Traduce y apostrofa donde sea necesario: Sabes que él no fue', expectedAnswer: "Sabis qu’él nu jue", explanation: "" },
-                { id: "b2-l4-ex5", question: 'Traduce y apostrofa donde sea necesario: Hacha de oro y de esmeraldas', expectedAnswer: "Jacha d’oru y d’esmeraldas", explanation: "" },
-                { id: "b2-l4-ex6", question: 'Traduce y apostrofa donde sea necesario: Para Ana el grande de ayer', expectedAnswer: "P’Ana el grandi d’ayer", explanation: "" },
+                { id: "b2-l4-ex4", question: 'Traduce y apostrofa donde sea necesario: Sabes que él no fue', expectedAnswer: "Sabis qu'él nu jue", explanation: "" },
+                { id: "b2-l4-ex5", question: 'Traduce y apostrofa donde sea necesario: Hacha de oro y de esmeraldas', expectedAnswer: "Jacha d'oru y d'esmeraldas", explanation: "" },
+                { id: "b2-l4-ex6", question: 'Traduce y apostrofa donde sea necesario: Para Ana el grande de ayer', expectedAnswer: "P'Ana el grandi d'ayer", explanation: "" },
                 { id: "b2-l4-ex7", question: 'Traduce y apostrofa donde sea necesario: La iglesia del pueblo es grande', expectedAnswer: "La iglesia del pueblu es grandi", explanation: "" },
-                { id: "b2-l4-ex8", question: 'Traduce y apostrofa donde sea necesario: Sigue el rastro', expectedAnswer: "Sigui’l rastru", explanation: "" },
-                { id: "b2-l4-ex9", question: 'Traduce y apostrofa donde sea necesario: Sigue el aire', expectedAnswer: "Sigui l’airi", explanation: "" },
-                { id: "b2-l4-ex10", question: 'Traduce y apostrofa donde sea necesario: Que hay', expectedAnswer: "Qu’hai", explanation: "" }
+                { id: "b2-l4-ex8", question: 'Traduce y apostrofa donde sea necesario: Sigue el rastro', expectedAnswer: "Sigui'l rastru", explanation: "" },
+                { id: "b2-l4-ex9", question: 'Traduce y apostrofa donde sea necesario: Sigue el aire', expectedAnswer: "Sigui l'airi", explanation: "" },
+                { id: "b2-l4-ex10", question: 'Traduce y apostrofa donde sea necesario: Que hay', expectedAnswer: "Qu'hai", explanation: "" }
             ]
         },
         {
@@ -201,21 +201,21 @@ Que+él: qu’él.`,
                 { id: "b2-l5-ex2", question: 'Traduce: Tiene que haber botes allí', expectedAnswer: "Tien que haber botis allí", explanation: "" },
                 { id: "b2-l5-ex3", question: 'Traduce: Por la parte de fuera hay que hacer obra', expectedAnswer: "Partajuera hai que jacer obra", explanation: "" },
                 { id: "b2-l5-ex4", question: 'Traduce: Esta lluvia no asusta a este pueblo', expectedAnswer: "Esta lluvia nu asusta a esti pueblu", explanation: "" },
-                { id: "b2-l5-ex5", question: 'Traduce: Que él no sepa poner el cuadro, no significa que el cuadro esté así', expectedAnswer: "Qu’él nu sepa poner el cuadru, nu significa que’l cuadru esté así", explanation: "" },
-                { id: "b2-l5-ex6", question: 'Traduce: El amianto es muy tóxico', expectedAnswer: "L’amiantu es mui tósicu", explanation: "" },
-                { id: "b2-l5-ex7", question: 'Traduce: ¿Sabes de él?', expectedAnswer: "¿Sabis d’él?", explanation: "" },
-                { id: "b2-l5-ex8", question: 'Traduce: Para Amanda es bueno ese', expectedAnswer: "P’Amanda es güenu esi", explanation: "" },
+                { id: "b2-l5-ex5", question: 'Traduce: Que él no sepa poner el cuadro, no significa que el cuadro esté así', expectedAnswer: "Qu'él nu sepa poner el cuadru, nu significa que'l cuadru esté así", explanation: "" },
+                { id: "b2-l5-ex6", question: 'Traduce: El amianto es muy tóxico', expectedAnswer: "L'amiantu es mui tósicu", explanation: "" },
+                { id: "b2-l5-ex7", question: 'Traduce: ¿Sabes de él?', expectedAnswer: "¿Sabis d'él?", explanation: "" },
+                { id: "b2-l5-ex8", question: 'Traduce: Para Amanda es bueno ese', expectedAnswer: "P'Amanda es güenu esi", explanation: "" },
                 { id: "b2-l5-ex9", question: 'Traduce: Fui con mi abuela al mercado', expectedAnswer: "Jui cola mi güela al mercáu", explanation: "" },
                 { id: "b2-l5-ex10", question: 'Traduce: Su perro muerde', expectedAnswer: "El su perru muerdi", explanation: "" },
                 { id: "b2-l5-ex11", question: 'Traduce: Ven con nuestro coche', expectedAnswer: "Ven col muestru cochi", explanation: "" },
                 { id: "b2-l5-ex12", question: 'Traduce: Mi lavadora no hace eso', expectedAnswer: "La mi lavaora nu jaz esu", explanation: "" },
-                { id: "b2-l5-ex13", question: 'Traduce: Es un casco de oro', expectedAnswer: "Es un cascu d’oru", explanation: "" },
+                { id: "b2-l5-ex13", question: 'Traduce: Es un casco de oro', expectedAnswer: "Es un cascu d'oru", explanation: "" },
                 { id: "b2-l5-ex14", question: 'Traduce: Mi amigo es bueno', expectedAnswer: "El mi amigu es güenu", explanation: "" },
                 { id: "b2-l5-ex15", question: 'Traduce: Ese perro es muy malo', expectedAnswer: "Esi perru es mui malu", explanation: "" },
                 { id: "b2-l5-ex16", question: 'Traduce: Esos palos de madera son largos', expectedAnswer: "Esos palos de maera son largos", explanation: "" },
                 { id: "b2-l5-ex17", question: 'Traduce: Tiene ese reloj', expectedAnswer: "Tien esi reloj", explanation: "" },
                 { id: "b2-l5-ex18", question: 'Traduce: Hace daño', expectedAnswer: "Jaz daño", explanation: "" },
-                { id: "b2-l5-ex19", question: 'Traduce: Si puedes, trae la armónica', expectedAnswer: "Si puéis, trai l’armónica", explanation: "" },
+                { id: "b2-l5-ex19", question: 'Traduce: Si puedes, trae la armónica', expectedAnswer: "Si pueis, trai l'armónica", explanation: "" },
                 { id: "b2-l5-ex20", question: 'Traduce: Claro que no', expectedAnswer: "Claru que nu", explanation: "" },
                 { id: "b2-l5-ex21", question: 'Traduce: Esa fuente tiene siglos', expectedAnswer: "Esa juenti tien siglos", explanation: "" },
                 { id: "b2-l5-ex22", question: 'Traduce: Por arriba tiene polvo y por abajo tiene hongos (“h” de “f” latina)', expectedAnswer: "Poarriba tien polvu y poabaju tien jongos", explanation: "" },
