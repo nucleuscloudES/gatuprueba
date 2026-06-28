@@ -114,8 +114,8 @@
             },
             {
               "id": "b1-l2-ex6",
-              "question": "Traduce “Bebe un té”",
-              "expectedAnswer": "Bebi un té",
+              "question": "Traduce “Lee y bebe un té”",
+              "expectedAnswer": "Lei y bebi un té",
               "explanation": ""
             },
             {
@@ -165,7 +165,7 @@
         {
           "id": "b1-l3",
           "title": "LECCIÓN 3 ----- “D” FINAL E INTERVOCÁLICA",
-          "theory": "Todas las D finales se eliminan y se pone tilde en la última letra. En los imperativos no se quita la D\n\nEjemplos:\nVerdad -- Verdá\nVelocidad -- Velocidá\nMadrid -- Madrí\nParad – Parad (Imperativo)\n\nLas “D” intervocálicas también se eliminan. En caso de quedar doble “a” seguidas se pone tilde.\nEn caso de quedar “eu” también lleva tilde “éu”\n\nEjemplos:\nNacido -- Nacíu\nPatada -- Pataa\nTodo – Tou\n\nSolo se aplica en las últimas sílabas\n\nEjemplos\nEnredadera – Enredaera (Solo se quita la última D)\nAdobado -- Adobáu (Solo se quita la última D)\nAdicional – Adicional (La D intervocálica está en las primeras sílabas)\nHay excepciones como: vida, hedor...\n\n(Para no lleva D pero se escribe “pa”, al ser una palabra común la empezaremos a usar ahora)",
+          "theory": "Todas las D finales se eliminan y se pone tilde en la última letra. En los imperativos no se quita la D\n\nEjemplos:\nVerdad -- Verdá\nVelocidad -- Velocidá\nMadrid -- Madrí\nParad – Parad (Imperativo)\n\nLas “D” intervocálicas también se eliminan. En caso de quedar doble “a” se suelen dejar tal cual (\"aa\"). También se puede ver con tilde pero nosotros no la pondremos.\nEn caso de quedar “eu” se pone tilde, “éu”\n\nEjemplos:\nNacido -- Nacíu\nPatada -- Pataa\nTodo – Tou\n\nSolo se aplica en las últimas sílabas\n\nEjemplos\nEnredadera – Enredaera (Solo se quita la última D)\nAdobado -- Adobáu (Solo se quita la última D)\nAdicional – Adicional (La D intervocálica está en las primeras sílabas)\nHay excepciones como: vida, hedor...\n\n(Para no lleva D pero se escribe “pa”, al ser una palabra común la empezaremos a usar ahora)",
           "examples": [],
           "exercises": [
             {
@@ -178,7 +178,7 @@
               "id": "b1-l3-ex2",
               "question": "Traduce “Bajad a Madrid”",
               "expectedAnswer": "Bajad a Madrí",
-              "explanation": "Recuerda que es un imperativo"
+              "explanation": ""
             },
             {
               "id": "b1-l3-ex3",
@@ -829,7 +829,7 @@
         {
           "id": "b2-l4",
           "title": "LECCIÓN 4 ----- APOSTROFACIÓN",
-          "theory": "Se apostrofan con cualquier sonido vocálico:\n\nEL, DE, QUE\n\nEL --- El agua --- L'augua + Está el --- Está'l\nEn caso de doble sonido, tiene preferencia ponerlo en la palabra siguiente:\nEstá el agua --- Está l'augua\n\n\nDE --- De oro --- D'oru\n\nQUE --- Que está --- Qu'está\n\n\nSe apostrofan SOLU con el sonido A:\nPA y LA\n\nLA --- La armónica --- L'armónica\nLA --- La encara --- La encara, L'encara ESTÁ MAL\n\nPA --- Pa acerrar --- P'acerrar\nPA --- Pa empezar --- Pa empezar, P'empezar ESTÁ MAL\n\n\nEl QUE tiene alguna regla especial:\n\nQue+sonido vocálico: qu'estabas, q'hai.\nQue+el: que'l.\nQue+el+vocálicu: que l'armariu (siempre la palabra de después)\nQue+él: qu'él.",
+          "theory": "Se apostrofan con cualquier sonido vocálico:\n\nEL, DE, QUE\n\nEL --- El agua --- L'augua + Está el --- Está'l\nEn caso de doble sonido, tiene preferencia ponerlo en la palabra siguiente:\nEstá el agua --- Está l'augua\n\n\nDE --- De oro --- D'oru\n\nQUE --- Que está --- Qu'está\n\n\nSe apostrofan SOLU con el sonido A:\nPA y LA\n\nLA --- La armónica --- L'armónica\nLA --- La encara --- La encara, L'encara ESTÁ MAL\n\nPA --- Pa acerrar --- P'acerrar\nPA --- Pa empezar --- Pa empezar, P'empezar ESTÁ MAL\n\n\nEl QUE tiene alguna regla especial:\n\nQue+sonido vocálico: qu'estabas, qu'hai.\nQue+el: que'l.\nQue+el+vocálicu: que l'armariu (siempre la palabra de después)\nQue+él: qu'él.",
           "examples": [],
           "exercises": [
             {
@@ -864,8 +864,8 @@
             },
             {
               "id": "b2-l4-ex6",
-              "question": "Traduce y apostrofa donde sea necesario: Para Ana el grande de ayer",
-              "expectedAnswer": "P'Ana el grandi d'ayer",
+              "question": "Traduce y apostrofa donde sea necesario: Para Andrés el grande de ayer",
+              "expectedAnswer": "P'Andrés el grandi d'ayer",
               "explanation": ""
             },
             {
@@ -1011,7 +1011,7 @@
             {
               "id": "b2-l5-ex19",
               "question": "Traduce: Si puedes, trae la armónica",
-              "expectedAnswer": "Si puéis, trai l'armónica",
+              "expectedAnswer": "Si pueis, trai l'armónica",
               "explanation": ""
             },
             {
@@ -1226,19 +1226,19 @@
             {
               "id": "b3-l2-ex7",
               "question": "Traduce: Esa pregunta no la entendió",
-              "expectedAnswer": "Esa prigunta nu la entendió",
+              "expectedAnswer": "Esa prigunta nu la intindió",
               "explanation": ""
             },
             {
               "id": "b3-l2-ex8",
-              "question": "Traduce: El asco no lo sintió nunca",
-              "expectedAnswer": "L'ascu nu lo sintió nunca",
+              "question": "Traduce: No sintió el asco nunca",
+              "expectedAnswer": "Nu sintió l'ascu nunca",
               "explanation": ""
             },
             {
               "id": "b3-l2-ex9",
-              "question": "Traduce: Hay sopa hecha allí",
-              "expectedAnswer": "Hai sopa jechu allí",
+              "question": "Traduce: Hay sopa hecha",
+              "expectedAnswer": "Hai sopa jechu",
               "explanation": ""
             },
             {
@@ -1370,8 +1370,8 @@
           "exercises": [
             {
               "id": "b3-l4-ex1",
-              "question": "Traduce: El se metió en la piscina (Con enclisis)",
-              "expectedAnswer": "El mitióse ena piscina",
+              "question": "Traduce: Él se metió en la piscina (Con enclisis)",
+              "expectedAnswer": "Él mitióse ena piscina",
               "explanation": ""
             },
             {
@@ -1609,7 +1609,7 @@
         {
           "id": "b5-l4",
           "title": "LECCIÓN 4 -------- APÓSTROFE “DE”",
-          "theory": "A veces, de forma más vulgar, si puede poner “El cosu' la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.",
+          "theory": "A veces, de forma más vulgar, se puede poner “El cosu' la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.",
           "examples": [],
           "exercises": []
         }
@@ -1870,7 +1870,7 @@
         "name": "Calle",
         "words": [
           {
-            "castellano": "Santander",
+            "castellano": "Santnader",
             "cantabru": "Sanander",
             "example": ""
           },
