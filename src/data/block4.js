@@ -5,7 +5,84 @@ export const block4 = {
     lessons: [
         {
             id: "b4-l1",
-            title: "LECCIÓN 1 ---- VERBOS",
+            title: "LECCIÓN 1 --- ABECEDARIO Y SONIDOS",
+            theory: `A /a/ 
+
+B /b/ 
+
+C /k/ ante a, o, u; /θ/ ante e, i (ce, ci) 
+
+D /d/ 
+
+E /e/ 
+
+F /f/ 
+
+G /g/ ante a, o, u; /x/ ante e, i (ge, gi) 
+
+H muda (∅) 
+
+I /i/ 
+
+J /h/ 
+
+K /k/ 
+
+L /l/ 
+
+LL /ll/ 
+
+M /m/ 
+
+N /n/ 
+
+Ñ /ɲ/ 
+
+O /o/ 
+
+P /p/ 
+
+Q /k/ 
+
+R /r/ simple [ɾ] entre vocales; /r/ múltiple [r] al inicio o “rr” 
+
+S /s/ (puede ser /h/ al final de sílaba) 
+
+T /t/ 
+
+U /u/ 
+
+V /b/ (No existe sonido /v/ en cántabro, pero si en restos del castellano) 
+
+W /w/  
+
+Y como consonante /ʝ/; como vocal  /i/ 
+
+Z /θ/ en España 
+
+Ä /æ/ (Sonido intermedio entre A-E) 
+
+Ë /ɪ/ (Sonido intermedio entre E-I) 
+
+Ö /ʊ/ (Sonido intermedio entre O-U) 
+
+Cambios respecto al castellano: 
+
+No existe el sonido /ks/ (X) 
+
+La J tiene sonido /h/ en vez de /x/ 
+
+Existen vocales intermedias, pero están poco representadas y se usan para enfatizar la pronunciación en casos necesarios (Diálogos o canciones). En la escritura estándar casi no se usa 
+
+No existe yeísmo 
+
+La S puede sonar /h/`,
+            examples: [],
+            exercises: []
+        },
+        {
+            id: "b4-l2",
+            title: "LECCIÓN 2 ---- VERBOS",
             theory: `VERBO SER
 Yo ero | Yo juí
 Tú eris | Tú juisti
@@ -65,8 +142,8 @@ Yo doldré, tú doldrás, elle/usté doldrá, nós doldremos, vós doldríis, el
             exercises: []
         },
         {
-            id: "b4-l2",
-            title: "LECCIÓN 2 --- VOCABULARIO",
+            id: "b4-l3",
+            title: "LECCIÓN 3 --- VOCABULARIO",
             interactiveVocab: true,
             theory: `CASTELLANO ----> CÁNTABRU
 
