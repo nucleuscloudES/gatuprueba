@@ -167,9 +167,9 @@ SÉ --- SÉ`,
                 { id: "b3-l3-ex7", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Voy a ponerme los calcetines', expectedAnswer: "Voi a ponemi los calcitinis", explanation: "" },
                 { id: "b3-l3-ex8", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Me golpeó el brazo (Utiliza enclisis)', expectedAnswer: "Golpeómi'l brazu", explanation: "" },
                 { id: "b3-l3-ex9", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Hay que representarla bien', expectedAnswer: "Hai que representala bien", explanation: "" },
-                { id: "b3-l3-ex10", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Para este tema, hay que representarles un eje para que lo entiendan', expectedAnswer: "Pa esti tema, hai que representales un eji pa que lu intiendan", explanation: "" },
+                { id: "b3-l3-ex10", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Para este tema, hay que representarles un eje para que lo entiendan', expectedAnswer: "Pa esti tema, hai que representalis un eji pa que lu intiendan", explanation: "" },
                 { id: "b3-l3-ex11", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Se cayó (Utiliza enclisis)', expectedAnswer: "Cayóse", explanation: "" },
-                { id: "b3-l3-ex12", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Se cayó su móvil al suelo (Utiliza enclisis)', expectedAnswer: "Cayósi'l su móvil al suelu", explanation: "" },
+                { id: "b3-l3-ex12", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Se pegaron entre ellos (Utiliza enclisis)', expectedAnswer: "Pegáronse entri ellos", explanation: "" },
                 { id: "b3-l3-ex13", question: 'Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Te voy a dar un regalo', expectedAnswer: "Ti voi a dar un regalu", explanation: "" }
             ]
         },

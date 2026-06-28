@@ -1339,7 +1339,7 @@
             {
               "id": "b3-l3-ex10",
               "question": "Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Para este tema, hay que representarles un eje para que lo entiendan",
-              "expectedAnswer": "Pa esti tema, hai que representales un eji pa que lu intiendan",
+              "expectedAnswer": "Pa esti tema, hai que representalis un eji pa que lu intiendan",
               "explanation": ""
             },
             {
@@ -1350,8 +1350,8 @@
             },
             {
               "id": "b3-l3-ex12",
-              "question": "Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Se cayó su móvil al suelo (Utiliza enclisis)",
-              "expectedAnswer": "Cayósi'l su móvil al suelu",
+              "question": "Traduce y NO apliques enclisis a no ser que lo pida el enunciado: Se pegaron entre ellos (Utiliza enclisis)",
+              "expectedAnswer": "Pegáronse entri ellos",
               "explanation": ""
             },
             {
