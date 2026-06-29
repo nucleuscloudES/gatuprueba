@@ -37,6 +37,11 @@ const TemarioBlock = ({ blockIndex }) => {
 
     const handleAnswerSubmit = (exerciseId, expectedAnswer) => {
         const userAnswer = userAnswers[exerciseId] || "";
+        console.log('[DEBUG] exerciseId:', exerciseId);
+        console.log('[DEBUG] userAnswer:', JSON.stringify(userAnswer), 'length:', userAnswer.length);
+        console.log('[DEBUG] expectedAnswer:', JSON.stringify(expectedAnswer), 'length:', expectedAnswer.length);
+        console.log('[DEBUG] userAnswer chars:', [...userAnswer].map(c => c.charCodeAt(0)));
+        console.log('[DEBUG] expectedAnswer chars:', [...expectedAnswer].map(c => c.charCodeAt(0)));
         const isCorrect = isAnswerCorrect(userAnswer, expectedAnswer);
 
         setFeedback(prev => ({ ...prev, [exerciseId]: { isCorrect, submitted: true } }));
