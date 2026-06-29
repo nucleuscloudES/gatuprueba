@@ -143,9 +143,13 @@ const TemarioBlock = ({ blockIndex }) => {
                                                 style={{ flexGrow: 1 }}
                                             >
                                                 <option value="">Selecciona una opción</option>
-                                                {ex.options.map(opt => (
-                                                    <option key={opt} value={opt}>{opt}</option>
-                                                ))}
+                                                {ex.options.map((opt, optIndex) => {
+                                                    const match = opt.match(/^([a-z]\))/i);
+                                                    const optionValue = match ? match[1].toLowerCase() : String(optIndex + 1);
+                                                    return (
+                                                        <option key={opt} value={optionValue}>{opt}</option>
+                                                    );
+                                                })}
                                             </select>
                                         ) : (
                                             <input

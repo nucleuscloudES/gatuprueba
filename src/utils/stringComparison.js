@@ -26,10 +26,19 @@ export const levenshteinDistance = (str1 = '', str2 = '') => {
 
 // Checks if the user answer is correct, requiring an exact match (ignoring case and extra spaces)
 export const isAnswerCorrect = (userAnswer, expectedAnswer) => {
-    if (!userAnswer || !expectedAnswer) return false;
+  if (!userAnswer || !expectedAnswer) return false;
 
-    const normalizedUser = userAnswer.trim().toLowerCase();
-    const normalizedExpected = expectedAnswer.trim().toLowerCase();
+  const normalizedUser = userAnswer.trim().toLowerCase();
+  const normalizedExpected = expectedAnswer.trim().toLowerCase();
 
-    return normalizedUser === normalizedExpected;
+  // If expected answer is a letter option like "a)" or "e)" or a digit, compare only the prefix.
+  const optionPattern = /^[a-z]\)$/i;
+  if (optionPattern.test(normalizedExpected)) {
+    // Extract the first two characters from the user's answer (e.g., "e)" from "e) Some text").
+    const userPrefix = normalizedUser.slice(0, 2);
+    return userPrefix === normalizedExpected;
+  }
+
+  // Fallback to exact match for text answers.
+  return normalizedUser === normalizedExpected;
 };
