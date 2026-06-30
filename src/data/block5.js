@@ -6,7 +6,7 @@ export const block5 = {
         {
             id: "b5-l1",
             title: "LECCIÓN 1 ---- PALATALIZACIÓN",
-            theory: `A veces, cuando hay una “n” con una “i”, si palataliza en “ñ”
+            theory: `A veces, cuando hay una “n” con una “i”, se palataliza en “ñ”
 
 Nieve -- Ñevi
 Nidal -- Ñial`,
@@ -41,7 +41,7 @@ Rozar - Arrozar`,
         {
             id: "b5-l4",
             title: "LECCIÓN 4 -------- APÓSTROFE “DE”",
-            theory: `A veces, de forma más vulgar, si puede poner “El cosu' la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.`,
+            theory: `A veces, de forma más vulgar, se puede poner “El cosu' la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.`,
             examples: [],
             exercises: []
         }

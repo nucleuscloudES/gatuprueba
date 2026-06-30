@@ -12,7 +12,7 @@ El cierre vocálico funciona de la siguiente manera:
 Cuando la SÍLABA TÓNICA tiene una vocal cerrada (i, u), todas las “o” y “e” se cierran a “u” e “i” hasta la propia tónica o hasta que haya una “a”.
 
 Ejemplos:
-Podría --- Tónica en “ní”, polo que “o” --> “o” --- Pudría
+Podría --- Tónica en “ní”, polo que “o” --> “u” --- Pudría
 Femenino --- Tónica en “ni” polo que “e” --> “i” --- Fimininu
 Menú --- Tónica en “ú” polo que “e” --> “i” --- Minú
 
@@ -60,7 +60,7 @@ Ejemplos:
 -Moneda (Contable), Doraa (Femenino), Dámela (Femenino, acabado en “a”)
 
 SI ES INCONTABLI:
-Si es incontable la cosa cambia, independientemente de ser masculino u femenino, si el objeto es INCONTABLE, el adjetivo es masculino ( ACABADO EN “U”) y el pronombre es neutro (ACABÁU EN “O”)
+Si es incontable la cosa cambia, independientemente de ser masculino O femenino, si el objeto es INCONTABLE, el adjetivo es masculino ( ACABADO EN “U”) y el pronombre es neutro (ACABADO EN “O”)
 
 Ejemplos:
 El barru pringosu, sáltalo:
@@ -77,7 +77,7 @@ Ropa (Incontable), Suciu (Masculino), Tiéndilo (Neutro, acabado en “o”)`,
                 { id: "b3-l2-ex5", question: 'Traduce: Lava esa ropa y dóblala', expectedAnswer: "Lava esa ropa y dóblalo", explanation: "" },
                 { id: "b3-l2-ex6", question: 'Traduce: El coche no lo cogió', expectedAnswer: "El cochi nu lu cugió", explanation: "" },
                 { id: "b3-l2-ex7", question: 'Traduce: Esa pregunta no la entendió', expectedAnswer: "Esa prigunta nu la intindió", explanation: "" },
-                { id: "b3-l2-ex8", question: 'Traduce: No sintió el asco nunca', expectedAnswer: "Nu sintió l'ascu nunca", explanation: "" },
+                { id: "b3-l2-ex8", question: 'Traduce: El asco no lo sintió nunca', expectedAnswer: "L'ascu nu lo sintió nunca", explanation: "" },
                 { id: "b3-l2-ex9", question: 'Traduce: Hay sopa hecha', expectedAnswer: "Hai sopa jechu", explanation: "" },
                 { id: "b3-l2-ex10", question: 'Traduce: Piedra seca', expectedAnswer: "Piedra secu", explanation: "" },
                 {
@@ -131,7 +131,7 @@ Verte --- Vete
 Cogerlo --- Cogelo
 Darte --- Date
 
-PRONOMBRES
+PRONOMBRES - Si un pronombre es complemento indirecto se cierra (Me-Mi, Te-Ti), pero si es complemento directo NO se cierra. Consejo: Si tienes dudas añade un "lo": Me dio el libro -- Me LO dio ("Me" indirecto - Mi) // Me caí por allí -- Me LO caí (Sin sentido sintáctico, "Me" directo - Me)
 Complementu direutu | Complementu indireutu
 sing. 1ª pres. me | mi
 sing. 2ª pres. te | ti
@@ -182,14 +182,14 @@ SÉ --- SÉ`,
                 { id: "b3-l4-ex1", question: 'Traduce: Él se metió en la piscina (Con enclisis)', expectedAnswer: "Él mitióse ena piscina", explanation: "" },
                 { id: "b3-l4-ex2", question: 'Traduce: Hice una torre de pizarra negra', expectedAnswer: "Jici una torri de pizarra negru", explanation: "" },
                 { id: "b3-l4-ex3", question: 'Traduce: La brisa es cálida', expectedAnswer: "La brisa es cálidu", explanation: "" },
-                { id: "b3-l4-ex4", question: 'Traduce: Te dio el dinero, ¿Le diste las gracias?', expectedAnswer: "Te dio'l dineru, ¿Li disti las gracias?", explanation: "" },
+                { id: "b3-l4-ex4", question: 'Traduce: Te dio el dinero, ¿Le diste las gracias?', expectedAnswer: "Ti dio'l dineru, ¿Li disti las gracias?", explanation: "" },
                 { id: "b3-l4-ex5", question: 'Traduce: Me cansé en el partido', expectedAnswer: "Me cansé nel partíu", explanation: "" },
                 { id: "b3-l4-ex6", question: 'Traduce: Me corté el dedo', expectedAnswer: "Mi corté'l deu", explanation: "" },
                 { id: "b3-l4-ex7", question: 'Traduce: El gato es muy astuto para verlo', expectedAnswer: "El gatu es mui astutu pa velu", explanation: "" },
                 { id: "b3-l4-ex8", question: 'Traduce: El polvo es demasiado pequeño para verlo', expectedAnswer: "El polvu es demasiáu pequeñu pa velo", explanation: "" },
                 { id: "b3-l4-ex9", question: 'Traduce: Quítate el barro de la ropa', expectedAnswer: "Quítati'l barru de la ropa", explanation: "" },
                 { id: "b3-l4-ex10", question: 'Traduce: Apártate, que no veo nada', expectedAnswer: "Apártate, que nu veo naa", explanation: "" },
-                { id: "b3-l4-ex11", question: 'Traduce: Me dijo que no viene (Con enclisis)', expectedAnswer: "Díjome que nu vien", explanation: "" },
+                { id: "b3-l4-ex11", question: 'Traduce: Me dijo que no viene (Con enclisis)', expectedAnswer: "Díjomi que nu vien", explanation: "" },
                 { id: "b3-l4-ex12", question: 'Traduce: Te mojé la pierna', expectedAnswer: "Ti mojé la pierna", explanation: "" },
                 { id: "b3-l4-ex13", question: 'Traduce: Se fue con ellos', expectedAnswer: "Se jue con ellos", explanation: "" },
                 { id: "b3-l4-ex14", question: 'Traduce: Se sabe que no es así (Con enclisis)', expectedAnswer: "Sábisi que nu es así", explanation: "" },
@@ -207,7 +207,7 @@ SÉ --- SÉ`,
                 { id: "b3-l4-ex26", question: 'Traduce: Me dio un golpe', expectedAnswer: "Mi dio un golpi", explanation: "" },
                 { id: "b3-l4-ex27", question: 'Traduce: La avenida del este es muy ancha', expectedAnswer: "L'avinía del esti es mui ancha", explanation: "" },
                 { id: "b3-l4-ex28", question: 'Traduce: Métete en llamada', expectedAnswer: "Métite en llamaa", explanation: "" },
-                { id: "b3-l4-ex29", question: 'Traduce: Estuvo en la celebración', expectedAnswer: "Istuvo ena cilibración", explanation: "" },
+                { id: "b3-l4-ex29", question: 'Traduce: Estuvo en la celebración', expectedAnswer: "Istuvu ena cilibración", explanation: "" },
                 { id: "b3-l4-ex30", question: 'Traduce: Fue un gran porvernir', expectedAnswer: "Jue un gran purvinir", explanation: "" },
                 { id: "b3-l4-ex31", question: 'Traduce: Estoy cansado de tanto escribir', expectedAnswer: "Estoi cansáu de tantu iscribir", explanation: "" }
             ]

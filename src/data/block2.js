@@ -64,12 +64,12 @@ Los mis pies.`,
                     ],
                     explanation: ""
                 },
-                { id: "b2-l2-ex6", question: 'Completa la tabla en tercera persona singular: ------ su gatu', expectedAnswer: "el", explanation: "" },
-                { id: "b2-l2-ex7", question: 'Completa la tabla en tercera persona singular: ------ sus sudaeras', expectedAnswer: "las", explanation: "" },
-                { id: "b2-l2-ex8", question: 'Completa la tabla en tercera persona singular: las ----- vacas', expectedAnswer: "sus", explanation: "" },
-                { id: "b2-l2-ex9", question: 'Completa la tabla en tercera persona singular: la ----- maera', expectedAnswer: "su", explanation: "" },
-                { id: "b2-l2-ex10", question: 'Completa la siguiente tabla en primera persona plural: ----- mi práu', expectedAnswer: "el", explanation: "" },
-                { id: "b2-l2-ex11", question: 'Completa la siguiente tabla en primera persona plural: ----- mi ropa', expectedAnswer: "la", explanation: "" },
+                { id: "b2-l2-ex6", question: 'Completa: ------ su gatu', expectedAnswer: "el", explanation: "" },
+                { id: "b2-l2-ex7", question: 'Completa: ------ sus sudaeras', expectedAnswer: "las", explanation: "" },
+                { id: "b2-l2-ex8", question: 'Completa en tercera persona: las ----- vacas', expectedAnswer: "sus", explanation: "" },
+                { id: "b2-l2-ex9", question: 'Completa en tercera persona: la ----- maera', expectedAnswer: "su", explanation: "" },
+                { id: "b2-l2-ex10", question: 'Completa: ----- mi práu', expectedAnswer: "el", explanation: "" },
+                { id: "b2-l2-ex11", question: 'Completa: ----- mi ropa', expectedAnswer: "la", explanation: "" },
                 { id: "b2-l2-ex12", question: 'Completa la siguiente tabla en primera persona plural: la ----- casa', expectedAnswer: "muestra", explanation: "" },
                 { id: "b2-l2-ex13", question: 'Completa la siguiente tabla en primera persona plural: los ------ trajis', expectedAnswer: "muestros", explanation: "" },
                 { id: "b2-l2-ex14", question: 'Traduce “Vuestra fuerza es grande actualmente”', expectedAnswer: "La vuestra juerza es grandi atualmenti", explanation: "" }
@@ -79,21 +79,21 @@ Los mis pies.`,
             id: "b2-l3",
             title: "LECCIÓN 3 ----- CONTRACCIONES",
             theory: `CASTELLANU | CÁNTABRU | CASTELLANU | CÁNTABRU
-Del | Del | Al | Al
-En la | Ena | En unas | Nunas
-En lo | Eno | Con el | Col
-En las | Enas | Con la | Cola / Cona
-En los | Enos | Con lo | Colo / Cono
-En el | Nel | Con las | Colas / Conas
-Para el | Pal | Con los | Colos / Conos
-Para la | Pala | Todo el | Tol / Tul
-Por el | Pol | Toda la | Tola
-Por la | Pola | Todo lo | Tolo
-Por lo | Polos | Todos los | Tolos
-Por los | Polas | Todas las | Tolas
-En un | Nun | Por arriba | Poarriba / Por riba
-En una | Nuna | Por abajo | Poabaju / Por baju
-En unos | Nunos | Por delante | Poalanti / Por lanti
+Del | Del // Al | Al
+En la | Ena // En unas | Nunas
+En lo | Eno // Con el | Col
+En las | Enas // Con la | Cola / Cona
+En los | Enos // Con lo | Colo / Cono
+En el | Nel // Con las | Colas / Conas
+Para el | Pal // Con los | Colos / Conos
+Para la | Pala // Todo el | Tol / Tul
+Por el | Pol // Toda la | Tola
+Por la | Pola // Todo lo | Tolo
+Por lo | Polos // Todos los | Tolos
+Por los | Polas // Todas las | Tolas
+En un | Nun // Por arriba | Poarriba / Por riba
+En una | Nuna // Por abajo | Poabaju / Por baju
+En unos | Nunos // Por delante | Poalanti / Por lanti
 Por la parte de atrás | Partatrás
 Por detrás | Poatrás / Por trás
 Por la parte de adelante | Partalanti
@@ -198,10 +198,10 @@ Que+él: qu'él.`,
             examples: [],
             exercises: [
                 { id: "b2-l5-ex1", question: 'Traduce: Me lo dijo cuando fue a la ciudad', expectedAnswer: "Molo dijo cuandu jue a la ciudá", explanation: "" },
-                { id: "b2-l5-ex2", question: 'Traduce: Tiene que haber botes allí', expectedAnswer: "Tien que haber botis allí", explanation: "" },
+                { id: "b2-l5-ex2", question: 'Traduce: Tiene que haber botes allí', expectedAnswer: "Tien qu'haber botis allí", explanation: "" },
                 { id: "b2-l5-ex3", question: 'Traduce: Por la parte de fuera hay que hacer obra', expectedAnswer: "Partajuera hai que jacer obra", explanation: "" },
                 { id: "b2-l5-ex4", question: 'Traduce: Esta lluvia no asusta a este pueblo', expectedAnswer: "Esta lluvia nu asusta a esti pueblu", explanation: "" },
-                { id: "b2-l5-ex5", question: 'Traduce: Que él no sepa poner el cuadro, no significa que el cuadro esté así', expectedAnswer: "Qu'él nu sepa poner el cuadru, nu significa que'l cuadru esté así", explanation: "" },
+                { id: "b2-l5-ex5", question: 'Traduce: Que el cuadro no esté recto no significa que él no sepa poner cuadros', expectedAnswer: "Que'l cuadru nu esté reutu nu significa qu'él nu sepa poner cuadros", explanation: "" },
                 { id: "b2-l5-ex6", question: 'Traduce: El amianto es muy tóxico', expectedAnswer: "L'amiantu es mui tósicu", explanation: "" },
                 { id: "b2-l5-ex7", question: 'Traduce: ¿Sabes de él?', expectedAnswer: "¿Sabis d'él?", explanation: "" },
                 { id: "b2-l5-ex8", question: 'Traduce: Para Amanda es bueno ese', expectedAnswer: "P'Amanda es güenu esi", explanation: "" },
@@ -214,7 +214,7 @@ Que+él: qu'él.`,
                 { id: "b2-l5-ex15", question: 'Traduce: Ese perro es muy malo', expectedAnswer: "Esi perru es mui malu", explanation: "" },
                 { id: "b2-l5-ex16", question: 'Traduce: Esos palos de madera son largos', expectedAnswer: "Esos palos de maera son largos", explanation: "" },
                 { id: "b2-l5-ex17", question: 'Traduce: Tiene ese reloj', expectedAnswer: "Tien esi reloj", explanation: "" },
-                { id: "b2-l5-ex18", question: 'Traduce: Hace daño', expectedAnswer: "Jaz daño", explanation: "" },
+                { id: "b2-l5-ex18", question: 'Traduce: Hace daño', expectedAnswer: "Jaz dañu", explanation: "" },
                 { id: "b2-l5-ex19", question: 'Traduce: Si puedes, trae la armónica', expectedAnswer: "Si pueis, trai l'armónica", explanation: "" },
                 { id: "b2-l5-ex20", question: 'Traduce: Claro que no', expectedAnswer: "Claru que nu", explanation: "" },
                 { id: "b2-l5-ex21", question: 'Traduce: Esa fuente tiene siglos', expectedAnswer: "Esa juenti tien siglos", explanation: "" },

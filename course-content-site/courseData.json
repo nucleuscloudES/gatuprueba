@@ -114,8 +114,8 @@
             },
             {
               "id": "b1-l2-ex6",
-              "question": "Traduce “Lee y bebe un té”",
-              "expectedAnswer": "Lei y bebi un té",
+              "question": "Traduce “Ríe y bebe un té”",
+              "expectedAnswer": "Ríi y bebi un té",
               "explanation": ""
             },
             {
@@ -374,7 +374,7 @@
             },
             {
               "id": "b1-l7-ex2",
-              "question": "Viene mañana",
+              "question": "Viene mañana (Verbo corto)",
               "expectedAnswer": "Vien mañana",
               "explanation": ""
             },
@@ -386,7 +386,7 @@
             },
             {
               "id": "b1-l7-ex4",
-              "question": "La noche tiene a la luna",
+              "question": "La noche tiene a la luna (Verbo corto)",
               "expectedAnswer": "La nochi tien a la luna",
               "explanation": ""
             },
@@ -428,8 +428,8 @@
             },
             {
               "id": "b1-l7-ex11",
-              "question": "Hay que accionar el chisme ese",
-              "expectedAnswer": "Hai que acionar el chismi esi",
+              "question": "No acciones el chisme ese",
+              "expectedAnswer": "Nu acionis el chismi esi",
               "explanation": ""
             },
             {
@@ -501,7 +501,7 @@
             {
               "id": "b1-l7-ex23",
               "question": "Puedes ganar el premio gordo",
-              "expectedAnswer": "Puéis ganar el premiu gordu",
+              "expectedAnswer": "Pueis ganar el premiu gordu",
               "explanation": ""
             },
             {
@@ -537,7 +537,7 @@
             {
               "id": "b1-l7-ex29",
               "question": "Es muy listo para esos temas",
-              "expectedAnswer": "Es mui listu pa estos temas",
+              "expectedAnswer": "Es mui listu pa esos temas",
               "explanation": ""
             },
             {
@@ -620,37 +620,37 @@
             },
             {
               "id": "b2-l2-ex6",
-              "question": "Completa la tabla en tercera persona singular: ------ su gatu",
+              "question": "Completa: ------ su gatu",
               "expectedAnswer": "el",
               "explanation": ""
             },
             {
               "id": "b2-l2-ex7",
-              "question": "Completa la tabla en tercera persona singular: ------ sus sudaeras",
+              "question": "Completa: ------ sus sudaeras",
               "expectedAnswer": "las",
               "explanation": ""
             },
             {
               "id": "b2-l2-ex8",
-              "question": "Completa la tabla en tercera persona singular: las ----- vacas",
+              "question": "Completa en tercera persona: las ----- vacas",
               "expectedAnswer": "sus",
               "explanation": ""
             },
             {
               "id": "b2-l2-ex9",
-              "question": "Completa la tabla en tercera persona singular: la ----- maera",
+              "question": "Completa en tercera persona: la ----- maera",
               "expectedAnswer": "su",
               "explanation": ""
             },
             {
               "id": "b2-l2-ex10",
-              "question": "Completa la siguiente tabla en primera persona plural: ----- mi práu",
+              "question": "Completa: ----- mi práu",
               "expectedAnswer": "el",
               "explanation": ""
             },
             {
               "id": "b2-l2-ex11",
-              "question": "Completa la siguiente tabla en primera persona plural: ----- mi ropa",
+              "question": "Completa: ----- mi ropa",
               "expectedAnswer": "la",
               "explanation": ""
             },
@@ -677,7 +677,7 @@
         {
           "id": "b2-l3",
           "title": "LECCIÓN 3 ----- CONTRACCIONES",
-          "theory": "CASTELLANU | CÁNTABRU | CASTELLANU | CÁNTABRU\nDel | Del | Al | Al\nEn la | Ena | En unas | Nunas\nEn lo | Eno | Con el | Col\nEn las | Enas | Con la | Cola / Cona\nEn los | Enos | Con lo | Colo / Cono\nEn el | Nel | Con las | Colas / Conas\nPara el | Pal | Con los | Colos / Conos\nPara la | Pala | Todo el | Tol / Tul\nPor el | Pol | Toda la | Tola\nPor la | Pola | Todo lo | Tolo\nPor lo | Polos | Todos los | Tolos\nPor los | Polas | Todas las | Tolas\nEn un | Nun | Por arriba | Poarriba / Por riba\nEn una | Nuna | Por abajo | Poabaju / Por baju\nEn unos | Nunos | Por delante | Poalanti / Por lanti\nPor la parte de atrás | Partatrás\nPor detrás | Poatrás / Por trás\nPor la parte de adelante | Partalanti\nPor la parte de fuera | Partajuera\nCada uno | Caúnu\nPor la parte de dentro | Partadrentu\nCada una | Caúna\n\nLos pronombres MOS y VOS también forman contracción junto a determinante.\nMolo dijo ahier.\nMola presentesti.\nMolos disti l'otru día.\nEsas hestorias ya molas contarin en clas.\nEl lápiz volu doi dispués.\nEso nu volo criís ni vós.\n\nOtra contracción importante es el caso de DENDI, que contrae de las siguientes formas:\nDIQUIÁ (dendi aquí jasta) Diquiá dos días, estaré en paru.\nDILLIÁ (dendi allí jasta) DilliáTorlavega son séis kilómetros.\nDIQUÍ (dendi+aquí) Diquí se vei la mar.\nDILLÍ (dendi+allí) Dillí tendrán de vivir a salvamos.\nContracciones sacadas directamente de PROYEUTU DEPRIENDI. Aunque algunas de ellas son intuitivas, hay que aprendelas.",
+          "theory": "CASTELLANU | CÁNTABRU | CASTELLANU | CÁNTABRU\nDel | Del // Al | Al\nEn la | Ena // En unas | Nunas\nEn lo | Eno // Con el | Col\nEn las | Enas // Con la | Cola / Cona\nEn los | Enos // Con lo | Colo / Cono\nEn el | Nel // Con las | Colas / Conas\nPara el | Pal // Con los | Colos / Conos\nPara la | Pala // Todo el | Tol / Tul\nPor el | Pol // Toda la | Tola\nPor la | Pola // Todo lo | Tolo\nPor lo | Polos // Todos los | Tolos\nPor los | Polas // Todas las | Tolas\nEn un | Nun // Por arriba | Poarriba / Por riba\nEn una | Nuna // Por abajo | Poabaju / Por baju\nEn unos | Nunos // Por delante | Poalanti / Por lanti\nPor la parte de atrás | Partatrás\nPor detrás | Poatrás / Por trás\nPor la parte de adelante | Partalanti\nPor la parte de fuera | Partajuera\nCada uno | Caúnu\nPor la parte de dentro | Partadrentu\nCada una | Caúna\n\nLos pronombres MOS y VOS también forman contracción junto a determinante.\nMolo dijo ahier.\nMola presentesti.\nMolos disti l'otru día.\nEsas hestorias ya molas contarin en clas.\nEl lápiz volu doi dispués.\nEso nu volo criís ni vós.\n\nOtra contracción importante es el caso de DENDI, que contrae de las siguientes formas:\nDIQUIÁ (dendi aquí jasta) Diquiá dos días, estaré en paru.\nDILLIÁ (dendi allí jasta) DilliáTorlavega son séis kilómetros.\nDIQUÍ (dendi+aquí) Diquí se vei la mar.\nDILLÍ (dendi+allí) Dillí tendrán de vivir a salvamos.\nContracciones sacadas directamente de PROYEUTU DEPRIENDI. Aunque algunas de ellas son intuitivas, hay que aprendelas.",
           "examples": [],
           "exercises": [
             {
@@ -909,7 +909,7 @@
             {
               "id": "b2-l5-ex2",
               "question": "Traduce: Tiene que haber botes allí",
-              "expectedAnswer": "Tien que haber botis allí",
+              "expectedAnswer": "Tien qu'haber botis allí",
               "explanation": ""
             },
             {
@@ -926,8 +926,8 @@
             },
             {
               "id": "b2-l5-ex5",
-              "question": "Traduce: Que él no sepa poner el cuadro, no significa que el cuadro esté así",
-              "expectedAnswer": "Qu'él nu sepa poner el cuadru, nu significa que'l cuadru esté así",
+              "question": "Traduce: Que el cuadro no esté recto no significa que él no sepa poner cuadros",
+              "expectedAnswer": "Que'l cuadru nu esté reutu nu significa qu'él nu sepa poner cuadros",
               "explanation": ""
             },
             {
@@ -1005,7 +1005,7 @@
             {
               "id": "b2-l5-ex18",
               "question": "Traduce: Hace daño",
-              "expectedAnswer": "Jaz daño",
+              "expectedAnswer": "Jaz dañu",
               "explanation": ""
             },
             {
@@ -1056,7 +1056,7 @@
         {
           "id": "b3-l1",
           "title": "Lección 1---- Cierre vocálico",
-          "theory": "En cántabro existen 3 tipos de cierre vocálico. El TÓNICO, el POST-TÓNICO y el PRETÓNICO. En el cántabro estándar se usa solo el PRETÓNICO. Los otros dos estarán disponibles futuramente en la extensión de dialectos.\n\nEl cierre vocálico funciona de la siguiente manera:\nCuando la SÍLABA TÓNICA tiene una vocal cerrada (i, u), todas las “o” y “e” se cierran a “u” e “i” hasta la propia tónica o hasta que haya una “a”.\n\nEjemplos:\nPodría --- Tónica en “ní”, polo que “o” --> “o” --- Pudría\nFemenino --- Tónica en “ni” polo que “e” --> “i” --- Fimininu\nMenú --- Tónica en “ú” polo que “e” --> “i” --- Minú\n\nTambién se aplica el cierre cuando la tónica es uno de los siguientes diptongos:\n“io” “ue” “ie”\n\nEjemplos:\nSesión --- Tónica en “ió” polo que “e” --> “i” --- Sisión\nTeruel --- Tónica en “ue” polo que “e” --> “i” --- Tiruel\nComienzo -- Tónica en “ie” polo que “o” --> “u” --- Cumienzu",
+          "theory": "En cántabro existen 3 tipos de cierre vocálico. El TÓNICO, el POST-TÓNICO y el PRETÓNICO. En el cántabro estándar se usa solo el PRETÓNICO. Los otros dos estarán disponibles futuramente en la extensión de dialectos.\n\nEl cierre vocálico funciona de la siguiente manera:\nCuando la SÍLABA TÓNICA tiene una vocal cerrada (i, u), todas las “o” y “e” se cierran a “u” e “i” hasta la propia tónica o hasta que haya una “a”.\n\nEjemplos:\nPodría --- Tónica en “ní”, polo que “o” --> “u” --- Pudría\nFemenino --- Tónica en “ni” polo que “e” --> “i” --- Fimininu\nMenú --- Tónica en “ú” polo que “e” --> “i” --- Minú\n\nTambién se aplica el cierre cuando la tónica es uno de los siguientes diptongos:\n“io” “ue” “ie”\n\nEjemplos:\nSesión --- Tónica en “ió” polo que “e” --> “i” --- Sisión\nTeruel --- Tónica en “ue” polo que “e” --> “i” --- Tiruel\nComienzo -- Tónica en “ie” polo que “o” --> “u” --- Cumienzu",
           "examples": [],
           "exercises": [
             {
@@ -1184,7 +1184,7 @@
         {
           "id": "b3-l2",
           "title": "LECCIÓN 2 ---- NEUTRO DE MATERIA",
-          "theory": "Para emplear el neutru de materia hay que tener en cuenta si el objeto es contable o incontable.\n\nSI ES CONTABLE:\nEl adjetivo y pronombre concuerda en género, por ejemplo: “Un boti suciu”, como bote es contable, el adjetivo concuerda siendo masculino, además su pronombre también: “lávalu”. Esto aplica en femenino también: “La moneda doraa”, “Dámela”\n\nEjemplos:\n-Boti (Contable), Suciu (Masculino, que concuerda con “bote”), Lávalu (Masculino, el cual acaba en “u”)\n-Moneda (Contable), Doraa (Femenino), Dámela (Femenino, acabado en “a”)\n\nSI ES INCONTABLI:\nSi es incontable la cosa cambia, independientemente de ser masculino u femenino, si el objeto es INCONTABLE, el adjetivo es masculino ( ACABADO EN “U”) y el pronombre es neutro (ACABÁU EN “O”)\n\nEjemplos:\nEl barru pringosu, sáltalo:\nBarru (incontable), Pringosu (Masculino), Sáltalo (Neutro, el cual acaba en “o”)\n\nLa ropa suciu, tiéndilo:\nRopa (Incontable), Suciu (Masculino), Tiéndilo (Neutro, acabado en “o”)",
+          "theory": "Para emplear el neutru de materia hay que tener en cuenta si el objeto es contable o incontable.\n\nSI ES CONTABLE:\nEl adjetivo y pronombre concuerda en género, por ejemplo: “Un boti suciu”, como bote es contable, el adjetivo concuerda siendo masculino, además su pronombre también: “lávalu”. Esto aplica en femenino también: “La moneda doraa”, “Dámela”\n\nEjemplos:\n-Boti (Contable), Suciu (Masculino, que concuerda con “bote”), Lávalu (Masculino, el cual acaba en “u”)\n-Moneda (Contable), Doraa (Femenino), Dámela (Femenino, acabado en “a”)\n\nSI ES INCONTABLI:\nSi es incontable la cosa cambia, independientemente de ser masculino O femenino, si el objeto es INCONTABLE, el adjetivo es masculino ( ACABADO EN “U”) y el pronombre es neutro (ACABADO EN “O”)\n\nEjemplos:\nEl barru pringosu, sáltalo:\nBarru (incontable), Pringosu (Masculino), Sáltalo (Neutro, el cual acaba en “o”)\n\nLa ropa suciu, tiéndilo:\nRopa (Incontable), Suciu (Masculino), Tiéndilo (Neutro, acabado en “o”)",
           "examples": [],
           "exercises": [
             {
@@ -1231,8 +1231,8 @@
             },
             {
               "id": "b3-l2-ex8",
-              "question": "Traduce: No sintió el asco nunca",
-              "expectedAnswer": "Nu sintió l'ascu nunca",
+              "question": "Traduce: El asco no lo sintió nunca",
+              "expectedAnswer": "L'ascu nu lo sintió nunca",
               "explanation": ""
             },
             {
@@ -1279,7 +1279,7 @@
         {
           "id": "b3-l3",
           "title": "LECCIÓN 3 ----- COMPLEMENTO DIRECTO E INDIRECTO Y ENCLISIS",
-          "theory": "La enclisis consiste en poner un pronombre después de un verbo\n\nMe dijo --- Díjome\nMe trajo --- Tríjome\nSe trae --- Traise\n\nSi al formar la enclisis la palabra requiere de una tilde para no perder su tónica original, es obligatorio ponerla\n\n-Me dijo – Dijome (El verbo no lleva tilde, pero su nueva tónica en “di” la hace esdrújula) -- Díjome\n-Se metió -- MItiose (El verbo tiene tilde, la cual se mantiene) -- Mitióse\n-Se requiere – Riquiersi /Riquier es aguda acabada en R, sin tilde, con la enclisis se convierte en llana acabada en vocal, por lo que permanece sin tilde).\n\nLas enclisis se usan sobre todo al inicio de las oraciones. Son libres de uso para cuando suene bien.\n\nA los verbos con pronombres, se les quita la “r”\nVerte --- Vete\nCogerlo --- Cogelo\nDarte --- Date\n\nPRONOMBRES\nComplementu direutu | Complementu indireutu\nsing. 1ª pres. me | mi\nsing. 2ª pres. te | ti\nsing. 3ª pres. lu, la, lo | li\npl. 1ª pres. nos/mos | nos/mos\npl. 2ª pres. vos | vos\npl. 3ª pres. los, les | lis\nReflesivu se | si\n\nComplementu direutu / Complementu indireutu\nVino a dame. / Vino a dami las llavis.\nQuier vete. / Quier veti la cara.\nPasó a recogelu. / Pasó a recogeli las cosas.\nVan a traela. / Van a traeli un café.\nEsta herba hai que segalo. / Empenzó a dali güelta a la herba..\nVamos a dejalos / Vamos a dejalis el corréu nel buzón\nHai que dibujalas / Hai que dibujalis un planu de la casa.\nSabi ponese nel sitiu / Sabi ponesi la ropa.\n\nDistinción entre “SE”\nSE direutu --- SE\nSE indireutu --- SI\nSE impersonal --- SI\nSÉ --- SÉ",
+          "theory": "La enclisis consiste en poner un pronombre después de un verbo\n\nMe dijo --- Díjome\nMe trajo --- Tríjome\nSe trae --- Traise\n\nSi al formar la enclisis la palabra requiere de una tilde para no perder su tónica original, es obligatorio ponerla\n\n-Me dijo – Dijome (El verbo no lleva tilde, pero su nueva tónica en “di” la hace esdrújula) -- Díjome\n-Se metió -- MItiose (El verbo tiene tilde, la cual se mantiene) -- Mitióse\n-Se requiere – Riquiersi /Riquier es aguda acabada en R, sin tilde, con la enclisis se convierte en llana acabada en vocal, por lo que permanece sin tilde).\n\nLas enclisis se usan sobre todo al inicio de las oraciones. Son libres de uso para cuando suene bien.\n\nA los verbos con pronombres, se les quita la “r”\nVerte --- Vete\nCogerlo --- Cogelo\nDarte --- Date\n\nPRONOMBRES - Si un pronombre es complemento indirecto se cierra (Me-Mi, Te-Ti), pero si es complemento directo NO se cierra. Consejo: Si tienes dudas añade un \"lo\": Me dio el libro -- Me LO dio (\"Me\" indirecto - Mi) // Me caí por allí -- Me LO caí (Sin sentido sintáctico, \"Me\" directo - Me)\nComplementu direutu | Complementu indireutu\nsing. 1ª pres. me | mi\nsing. 2ª pres. te | ti\nsing. 3ª pres. lu, la, lo | li\npl. 1ª pres. nos/mos | nos/mos\npl. 2ª pres. vos | vos\npl. 3ª pres. los, les | lis\nReflesivu se | si\n\nComplementu direutu / Complementu indireutu\nVino a dame. / Vino a dami las llavis.\nQuier vete. / Quier veti la cara.\nPasó a recogelu. / Pasó a recogeli las cosas.\nVan a traela. / Van a traeli un café.\nEsta herba hai que segalo. / Empenzó a dali güelta a la herba..\nVamos a dejalos / Vamos a dejalis el corréu nel buzón\nHai que dibujalas / Hai que dibujalis un planu de la casa.\nSabi ponese nel sitiu / Sabi ponesi la ropa.\n\nDistinción entre “SE”\nSE direutu --- SE\nSE indireutu --- SI\nSE impersonal --- SI\nSÉ --- SÉ",
           "examples": [],
           "exercises": [
             {
@@ -1365,7 +1365,7 @@
         {
           "id": "b3-l4",
           "title": "REPASO",
-          "theory": "Ahora vamos con unas traducciones de repaso general de los tres bloques.",
+          "theory": "Ahora vamos con unas traducciones de repaso general de los tres bloques. Para facilitar la traducción, en caso de duda añade \"lo\". Si encaja estás ante un CI, si no, es un CD. Ejemplo: Me dio el libro - Me lo dio --- \"Me\" es CI porque el CD es libro, se cierra a \"Mi\".",
           "examples": [],
           "exercises": [
             {
@@ -1389,7 +1389,7 @@
             {
               "id": "b3-l4-ex4",
               "question": "Traduce: Te dio el dinero, ¿Le diste las gracias?",
-              "expectedAnswer": "Te dio'l dineru, ¿Li disti las gracias?",
+              "expectedAnswer": "Ti dio'l dineru, ¿Li disti las gracias?",
               "explanation": ""
             },
             {
@@ -1431,7 +1431,7 @@
             {
               "id": "b3-l4-ex11",
               "question": "Traduce: Me dijo que no viene (Con enclisis)",
-              "expectedAnswer": "Díjome que nu vien",
+              "expectedAnswer": "Díjomi que nu vien",
               "explanation": ""
             },
             {
@@ -1539,7 +1539,7 @@
             {
               "id": "b3-l4-ex29",
               "question": "Traduce: Estuvo en la celebración",
-              "expectedAnswer": "Istuvo ena cilibración",
+              "expectedAnswer": "Istuvu ena cilibración",
               "explanation": ""
             },
             {
@@ -1595,7 +1595,7 @@
         {
           "id": "b5-l1",
           "title": "LECCIÓN 1 ---- PALATALIZACIÓN",
-          "theory": "A veces, cuando hay una “n” con una “i”, si palataliza en “ñ”\n\nNieve -- Ñevi\nNidal -- Ñial",
+          "theory": "A veces, cuando hay una “n” con una “i”, se palataliza en “ñ”\n\nNieve -- Ñevi\nNidal -- Ñial",
           "examples": [],
           "exercises": []
         },
@@ -1616,7 +1616,7 @@
         {
           "id": "b5-l4",
           "title": "LECCIÓN 4 -------- APÓSTROFE “DE”",
-          "theory": "A veces, de forma más vulgar, si puede poner “El cosu' la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.",
+          "theory": "A veces, de forma más vulgar, se puede poner “El cosu' la puerta” en vez de “El cosu de la puerta”. Poniendo un apóstrofe en vez de “de”.",
           "examples": [],
           "exercises": []
         }

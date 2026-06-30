@@ -58,7 +58,7 @@ W /w/
 
 Y como consonante /ʝ/; como vocal  /i/ 
 
-Z /θ/ en España 
+Z /θ/ 
 
 Ä /æ/ (Sonido intermedio entre A-E) 
 
