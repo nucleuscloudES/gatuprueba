@@ -165,7 +165,7 @@
         {
           "id": "b1-l3",
           "title": "LECCIÓN 3 ----- “D” FINAL E INTERVOCÁLICA",
-          "theory": "Todas las D finales se eliminan y se pone tilde en la última letra. En los imperativos no se quita la D\n\nEjemplos:\nVerdad -- Verdá\nVelocidad -- Velocidá\nMadrid -- Madrí\nParad – Parad (Imperativo)\n\nLas “D” intervocálicas también se eliminan. En caso de quedar doble “a” se suelen dejar tal cual (\"aa\"). También se puede ver con tilde pero nosotros no la pondremos.\nEn caso de quedar “eu” se pone tilde, “éu”\n\nEjemplos:\nNacido -- Nacíu\nPatada -- Pataa\nTodo – Tou\n\nSolo se aplica en las últimas sílabas\n\nEjemplos\nEnredadera – Enredaera (Solo se quita la última D)\nAdobado -- Adobáu (Solo se quita la última D)\nAdicional – Adicional (La D intervocálica está en las primeras sílabas)\nHay excepciones como: vida, hedor...\n\n(Para no lleva D pero se escribe “pa”, al ser una palabra común la empezaremos a usar ahora)",
+          "theory": "Todas las D finales se eliminan y se pone tilde en la última letra. En los imperativos la “D” se cambia por “I”, poniendo tilde siempre salvo en caso de quedar doble “I” \n\nEjemplos:\nVerdad -- Verdá\nVelocidad -- Velocidá\nMadrid -- Madrí\nParad – Parái (Imperativo)\n\nLas “D” intervocálicas también se eliminan. En caso de quedar doble “a” se suelen dejar tal cual (\"aa\"). También se puede ver con tilde pero nosotros no la pondremos.\nEn caso de quedar “eu” se pone tilde, “éu”\n\nEjemplos:\nNacido -- Nacíu\nPatada -- Pataa\nTodo – Tou\n\nSolo se aplica en las últimas sílabas\n\nEjemplos\nEnredadera – Enredaera (Solo se quita la última D)\nAdobado -- Adobáu (Solo se quita la última D)\nAdicional – Adicional (La D intervocálica está en las primeras sílabas)\nHay excepciones como: vida, hedor...\n\n(Para no lleva D pero se escribe “pa”, al ser una palabra común la empezaremos a usar ahora)",
           "examples": [],
           "exercises": [
             {
@@ -177,7 +177,7 @@
             {
               "id": "b1-l3-ex2",
               "question": "Traduce “Bajad a Madrid”",
-              "expectedAnswer": "Bajad a Madrí",
+              "expectedAnswer": "Bajái a Madrí",
               "explanation": ""
             },
             {
@@ -208,8 +208,8 @@
             {
               "id": "b1-l3-ex6",
               "question": "Traduce “Subid”",
-              "expectedAnswer": "Subid",
-              "explanation": "Recuerda que es un imperativo"
+              "expectedAnswer": "Subii",
+              "explanation": "Recuerda que es un imperativo con doble “I”"
             },
             {
               "id": "b1-l3-ex7",
@@ -1056,7 +1056,7 @@
         {
           "id": "b3-l1",
           "title": "Lección 1---- Cierre vocálico",
-          "theory": "En cántabro existen 3 tipos de cierre vocálico. El TÓNICO, el POST-TÓNICO y el PRETÓNICO. En el cántabro estándar se usa solo el PRETÓNICO. Los otros dos estarán disponibles futuramente en la extensión de dialectos.\n\nEl cierre vocálico funciona de la siguiente manera:\nCuando la SÍLABA TÓNICA tiene una vocal cerrada (i, u), todas las “o” y “e” se cierran a “u” e “i” hasta la propia tónica o hasta que haya una “a”.\n\nEjemplos:\nPodría --- Tónica en “ní”, polo que “o” --> “u” --- Pudría\nFemenino --- Tónica en “ni” polo que “e” --> “i” --- Fimininu\nMenú --- Tónica en “ú” polo que “e” --> “i” --- Minú\n\nTambién se aplica el cierre cuando la tónica es uno de los siguientes diptongos:\n“io” “ue” “ie”\n\nEjemplos:\nSesión --- Tónica en “ió” polo que “e” --> “i” --- Sisión\nTeruel --- Tónica en “ue” polo que “e” --> “i” --- Tiruel\nComienzo -- Tónica en “ie” polo que “o” --> “u” --- Cumienzu",
+          "theory": "En cántabro existen 3 tipos de cierre vocálico. El TÓNICO, el POST-TÓNICO y el PRETÓNICO. En el cántabro estándar se usa solo el PRETÓNICO. Los otros dos estarán disponibles futuramente en la extensión de dialectos.\n\nEl cierre vocálico funciona de la siguiente manera:\nCuando la SÍLABA TÓNICA tiene una vocal cerrada (i, u), todas las “o” y “e” se cierran a “u” e “i” hasta la propia tónica. En caso de haber una “a” se cerrarán las vocales posteriores. Siendo “Pescadiría” y no “Piscadería” ni “Piscadiría” .\n\nEjemplos:\nPodría --- Tónica en “ní”, polo que “o” --> “u” --- Pudría\nFemenino --- Tónica en “ni” polo que “e” --> “i” --- Fimininu\nMenú --- Tónica en “ú” polo que “e” --> “i” --- Minú\n\nTambién se aplica el cierre cuando la tónica es uno de los siguientes diptongos:\n“io” “ue” “ie”\n\nEjemplos:\nSesión --- Tónica en “ió” polo que “e” --> “i” --- Sisión\nTeruel --- Tónica en “ue” polo que “e” --> “i” --- Tiruel\nComienzo -- Tónica en “ie” polo que “o” --> “u” --- Cumienzu",
           "examples": [],
           "exercises": [
             {
@@ -1110,8 +1110,8 @@
             {
               "id": "b3-l1-ex9",
               "question": "Traduce: Insolación",
-              "expectedAnswer": "Insulación",
-              "explanation": ""
+              "expectedAnswer": "Insolación",
+              "explanation": "Las vocales antes de la A no se cierran"
             },
             {
               "id": "b3-l1-ex10",
@@ -1508,8 +1508,8 @@
             },
             {
               "id": "b3-l4-ex24",
-              "question": "Traduce: Me dio el menú después de media hora",
-              "expectedAnswer": "Mi dio'l minú dispués de media hora",
+              "question": "Traduce: Me dio el menú a la media hora",
+              "expectedAnswer": "Mi dio'l minú a la media hora",
               "explanation": ""
             },
             {
