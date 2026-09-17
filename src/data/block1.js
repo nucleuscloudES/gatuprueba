@@ -95,13 +95,13 @@ Los verbos acabados en “te”, “se”, “me” y “le” pueden acabar de 
         {
             id: "b1-l3",
             title: "LECCIÓN 3 ----- “D” FINAL E INTERVOCÁLICA",
-            theory: `Todas las D finales se eliminan y se pone tilde en la última letra. En los imperativos no se quita la D
+            theory: `Todas las D finales se eliminan y se pone tilde en la última letra. En los imperativos se cambia la D por I, poniendo tilde salvo cuando queda doble I.
 
 Ejemplos:
 Verdad -- Verdá
 Velocidad -- Velocidá
 Madrid -- Madrí
-Parad – Parad (Imperativo)
+Parad – Parái (Imperativo)
 
 Las “D” intervocálicas también se eliminan. En caso de quedar doble “a” se suelen dejar tal cual ("aa"). También se puede ver con tilde pero nosotros no la pondremos.
 En caso de quedar “eu” se pone tilde, “éu”
@@ -123,7 +123,7 @@ Hay excepciones como: vida, hedor...
             examples: [],
             exercises: [
                 { id: "b1-l3-ex1", question: 'Traduce “Manada”', expectedAnswer: "Manaa", explanation: "" },
-                { id: "b1-l3-ex2", question: 'Traduce “Bajad a Madrid”', expectedAnswer: "Bajad a Madrí", explanation: "" },
+                { id: "b1-l3-ex2", question: 'Traduce “Bajad a Madrid”', expectedAnswer: "Bajái a Madrí", explanation: "" },
                 { id: "b1-l3-ex3", question: 'Traduce “El pasado español es grandioso. Ese poder era inmenso”', expectedAnswer: "El pasáu español es grandiosu. Esi poer era inmensu", explanation: "" },
                 {
                     id: "b1-l3-ex4",
@@ -139,7 +139,7 @@ Hay excepciones como: vida, hedor...
                     explanation: ""
                 },
                 { id: "b1-l3-ex5", question: 'Traduce “Enamorado”', expectedAnswer: "Enamoráu", explanation: "" },
-                { id: "b1-l3-ex6", question: 'Traduce “Subid”', expectedAnswer: "Subid", explanation: "Recuerda que es un imperativo" },
+                { id: "b1-l3-ex6", question: 'Traduce “Subid”', expectedAnswer: "Subii", explanation: "Recuerda que es un imperativo acabado en doble I" },
                 { id: "b1-l3-ex7", question: 'Traduce “Atrapado por maldad”', expectedAnswer: "Atrapáu por maldá", explanation: "" }
             ]
         },

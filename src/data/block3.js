@@ -9,7 +9,7 @@ export const block3 = {
             theory: `En cántabro existen 3 tipos de cierre vocálico. El TÓNICO, el POST-TÓNICO y el PRETÓNICO. En el cántabro estándar se usa solo el PRETÓNICO. Los otros dos estarán disponibles futuramente en la extensión de dialectos.
 
 El cierre vocálico funciona de la siguiente manera:
-Cuando la SÍLABA TÓNICA tiene una vocal cerrada (i, u), todas las “o” y “e” se cierran a “u” e “i” hasta la propia tónica o hasta que haya una “a”.
+Cuando la SÍLABA TÓNICA tiene una vocal cerrada (i, u), todas las “o” y “e” se cierran a “u” e “i” hasta la propia tónica. En caso de haber una A, se cierran las posteriores, “Pescadiría” y no “Piscadiría” o “Piscadería”.
 
 Ejemplos:
 Podría --- Tónica en “ní”, polo que “o” --> “u” --- Pudría
@@ -33,7 +33,7 @@ Comienzo -- Tónica en “ie” polo que “o” --> “u” --- Cumienzu`,
                 { id: "b3-l1-ex6", question: 'Traduce: Tercio', expectedAnswer: "Terciu", explanation: "¡¡La vocal tónica es una E!!" },
                 { id: "b3-l1-ex7", question: 'Traduce: Comí', expectedAnswer: "Cumí", explanation: "" },
                 { id: "b3-l1-ex8", question: 'Traduce: Cementerio', expectedAnswer: "Cementeriu", explanation: "¡¡La vocal tónica es una E!!" },
-                { id: "b3-l1-ex9", question: 'Traduce: Insolación', expectedAnswer: "Insulación", explanation: "" },
+                { id: "b3-l1-ex9", question: 'Traduce: Insolación', expectedAnswer: "Insolación", explanation: "Las vocales anteriores a la A no se cierran" },
                 { id: "b3-l1-ex10", question: 'Traduce: Bebí', expectedAnswer: "Bibí", explanation: "" },
                 { id: "b3-l1-ex11", question: 'Traduce: Bebía', expectedAnswer: "Bibía", explanation: "Bibía = Verbo /// Bibida = Sustantivo" },
                 { id: "b3-l1-ex12", question: 'Traduce: Comía', expectedAnswer: "Cumía", explanation: "Cumía = Verbo /// Cumida = Sustantivo" },
@@ -202,7 +202,7 @@ SÉ --- SÉ`,
                 { id: "b3-l4-ex21", question: 'Traduce: Me dio la sopa fría, no se lo perdonaré', expectedAnswer: "Mi dio la sopa fríu, nu si lu perdonaré", explanation: "" },
                 { id: "b3-l4-ex22", question: 'Traduce: Ese caldo es muy malo, aun así no lo tiraré', expectedAnswer: "Esi caldu es mui malu, aun así nu lo tiraré", explanation: "" },
                 { id: "b3-l4-ex23", question: 'Traduce: Empieza por el principio', expectedAnswer: "Impieza pol principiu", explanation: "" },
-                { id: "b3-l4-ex24", question: 'Traduce: Me dio el menú después de media hora', expectedAnswer: "Mi dio'l minú dispués de media hora", explanation: "" },
+                { id: "b3-l4-ex24", question: 'Traduce: Me dio el menú a la media hora', expectedAnswer: "Mi dio'l minú a la media hora", explanation: "" },
                 { id: "b3-l4-ex25", question: 'Traduce: Te traigo ropa limpia (Enclisis)', expectedAnswer: "Tráigoti ropa limpiu", explanation: "" },
                 { id: "b3-l4-ex26", question: 'Traduce: Me dio un golpe', expectedAnswer: "Mi dio un golpi", explanation: "" },
                 { id: "b3-l4-ex27", question: 'Traduce: La avenida del este es muy ancha', expectedAnswer: "L'avinía del esti es mui ancha", explanation: "" },
