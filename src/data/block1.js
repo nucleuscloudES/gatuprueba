@@ -95,7 +95,7 @@ Los verbos acabados en “te”, “se”, “me” y “le” pueden acabar de 
         {
             id: "b1-l3",
             title: "LECCIÓN 3 ----- “D” FINAL E INTERVOCÁLICA",
-            theory: `Todas las D finales se eliminan y se pone tilde en la última letra. En los imperativos se cambia la D por I, poniendo tilde salvo cuando queda doble I.
+            theory: `Todas las D finales se eliminan y se pone tilde en la última letra. En los imperativos se cambia la D por I, poniendo tilde siempre.
 
 Ejemplos:
 Verdad -- Verdá
@@ -139,7 +139,7 @@ Hay excepciones como: vida, hedor...
                     explanation: ""
                 },
                 { id: "b1-l3-ex5", question: 'Traduce “Enamorado”', expectedAnswer: "Enamoráu", explanation: "" },
-                { id: "b1-l3-ex6", question: 'Traduce “Subid”', expectedAnswer: "Subii", explanation: "Recuerda que es un imperativo acabado en doble I" },
+                { id: "b1-l3-ex6", question: 'Traduce “Subid”', expectedAnswer: "Subíi", explanation: "Recuerda que es un imperativo" },
                 { id: "b1-l3-ex7", question: 'Traduce “Atrapado por maldad”', expectedAnswer: "Atrapáu por maldá", explanation: "" }
             ]
         },
